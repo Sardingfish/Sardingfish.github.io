@@ -32,10 +32,17 @@ type: page
 
   上海天文台GNSS分析中心
 
+- [iGMAS Analysis Center of Shanghai Astronomical Observatory, Chinese Academy of Sciences](http://112.65.161.230/Eng-index.html)
+
+  中科院上海天文台iGMAS分析中心
+
+
+
 
 ## 资源下载
 
 - [IGS Products](https://kb.igs.org/hc/en-us/articles/115003935351)
+- 武汉大学IGS实时数据流：[http://ntrip.gnsslab.cn/home](http://ntrip.gnsslab.cn/home)
 
 
 
@@ -45,8 +52,9 @@ type: page
 
   GNSS日历及实用程序
 
-- [GAMIT/GLOBK](GAMIT/GLOBK)
+- [BNC客户端](https://igs.bkg.bund.de/ntrip/download)
 
+- [GAMIT/GLOBK](GAMIT/GLOBK)
 - [Bernese GNSS Software](http://www.bernese.unibe.ch/)
 - [RTKLIB: An Open Source Program Package for GNSS Positioning](http://www.rtklib.com/)
 
