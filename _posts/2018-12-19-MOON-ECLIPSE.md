@@ -312,7 +312,3 @@ this project：[https://github.com/Sardingfish/MOON_ECLIPSE](https://github.com/
 SOFA：[http://www.iausofa.org/index.html](http://www.iausofa.org/index.html)
 
 DE/LE EPHEMERIS：[ftp://ssd.jpl.nasa.gov](ftp://ssd.jpl.nasa.gov)
-
-## License
-
-This project is licensed under the terms of the [MIT license](https://github.com/Sardingfish/MOON_ECLIPSE/blob/add-license-1/LICENSE).
