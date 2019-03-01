@@ -2,7 +2,7 @@
 layout: post
 title:  "MOON ECLIPSE"
 date:   2018-12-19
-categories: GitHub Program
+categories: GitHubProgram
 tags: Program
 author: Jason Ding
 ---
