@@ -10,7 +10,7 @@ type: page
 
 ## 关于我
 
-
+[](https://github.com/Sardingfish/Sardingfish.github.io/blob/master/favicon.ico)
 
 
 
