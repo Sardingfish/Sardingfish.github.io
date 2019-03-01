@@ -17,11 +17,11 @@ type: page
 ## 联系我
 
 * GitHub：[Sardingfish](https://github.com/Sardingfish)
-* email：760837268@qq.com
-* [Weibo]()
-* [知乎]()
+* Email：760837268@qq.com
 * [Facebook]()
-* [Twitter]()
+* [Linkin]()
+
+
 
 ## 关于本站
 
