@@ -43,7 +43,7 @@ type: page
 
 - [IGS Products](https://kb.igs.org/hc/en-us/articles/115003935351)
 - 武汉大学IGS实时数据流：[http://ntrip.gnsslab.cn/home](http://ntrip.gnsslab.cn/home)
--  武汉大学IGS数据中心：http://www.igs.gnsswhu.cn/
+-  武汉大学IGS数据中心：[http://www.igs.gnsswhu.cn](http://www.igs.gnsswhu.cn)
 
 
 
