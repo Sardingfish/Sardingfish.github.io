@@ -12,6 +12,8 @@ type: page
 
 - [北斗开放实验室](http://www.gnssopenlab.org)
 
+- [中国卫星导航年会](http://www.beidou.org/)
+
 - [INTERNATIONAL GNSS SERVICE](http://www.igs.org/)
 
   国际GNSS服务
