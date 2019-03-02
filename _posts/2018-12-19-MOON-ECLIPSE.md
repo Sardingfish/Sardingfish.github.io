@@ -8,7 +8,7 @@ tags: Program
 
 
 
-![](https://github.com/Sardingfish/Sardingfish.github.io/blob/master/image/2018-12-19-MOON-ECLIPSE/Logo.png)
+![](https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/2018-12-19-MOON-ECLIPSE/Logo.png)
 --- 
 
 The purpose of the program is to compute the initial eclipse time of the first lunar eclipse in 2019, when the moon just entered the umbra, based on the [DE421](https://ipnpr.jpl.nasa.gov/progress_report/42-178/178C.pdf) and [SOFA](http://www.iausofa.org/index.html).
@@ -58,17 +58,17 @@ $ ./MOON_C.exe
 
 1. The figure below shows the spatial relationship between the earth, the moon and the sun before the eclipse,
 
-![](https://github.com/Sardingfish/Sardingfish.github.io/blob/master/image/2018-12-19-MOON-ECLIPSE/orige.png)
+![](https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/2018-12-19-MOON-ECLIPSE/orige.png)
 
 <p align = "center">Figure 1. Schematic diagram of the spatial relationship between the earth, the moon and the sun at the time before the eclipse</p>
 
-  Where S, E and M are the sun, the earth and the moon; O is the earth's umbra cone; ∠EOM is the Angle between the vectors EO and MO; ∠OE and ∠OM are the angular radii of the earth and moon relative to the shadow cone, respectively. When an eclipse occurs, ∠EOM is equal to ∠OE plus ∠OM.
+Where S, E and M are the sun, the earth and the moon; O is the earth's umbra cone; ∠EOM is the Angle between the vectors EO and MO; ∠OE and ∠OM are the angular radii of the earth and moon relative to the shadow cone, respectively. When an eclipse occurs, ∠EOM is equal to ∠OE plus ∠OM.
 
 
 
 2. Since it takes time for the sun's rays to leave the sun and pass through the earth to form a shadow cone, it is necessary to calculate the light travel time. The figure below is a schematic diagram for calculating the light line.
 
-![image](https://github.com/Sardingfish/Sardingfish.github.io/blob/master/image/2018-12-19-MOON-ECLIPSE/lighttime.png)
+![image](https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/2018-12-19-MOON-ECLIPSE/lighttime.png)
 
 <p align = "center">Figure 2. Iteratively solve for light travel time</p>
 
@@ -86,7 +86,7 @@ $ ./MOON_C.exe
 
 3. Strategies used to speed up the computation process
 
-![image](https://github.com/Sardingfish/Sardingfish.github.io/blob/master/image/2018-12-19-MOON-ECLIPSE/mostlikelyday.png)
+![image](https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/2018-12-19-MOON-ECLIPSE/mostlikelyday.png)
 
 <p align = "center">Figure 3. Locate the most likely day</p>
 
@@ -96,9 +96,11 @@ $ ./MOON_C.exe
 
   -- After locating the most likely time, You can continue to approach the eclipse at smaller intervals, such as half a day.
 
+
+
 4. The procedure flow is as follows:
 
-   ![](https://github.com/Sardingfish/Sardingfish.github.io/blob/master/image/2018-12-19-MOON-ECLIPSE/FLOW2.png)
+   ![](https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/2018-12-19-MOON-ECLIPSE/FLOW2.png)
 
    <p align = "center">Figure 4. The flow chart</p>
 
@@ -124,7 +126,7 @@ $ ./MOON_C.exe
 
 >Source of the image:[https://www.timeanddate.com/eclipse/lunar/2019-january-21](https://www.timeanddate.com/eclipse/lunar/2019-january-21)
 
-![](https://github.com/Sardingfish/Sardingfish.github.io/blob/master/image/2018-12-19-MOON-ECLIPSE/reference.png)
+![](https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/2018-12-19-MOON-ECLIPSE/reference.png)
 
 <p align = "center">Figure 5. Reference time</p>
 
@@ -133,7 +135,7 @@ $ ./MOON_C.exe
 
 6. The following is the result of running the program,it is in good agreement with Figure 5.
 
-![](https://github.com/Sardingfish/Sardingfish.github.io/blob/master/image/2018-12-19-MOON-ECLIPSE/result.png)
+![](https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/2018-12-19-MOON-ECLIPSE/result.png)
 <p align = "center">Figure 6. The result of the program</p>
 
 
