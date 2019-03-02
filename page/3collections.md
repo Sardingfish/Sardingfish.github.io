@@ -49,7 +49,7 @@ type: page
 
 ## 社区讨论
 
-[GNSS+Community](http://gnsscommunity.com/forum.php)
+- [GNSS+Community](http://gnsscommunity.com/forum.php)
 
 
 
