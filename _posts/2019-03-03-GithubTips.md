@@ -7,7 +7,7 @@ tags: Github
 auther: Jason Ding
 ---
 
-1. Dynamically demonstrate the code modification process
+1. **Dynamically demonstrate the code modification process**
 
    Open the github code page and change the URL from
 
@@ -20,6 +20,8 @@ auther: Jason Ding
    ```
    ...github-history.netlify.com...
    ```
+
+   **Video Demo**
 
    <video src="https://zhihuxiazai.com/storage/downloader/videos/1077934316742447104/hd.mp4?attname=1077934316742447104.hd.mp4" width="750" height="360"
    controls="controls"></video> 
