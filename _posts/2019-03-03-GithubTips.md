@@ -28,3 +28,18 @@ auther: Jason Ding
 
    *Video comes from Zhihu users:https://www.zhihu.com/question/42917600/answer/593848187
 
+
+
+2. **Github Emoji Cheat Sheet**
+
+   website：[https://www.webfx.com/tools/emoji-cheat-sheet/](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+   ![](https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/Others/Emoji.png)
+
+
+3. **Making github badge**
+
+   website：[https://shields.io/#/](https://shields.io/#/)
+
+   ![](https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/Others/badge.png)
+
