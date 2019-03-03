@@ -12,13 +12,13 @@ auther: Jason Ding
    Open the github code page and change the URL from
 
    ```
-   ...github.com...
+   https//github.com/...
    ```
 
    to
 
    ```
-   ...github-history.netlify.com...
+   https//github-history.netlify.com/...
    ```
 
    **Video Demo**
