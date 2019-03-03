@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GithubTips"
-date:   2019-03-01
+date:   2019-03-03
 categories: Tips
 tags: Github
 auther: Jason Ding
