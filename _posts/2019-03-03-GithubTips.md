@@ -23,8 +23,7 @@ auther: Jason Ding
    ...github-history.netlify.com...
    ```
 
-   <video src="https://zhihuxiazai.com/storage/downloader/videos/1077934316742447104/hd.mp4?attname=1077934316742447104.hd.mp4" width="820" height="480"
+   <video src="https://zhihuxiazai.com/storage/downloader/videos/1077934316742447104/hd.mp4?attname=1077934316742447104.hd.mp4" width="780" height="480"
    controls="controls"></video> 
-
    *视频来源于知乎用户https://www.zhihu.com/question/42917600/answer/593848187
 
