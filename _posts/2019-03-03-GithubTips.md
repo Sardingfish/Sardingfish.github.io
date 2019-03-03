@@ -7,17 +7,15 @@ tags: Github
 auther: Jason Ding
 ---
 
+1. Dynamically demonstrate the code modification process
 
-
-1. 动态展示代码修改过程
-
-   打开github代码页面，将网址由
+   Open the github code page and change the URL from
 
    ```
    ...github.com...
    ```
 
-   修改为：
+   to
 
    ```
    ...github-history.netlify.com...
@@ -25,5 +23,6 @@ auther: Jason Ding
 
    <video src="https://zhihuxiazai.com/storage/downloader/videos/1077934316742447104/hd.mp4?attname=1077934316742447104.hd.mp4" width="750" height="360"
    controls="controls"></video> 
-   *视频来源于知乎用户https://www.zhihu.com/question/42917600/answer/593848187
+
+   *Video comes from Zhihu users:https://www.zhihu.com/question/42917600/answer/593848187
 
