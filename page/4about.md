@@ -8,13 +8,19 @@ type: page
 
 
 
-## 关于我
+## 
 
-[](https://github.com/Sardingfish/Sardingfish.github.io/blob/master/favicon.ico)
+### About Me
+
+---
+
+Jason Ding  M.Sc student, SHAO
+
+Shanghai Astronomical Observatory (SHAO), Chinese Academy of Sciences
 
 
 
-## 联系我
+### Contact information
 
 * GitHub：[Sardingfish](https://github.com/Sardingfish)
 * Email：760837268@qq.com
@@ -23,10 +29,10 @@ type: page
 
 
 
-## 关于本站
+### About this site
 
-**若您想使用这个 jekyll 博客主题，请访问：[https://github.com/Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
+If you would like to use this jekyll blog theme, please visit：[https://github.com/Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io)
 
-~欢迎使用~
+
 
 
