@@ -10,35 +10,23 @@ auther: Jason Ding
 
 **SCI**
 
-*Journal of Geodesy*
-
-Solid Earth
-
-*Geophysical Journal International*
-
-*Advances in Space Research*
-
-*GPS Solutions*
-
-*Sensors*
-
-*Chinese Science Bulletin*
-
-*Science China Earth Sciences*
-
-*Chinese Journal of Geophysics*
-
-*Terrestrial, Atmospheric and Oceanic Sciences*
-
-*Earth, planets and space*
-
-*ISPRS Journal of Photogrammetry and Remote Sensing*
-
-*Journal of Geophysical Research-Space Physics*
-
-*Journal of Geophysical Research-Solid Earth*
-
-*Geophysical Journal International* 
+| Journal                                              | IF（2017） | IF（5 year） | JCR分区 |
+| ---------------------------------------------------- | ---------- | ------------ | ------- |
+| *Journal of Geodesy*                                 | 4.633      | 4.409        | Q1      |
+| Solid Earth                                          | 4.165      | 4.075        | Q1      |
+| *Geophysical Journal International*                  | 2.528      | 2.777        | Q2      |
+| *Advances in Space Research*                         | 1.529      | 1.55         | Q3      |
+| *GPS Solutions*                                      | 4.727      | 4.767        | Q1      |
+| *Sensors*                                            | 2.475      | 3.014        | Q2/Q3   |
+| *Chinese Science Bulletin*                           | 1.649      | 1.738        | Q2      |
+| *Science China Earth Sciences*                       | 2.058      | 2.2          | Q2      |
+| *Chinese Journal of Geophysics*                      | 0.88       | 0.996        | Q4      |
+| *Terrestrial, Atmospheric and Oceanic Sciences*      | 0.543      | 0.61         | Q4      |
+| *Earth, planets and space*                           | 2.773      | 2.288        | Q2      |
+| *ISPRS Journal of Photogrammetry and Remote Sensing* | 5.994      | 6.592        | Q1      |
+| *Journal of Geophysical Research-Space Physics*      | 3.318      | 3.651        | Q1      |
+| *Journal of Geophysical Research-Solid Earth*        | 3.482      | 4.101        | Q1      |
+| *Geophysical Journal International*                  | 2.528      | 2.777        | Q2      |
 
 
 
