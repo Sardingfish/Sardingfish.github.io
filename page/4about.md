@@ -8,8 +8,6 @@ type: page
 
 
 
-## 
-
 ### About Me
 
 ---
