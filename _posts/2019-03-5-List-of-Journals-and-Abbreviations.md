@@ -7,7 +7,7 @@ tags: Journals
 auther: Jason Ding
 ---
 
-### Journals
+### Journals related to surveying and mapping
 
 #### SCI
 
@@ -44,7 +44,7 @@ auther: Jason Ding
 
 
 
-### Abbreviations
+### List of Abbreviations
 
 | Abbreviations | Meaning                                                      | Chinese meaning        |
 | ------------- | ------------------------------------------------------------ | ---------------------- |
