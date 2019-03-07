@@ -11,7 +11,7 @@ The following is a list of top journals and professional abbreviations for the i
 
 **Journals related to surveying and mapping**
 
-- SCI
+- **SCI**
 
 | Journal                                              | IF（2017） | IF（5 year） | JCR分区 |
 | ---------------------------------------------------- | ---------- | ------------ | ------- |
@@ -37,7 +37,7 @@ The following is a list of top journals and professional abbreviations for the i
 | *Chinese Journal of Geophysics*                      | 0.88       | 0.996        | Q4      |
 | *Terrestrial, Atmospheric and Oceanic Sciences*      | 0.543      | 0.61         | Q4      |
 
-- EI
+- **EI**
 
 | 期刊                                                         | 复合影响因子 | 综合影响因子 |
 | ------------------------------------------------------------ | ------------ | ------------ |
