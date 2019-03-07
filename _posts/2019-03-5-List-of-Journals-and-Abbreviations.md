@@ -44,7 +44,9 @@ The following is a list of top journals and professional abbreviations for the i
 | *测绘学报*（Journal of Geodesy and Geoinformation Science，JGGS） | 2.882        | 2.237        |
 | *武汉大学学报(信息科学版)*                                   | 1.705        | 1.168        |
 
-​										
+---
+
+​							
 
 **List of Abbreviations**
 
