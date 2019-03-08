@@ -23,7 +23,7 @@ The following is a list of top journals and professional abbreviations for the i
   | *[Journal of Geophysical Research-Space Physics](https://agupubs.onlinelibrary.wiley.com/journal/21562202)* | 3.318      | 3.651        | Q1      |
   | *[Sensors](https://www.mdpi.com/journal/sensors)*            | 2.475      | 3.014        | Q2/Q3   |
   | *[Geophysical Journal International](https://academic.oup.com/gji)* | 2.528      | 2.777        | Q2      |
-  | *Journal of Geodynamics*                                     | 2.142      | 2.418        | Q2      |
+  | *[Journal of Geodynamics](https://www.journals.elsevier.com/journal-of-geodynamics)* | 2.142      | 2.418        | Q2      |
   | *[Earth, planets and space](https://earth-planets-space.springeropen.com/)* | 2.773      | 2.288        | Q2      |
   | *[Science China Earth Sciences](https://www.springer.com/earth+sciences+and+geography/journal/11430)* | 2.058      | 2.2          | Q2      |
   | *[Journal of Navigation](https://www.cambridge.org/core/journals/journal-of-navigation)* | 1.58       | 1.891        | Q2/Q3   |
