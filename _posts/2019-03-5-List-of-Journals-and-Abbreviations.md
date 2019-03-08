@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "List of Journals and Abbreviations"
-date:   2019-03-5
+date:   2019-03-08
 categories: Tool
 tags: Journals
 author: Jason Ding
 ---
 
-The following is a list of top journals and professional abbreviations for the industry, with the aim of making reference and preparation for future writing of journal articles and dissertations.(Latest update date:2019-3-7)
+The following is a list of top journals and professional abbreviations for the industry, with the aim of making reference and preparation for future writing of journal articles and dissertations.(Latest update date:2019-3-8)
 
 **Journals related to surveying and mapping**
 
@@ -50,57 +50,134 @@ The following is a list of top journals and professional abbreviations for the i
 
 **List of Abbreviations**
 
-| Abbreviations | Meaning                                                      | Chinese meaning        |
-| ------------- | ------------------------------------------------------------ | ---------------------- |
-| C/A           | Coarse/Acquisition Code                                      | C/A码                  |
-| CDDIS         | Crustal Dynamics Data Information System                     |                        |
-| CODE          | Centre of Orbit Determination in Europe                      |                        |
-| CORS          | Continuously Operating Reference Stations                    | 连续运行参考站         |
-| DCB           | Differential Code Biases                                     |                        |
-| DD            | Double Difference                                            |                        |
-| DF            | Dual-Frequency                                               | 双频                   |
-| Galileo       | the European Union Satellite Navigation System               | 欧盟卫星导航系统       |
-| GEO           | Satellites in Geostationary Orbit                            |                        |
-| GFZ           | Helmholtz -Centre Potsdam-GFZ German Research Centre for Geosciences |                        |
-| GIM           | Global Ionospheric Map                                       |                        |
-| GLONASS       | the Russian GLOBAL Navigation Satellite System               | 俄罗斯全球卫星导航系统 |
-| GLOT          | GLONASS Time                                                 |                        |
-| GNSS          | Global Navigation Satellite System                           | 全球卫星导航系统       |
-| GPS           | Global Positioning System                                    | 全球定位系统（GPS）    |
-| GPST          | GPS Time                                                     | GPS时间                |
-| IAR           | Integer Ambiguity Resolution                                 |                        |
-| IGR           | IGS Rapid Orbit                                              | IGS快速轨道            |
-| IGS           | International GNSS Service                                   | 国际GNSS服务           |
-| IGSO          | Inclined Geosynchronous Orbit                                |                        |
-| IGU           | IGS Ultra-Rapid Orbit                                        | IGS超快速轨道          |
-| IOV           | In-Orbit Validation                                          |                        |
-| IPP           | Ionospheric Pierce Point                                     |                        |
-| ITRF          | International Terrestrial Reference Frame                    |                        |
-| LC            | Ionosphere- Free Linear Combination                          |                        |
-| LEO           | Low Earth Orbit                                              |                        |
-| MEO           | Medium Altitude Earth Orbit                                  |                        |
-| MET           | Meteorology                                                  |                        |
-| NASA          | National Aeronautics and Space Administration                |                        |
-| NRTK          | Network- Based Real-Time Kinematic Positioning               |                        |
-| OMC           | Observation Minus Computation                                |                        |
-| PCO           | Phase Centre Offsets                                         |                        |
-| PCV           | Phase Centre Variation                                       |                        |
-| PNT           | Positioning, Navigation and Timing                           |                        |
-| PPP           | Precise Point Positioning                                    | 精密单点定位           |
-| PPP-RA        | Precise Point Positioning Regional Augmentation              |                        |
-| RMS           | Root Mean Square                                             |                        |
-| RTK           | Real-Time Kinematics                                         |                        |
-| SAPOS         | Satellite Positioning Service of the German State Survey     |                        |
-| SD            | Single Difference                                            |                        |
-| SP3           | IGS Standard Product 3                                       |                        |
-| SPS           | Standard Positioning Service                                 |                        |
-| STD           | Slant Total Delay                                            |                        |
-| UD            | Un- Differenced                                              |                        |
-| UPD           | Un-Calibrated Phase Delays                                   |                        |
-| UTC           | Coordinated Universal Time                                   |                        |
-| WL            | Widelane Combination                                         |                        |
-| WGS-84        | Word Geodetic System 1984                                    |                        |
-| ZHD           | Zenith Hydrostatic Delay                                     |                        |
-| ZTD           | Zenith Total Delay                                           |                        |
-| ZWD           | Zenith Wet Delay                                             |                        |
+- Administration/Agency/Association/Centre/Institute/Laboratory/Organization/Union
 
+  | Abbreviations | Meaning                                                      | Chinese meaning                     |
+  | ------------- | ------------------------------------------------------------ | ----------------------------------- |
+  | BKG           | Federal Bureau for Cartography and Geodesy                   | 联邦大地测量与制图局（德国）        |
+  | CODE          | Centre of Orbit Determination in Europe                      | 欧洲定轨中心（瑞士）                |
+  | DMA           | Defence Mapping Agency                                       | 国防制图局（美国）                  |
+  | ESA           | European Space Agency/Operation Center                       | 欧洲空间局（德国）                  |
+  | FAA           | Federal Aviation Administration                              | 联邦航空局（美国）                  |
+  | GFZ           | Helmholtz -Centre Potsdam-GFZ German Research Centre for Geosciences/GeoForschungsZentrum, Germany | 亥姆霍兹波茨坦中心/德国地学研究中心 |
+  | GSD           | Geodetic Survey of Canada                                    | 加拿大大地测量局                    |
+  | IAC           | Information and Analytical Navigation Center                 | 导航信息分析中心（俄罗斯）          |
+  | IAG           | International Association of Geodesy                         | 国际大地测量协会                    |
+  | IAU           | International Astronomical Union                             | 国际天文学联合会                    |
+  | IERS          | International Earth Rotation System                          | 国际地球自转服务组织                |
+  | IGN           | Institute Geographique National, France                      | 法国国家地理学会                    |
+  | IGS           | International GNSS Service                                   | 国际GNSS服务组织                    |
+  | ION           | Institute of Navigation                                      | 美国导航学会                        |
+  | JPL           | Jet Propulsion Laboratory                                    | 喷气动力实验室（美国）              |
+  | MCC           | Mission Centrol Center, Russia                               | 俄罗斯国防部                        |
+  | MIT           | Massachusetts Institute of Technology                        | 美国麻省理工学院                    |
+  | NASA          | National Aeronautics and Space Administration                | 航空航天局（美国）                  |
+  | NIMA          | National Imagery and Mapping Agency                          | 国家影像和制图局（美国）            |
+  | NRCan         | (EMR)National Resources Canada                               | 加拿大自然资源部                    |
+
+- Space and Time System
+
+  | Abbreviations | Meaning                                   | Chinese meaning        |
+  | ------------- | ----------------------------------------- | ---------------------- |
+  | AT            | Atomic Time                               | 原子时                 |
+  | CGCS2000      | China Geodesic Coordinate System 2000     | 2000中国国家大地坐标系 |
+  | CIO           | Conventional International Origin         | 国际协议原点           |
+  | Cs            | Cesium                                    | 铯                     |
+  | CTS           | Conventional Terrestrial System           | 协议地球坐标系         |
+  | DOY           | Day of Year                               | 年积日                 |
+  | GAST          | Greenwich Apparent Sidereal Time          | 格林尼治恒星时         |
+  | GLOT          | GLONASS Time                              | 格洛纳斯时间           |
+  | GPST          | GPS Time                                  | GPS时间                |
+  | IAT           | International Atomic Time                 | 国际原子时             |
+  | ITRF          | International Terrestrial Reference Frame | 国际地球参考框架       |
+  | JD            | Julian Day                                | 儒略日                 |
+  | MJD           | Modified Julian Day                       | 简化儒略日             |
+  | Rb            | Rubidium                                  | 铷                     |
+  | UT            | Universal Time                            | 世界时                 |
+  | UTC           | Coordinated Universal Time                | 协调世界时             |
+  | WGS           | Word Geodetic System                      | 世界大地坐标系         |
+  | WGS-84        | Word Geodetic System 1984                 | 1984世界坐标系统       |
+
+- System/Service
+
+  | Abbreviations | Meaning                                                  | Chinese meaning              |
+  | ------------- | -------------------------------------------------------- | ---------------------------- |
+  | CDDIS         | Crustal Dynamics Data Information System                 | 地壳动态数据信息系统（美国） |
+  | CORS          | Continuously Operating Reference System                  | 连续运行卫星定位服务系统     |
+  | Galileo       | the European Union Satellite Navigation System           | 欧盟卫星导航系统             |
+  | GIS           | Geographic Information System                            | 地理信息系统                 |
+  | GLONASS       | the Russian GLOBAL Navigation Satellite System           | 俄罗斯全球卫星导航系统       |
+  | GNSS          | Global Navigation Satellite System                       | 全球卫星导航系统             |
+  | GPS           | Global Positioning System                                | 全球定位系统（美国）         |
+  | INS           | Inertial Navigation System                               | 惯性导航系统                 |
+  | NNSS          | Navy Navigational Satellite System                       | 海军导航卫星系统             |
+  | PPS           | Precise Positioning Service                              | 精密定位服务                 |
+  | SAPOS         | Satellite Positioning Service of the German State Survey | 德国国家调查卫星定位服务     |
+  | SPS           | Standard Positioning Service                             | 标准定位服务                 |
+  | WAAS          | Wide Area Augmentation System                            | 广域增强系统                 |
+
+- Others
+
+  | Abbreviations | Meaning                                         | Chinese meaning                  |
+  | ------------- | ----------------------------------------------- | -------------------------------- |
+  | AROF/OTF      | Ambiguity Resolution on the Fly                 | 动态确定整周未知数实时模糊度解算 |
+  | A-S           | Anti-Spoofing                                   | 反电子欺骗                       |
+  | C/A           | Coarse/Acquisition Code                         | C/A码                            |
+  | DCB           | Differential Code Biases                        | 差分码偏差/硬件延迟偏差          |
+  | DD            | Double-Difference                               | 双差                             |
+  | DF            | Dual-Frequency                                  | 双频                             |
+  | DGPS          | Differential GPS                                | 差分GPS                          |
+  | DOP           | Dilution of Precision                           | 精度因子                         |
+  | EDM           | Electronic Distance Measuring                   | 电子测距                         |
+  | FARA          | Fast Ambiguity Resolution Approach              | 快速解算整周未知数               |
+  | GDOP          | Geometric Dilution of Precision                 | 几何精度因子                     |
+  | GEO           | Satellites in Geostationary Orbit               | 地球静止轨道卫星                 |
+  | GIM           | Global Ionospheric Map                          | 全球电离层图                     |
+  | HDOP          | Horizontal Dilution of Precision                | 平面位置精度因子                 |
+  | HOW           | Hand Over Word                                  | 交接字                           |
+  | IAR           | Integer Ambiguity Resolution                    | 整周模糊度解                     |
+  | IGR           | IGS Rapid Orbit                                 | IGS快速轨道                      |
+  | IGSO          | Inclined Geosynchronous Orbit                   | 倾斜地球同步轨道                 |
+  | IGU           | IGS Ultra-Rapid Orbit                           | IGS超快速轨道                    |
+  | IOV           | In-Orbit Validation                             | 在轨验证                         |
+  | IPP           | Ionospheric Pierce Point                        | 通过建立电离层交叉点             |
+  | LADGPS        | Local Area DGPS                                 | 区域差分GPS                      |
+  | LAMBDA        | Least-square AMBiguity Decorrelation Adjustment | 最小二乘模糊度降相关平差法       |
+  | LC            | Ionosphere- Free Linear Combination             | 无电离层线性组合                 |
+  | LEO           | Low Earth Orbit                                 | 近地轨道                         |
+  | MDB           | Minimal Detectable Bias                         | 内部可靠性度量                   |
+  | MDE           | Minimal Detectable Effect                       | 外部可靠性度量                   |
+  | MEO           | Medium Altitude Earth Orbit                     | 中高地球轨道                     |
+  | MET           | Meteorology                                     | 气象                             |
+  | NRTK          | Network- Based Real-Time Kinematic Positioning  | 基于网络的实时动态定位           |
+  | OMC           | Observation Minus Computation                   | O-C                              |
+  | PCO           | Phase Centre Offsets                            | 相位中心改正                     |
+  | PCV           | Phase Centre Variation                          | 相位中心变化                     |
+  | PDOP          | Position Dilution of Precision                  | 空间位置精度因子                 |
+  | PNT           | Positioning, Navigation and Timing              | 导航定位授时                     |
+  | PPP           | Precise Point Positioning                       | 精密单点定位                     |
+  | PPP-RA        | Precise Point Positioning Regional Augmentation | 区域增强精密单点定位             |
+  | PRN           | Pseudorandom Noise                              | 伪随机噪声                       |
+  | RDOP          | Relative Dilution of Precision                  | 相对精度因子                     |
+  | RINEX         | Receiver Independent Exchange（Format）         | 标准数据格式（与接收机无关）     |
+  | RMS           | Root Mean Square                                | 均方根误差                       |
+  | RTD           | Real Time DGPS                                  | 实时差分GPS                      |
+  | RTK           | Real-Time Kinematics                            | 实时动态差分法                   |
+  | SA            | Selective Availability                          | 选择可用性                       |
+  | SD            | Single Difference                               | 单差                             |
+  | SLR           | Satellite Laser Ranging                         | 卫星激光测距                     |
+  | SP3           | IGS Standard Product 3                          | 第三代IGS标准产品                |
+  | STD           | Slant Total Delay                               | 偏总延迟                         |
+  | SVN           | Space Vehicle Number                            | 空间飞行器编号                   |
+  | TD            | Triple-Difference                               | 三差                             |
+  | TDOP          | Time Dilution of Precision                      | 钟差精度因子                     |
+  | TLW           | Telemetry Word                                  | 遥测字                           |
+  | UD            | Un- Differenced                                 | 非差                             |
+  | UPD           | Un-Calibrated Phase Delays                      | 未定标的相位延迟                 |
+  | VDOP          | Vertical Dilution of Precision                  | 高程精度因子                     |
+  | VIBI          | Very Long Baseline Interferometry               | 甚长基线干涉测量                 |
+  | WADGPS        | Wide Area DGPS                                  | 广域差分GPS                      |
+  | WL            | Widelane Combination                            | 宽相组合                         |
+  | ZHD           | Zenith Hydrostatic Delay                        | 天顶静力学延迟                   |
+  | ZTD           | Zenith Total Delay                              | 天顶总延迟                       |
+  | ZWD           | Zenith Wet Delay                                | 天顶湿延迟                       |
