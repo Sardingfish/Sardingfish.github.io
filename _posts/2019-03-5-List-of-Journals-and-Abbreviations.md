@@ -13,36 +13,35 @@ The following is a list of top journals and professional abbreviations for the i
 
 - **SCI**
 
-  | Journal                                              | IF（2017） | IF（5 year） | JCR分区 |
-  | ---------------------------------------------------- | ---------- | ------------ | ------- |
-  | *ISPRS Journal of Photogrammetry and Remote Sensing* | 5.994      | 6.592        | Q1      |
-  | *GPS Solutions*                                      | 4.727      | 4.767        | Q1      |
-  | *Journal of Geodesy*                                 | 4.633      | 4.409        | Q1      |
-  | *Journal of Geophysical Research-Solid Earth*        | 3.482      | 4.101        | Q1      |
-  | *Solid Earth*                                        | 4.165      | 4.075        | Q1      |
-  | *Journal of Geophysical Research-Space Physics*      | 3.318      | 3.651        | Q1      |
-  | *Sensors*                                            | 2.475      | 3.014        | Q2/Q3   |
-  | *Geophysical Journal International*                  | 2.528      | 2.777        | Q2      |
-  | *Geophysical Journal International*                  | 2.528      | 2.777        | Q2      |
-  | *Journal of Geodynamics*                             | 2.142      | 2.418        | Q2      |
-  | *Earth, planets and space*                           | 2.773      | 2.288        | Q2      |
-  | *Science China Earth Sciences*                       | 2.058      | 2.2          | Q2      |
-  | *Journal of Navigation*                              | 1.58       | 1.891        | Q2/Q3   |
-  | *Chinese Science Bulletin*                           | 1.649      | 1.738        | Q2      |
-  | *Journal of Earthquake Engineering*                  | 1.763      | 1.676        | Q2      |
-  | *Advances in Space Research*                         | 1.529      | 1.55         | Q3      |
-  | *Marine Geodesy*                                     | 1.547      | 1.516        | Q3      |
-  | *Geotectonics*                                       | 1.134      | 1.299        | Q3      |
-  | *Survey Review*                                      | 1.163      | 1.071        | Q3/Q4   |
-  | *Chinese Journal of Geophysics*                      | 0.88       | 0.996        | Q4      |
-  | *Terrestrial, Atmospheric and Oceanic Sciences*      | 0.543      | 0.61         | Q4      |
+  | Journal                                                      | IF（2017） | IF（5 year） | JCR分区 |
+  | ------------------------------------------------------------ | ---------- | ------------ | ------- |
+  | *[ISPRS Journal of Photogrammetry and Remote Sensing](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing)* | 5.994      | 6.592        | Q1      |
+  | *[GPS Solutions](https://www.springer.com/earth+sciences+and+geography/geophysics/journal/10291)* | 4.727      | 4.767        | Q1      |
+  | *[Journal of Geodesy](https://www.springer.com/earth+sciences+and+geography/geophysics/journal/190)* | 4.633      | 4.409        | Q1      |
+  | *[Journal of Geophysical Research-Solid Earth](https://agupubs.onlinelibrary.wiley.com/journal/21699356)* | 3.482      | 4.101        | Q1      |
+  | *[Solid Earth](https://www.solid-earth.net/)*                | 4.165      | 4.075        | Q1      |
+  | *[Journal of Geophysical Research-Space Physics](https://agupubs.onlinelibrary.wiley.com/journal/21562202)* | 3.318      | 3.651        | Q1      |
+  | *[Sensors](https://www.mdpi.com/journal/sensors)*            | 2.475      | 3.014        | Q2/Q3   |
+  | *[Geophysical Journal International](https://academic.oup.com/gji)* | 2.528      | 2.777        | Q2      |
+  | *Journal of Geodynamics*                                     | 2.142      | 2.418        | Q2      |
+  | *[Earth, planets and space](https://earth-planets-space.springeropen.com/)* | 2.773      | 2.288        | Q2      |
+  | *[Science China Earth Sciences](https://www.springer.com/earth+sciences+and+geography/journal/11430)* | 2.058      | 2.2          | Q2      |
+  | *[Journal of Navigation](https://www.cambridge.org/core/journals/journal-of-navigation)* | 1.58       | 1.891        | Q2/Q3   |
+  | *[Chinese Science Bulletin](http://engine.scichina.com/publisher/scp/journal/Sci%20Bull%20Chin?slug=abstracts)* | 1.649      | 1.738        | Q2      |
+  | *[Journal of Earthquake Engineering](https://www.tandfonline.com/toc/ueqe20/current)* | 1.763      | 1.676        | Q2      |
+  | *[Advances in Space Research](https://www.journals.elsevier.com/advances-in-space-research)* | 1.529      | 1.55         | Q3      |
+  | *[Marine Geodesy](https://www.tandfonline.com/loi/umgd20)*   | 1.547      | 1.516        | Q3      |
+  | *[Geotectonics](https://www.springer.com/earth+sciences+and+geography/geology/journal/11479)* | 1.134      | 1.299        | Q3      |
+  | *[Survey Review](https://www.tandfonline.com/loi/ysre20)*    | 1.163      | 1.071        | Q3/Q4   |
+  | *[Chinese Journal of Geophysics](https://agupubs.onlinelibrary.wiley.com/journal/23260440)* | 0.88       | 0.996        | Q4      |
+  | *[Terrestrial, Atmospheric and Oceanic Sciences](http://tao.cgu.org.tw/)* | 0.543      | 0.61         | Q4      |
 
 - **EI**
 
   | 期刊                                                         | 复合影响因子 | 综合影响因子 |
   | ------------------------------------------------------------ | ------------ | ------------ |
-  | *测绘学报*（Journal of Geodesy and Geoinformation Science，JGGS） | 2.882        | 2.237        |
-  | *武汉大学学报(信息科学版)*                                   | 1.705        | 1.168        |
+  | *[测绘学报](http://xb.sinomaps.com/CN/volumn/home.shtml)*（Journal of Geodesy and Geoinformation Science，JGGS） | 2.882        | 2.237        |
+  | *[武汉大学学报(信息科学版)](http://ch.whu.edu.cn/CN/volumn/home.shtml)* | 1.705        | 1.168        |
 
 ---
 
@@ -54,26 +53,26 @@ The following is a list of top journals and professional abbreviations for the i
 
   | Abbreviations | Meaning                                                      | Chinese meaning                     |
   | ------------- | ------------------------------------------------------------ | ----------------------------------- |
-  | BKG           | Federal Bureau for Cartography and Geodesy                   | 联邦大地测量与制图局（德国）        |
+  | BKG           | [Federal Bureau for Cartography and Geodesy](https://www.bkg.bund.de/EN/Home/home.html) | 联邦大地测量与制图局（德国）        |
   | CODE          | Centre of Orbit Determination in Europe                      | 欧洲定轨中心（瑞士）                |
-  | DMA           | Defence Mapping Agency                                       | 国防制图局（美国）                  |
-  | ESA           | European Space Agency/Operation Center                       | 欧洲空间局（德国）                  |
-  | FAA           | Federal Aviation Administration                              | 联邦航空局（美国）                  |
-  | GFZ           | Helmholtz -Centre Potsdam-GFZ German Research Centre for Geosciences/GeoForschungsZentrum, Germany | 亥姆霍兹波茨坦中心/德国地学研究中心 |
-  | GSD           | Geodetic Survey of Canada                                    | 加拿大大地测量局                    |
-  | IAC           | Information and Analytical Navigation Center                 | 导航信息分析中心（俄罗斯）          |
-  | IAG           | International Association of Geodesy                         | 国际大地测量协会                    |
-  | IAU           | International Astronomical Union                             | 国际天文学联合会                    |
-  | IERS          | International Earth Rotation System                          | 国际地球自转服务组织                |
-  | IGN           | Institute Geographique National, France                      | 法国国家地理学会                    |
-  | IGS           | International GNSS Service                                   | 国际GNSS服务组织                    |
-  | ION           | Institute of Navigation                                      | 美国导航学会                        |
-  | JPL           | Jet Propulsion Laboratory                                    | 喷气动力实验室（美国）              |
+  | DMA           | [Defence Mapping Agency](https://www.nga.mil/ABOUT/HISTORY/NGAINHISTORY/Pages/DefenseMappingAgency.aspx) | 国防制图局（美国）                  |
+  | ESA           | [European Space Agency/Operation Center](https://www.esa.int/About_Us/ESOC) | 欧洲空间局（德国）                  |
+  | FAA           | [Federal Aviation Administration](https://www.faa.gov/)      | 联邦航空局（美国）                  |
+  | GFZ           | [Helmholtz -Centre Potsdam-GFZ German Research Centre for Geosciences/GeoForschungsZentrum, Germany](https://www.gfz-potsdam.de/startseite/) | 亥姆霍兹波茨坦中心/德国地学研究中心 |
+  | GSD           | [Geodetic Survey of Canada](https://www.nrcan.gc.ca/home)    | 加拿大大地测量局                    |
+  | IAC           | [Information and Analytical Navigation Center](https://www.glonass-iac.ru/en/) | 导航信息分析中心（俄罗斯）          |
+  | IAG           | [International Association of Geodesy](http://www.iag-aig.org/) | 国际大地测量协会                    |
+  | IAU           | [International Astronomical Union](https://www.iau.org/)     | 国际天文学联合会                    |
+  | IERS          | [International Earth Rotation System](https://www.iers.org/IERS/EN/Home/home_node.html) | 国际地球自转服务组织                |
+  | IGN           | [Institute Geographique National, France](http://www.ign.fr/) | 法国国家地理学会                    |
+  | IGS           | [International GNSS Service](http://www.igs.org/)            | 国际GNSS服务组织                    |
+  | ION           | [Institute of Navigation](https://www.ion.org/)              | 美国导航学会                        |
+  | JPL           | [Jet Propulsion Laboratory](https://www.jpl.nasa.gov/)       | 喷气动力实验室（美国）              |
   | MCC           | Mission Centrol Center, Russia                               | 俄罗斯国防部                        |
-  | MIT           | Massachusetts Institute of Technology                        | 美国麻省理工学院                    |
-  | NASA          | National Aeronautics and Space Administration                | 航空航天局（美国）                  |
-  | NIMA          | National Imagery and Mapping Agency                          | 国家影像和制图局（美国）            |
-  | NRCan         | (EMR)National Resources Canada                               | 加拿大自然资源部                    |
+  | MIT           | [Massachusetts Institute of Technology](http://www.mit.edu/) | 美国麻省理工学院                    |
+  | NASA          | [National Aeronautics and Space Administration](https://www.nasa.gov/) | 航空航天局（美国）                  |
+  | NIMA          | [National Imagery and Mapping Agency](https://www.nga.mil/Pages/Default.aspx) | 国家影像和制图局（美国）            |
+  | NRCan         | (EMR)[National Resources Canada](https://www.nrcan.gc.ca/home) | 加拿大自然资源部                    |
 
 - **Space and Time System**
 
