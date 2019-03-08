@@ -50,7 +50,7 @@ The following is a list of top journals and professional abbreviations for the i
 
 **List of Abbreviations**
 
-- Administration/Agency/Association/Centre/Institute/Laboratory/Organization/Union
+- **Administration/Agency/Association/Centre/Institute/Laboratory/Organization/Union**
 
   | Abbreviations | Meaning                                                      | Chinese meaning                     |
   | ------------- | ------------------------------------------------------------ | ----------------------------------- |
@@ -75,7 +75,7 @@ The following is a list of top journals and professional abbreviations for the i
   | NIMA          | National Imagery and Mapping Agency                          | 国家影像和制图局（美国）            |
   | NRCan         | (EMR)National Resources Canada                               | 加拿大自然资源部                    |
 
-- Space and Time System
+- **Space and Time System**
 
   | Abbreviations | Meaning                                   | Chinese meaning        |
   | ------------- | ----------------------------------------- | ---------------------- |
@@ -98,7 +98,7 @@ The following is a list of top journals and professional abbreviations for the i
   | WGS           | Word Geodetic System                      | 世界大地坐标系         |
   | WGS-84        | Word Geodetic System 1984                 | 1984世界坐标系统       |
 
-- System/Service
+- **System/Service**
 
   | Abbreviations | Meaning                                                  | Chinese meaning              |
   | ------------- | -------------------------------------------------------- | ---------------------------- |
@@ -116,7 +116,7 @@ The following is a list of top journals and professional abbreviations for the i
   | SPS           | Standard Positioning Service                             | 标准定位服务                 |
   | WAAS          | Wide Area Augmentation System                            | 广域增强系统                 |
 
-- Others
+- **Others**
 
   | Abbreviations | Meaning                                         | Chinese meaning                  |
   | ------------- | ----------------------------------------------- | -------------------------------- |
