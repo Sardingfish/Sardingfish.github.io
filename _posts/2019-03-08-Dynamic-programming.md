@@ -29,5 +29,11 @@ author: Jason Ding
 
 然后我们可以马上得到一个递推关系：
 
-<center>a[i]=a[i+1]+a[i+2]
+<center>a(x)=a(x+1)+a(x+2)
+
+代码实现：
+
+~~~fortran
+
+~~~
 
