@@ -4,7 +4,7 @@ title:  "Literature search website"
 date:   2019-03-1
 categories: Tool
 tags: Website
-auther: Jason Ding
+author: Jason Ding
 
 ---
 

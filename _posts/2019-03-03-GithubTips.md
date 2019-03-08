@@ -4,7 +4,7 @@ title:  "GithubTips"
 date:   2019-03-03
 categories: Tips
 tags: Github
-auther: Jason Ding
+author: Jason Ding
 ---
 
 1. **Dynamically demonstrate the code modification process**

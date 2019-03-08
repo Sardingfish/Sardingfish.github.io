@@ -4,7 +4,7 @@ title:  "List of Journals and Abbreviations"
 date:   2019-03-5
 categories: Tool
 tags: Journals
-auther: Jason Ding
+author: Jason Ding
 ---
 
 The following is a list of top journals and professional abbreviations for the industry, with the aim of making reference and preparation for future writing of journal articles and dissertations.(Latest update date:2019-3-7)

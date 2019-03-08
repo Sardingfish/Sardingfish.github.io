@@ -21,7 +21,7 @@ author: Jason Ding
 
 首先需要对这个问题进行抽象，n个阶梯，每个阶梯都代表一个节点，然后这n个节点之间会有一些桥梁把它们连接起来，这个问题就转化为从节点0到节点n一共有多少种走法？
 
-![](../image/2019-03-08-Dynamic-programming/problem.png)
+![](https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/2019-03-08-Dynamic-programming/problem.png)
 
 假设我们已经知道了5到10的路径数，这个数就可以保存下来，当我们再次计算3到10或者4到10的时候，这个数就可以直接拿来用，我们需要做的只是计算3到5或者4到5的路径数，而5到10的路径数无需重复计算，大大节省了时间。
 
