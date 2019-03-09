@@ -29,6 +29,5 @@ author: Jason Ding
 
 这样，我们可以创建一个数组a[]，专门用来存放x到10的路径数，初始值记为0，每当要计算x到10的路径数的时候，先查看一下a[x]是否大于零，若大于，则说明此前已经计算过了，可以直接取用。
 
-然后我们可以马上得到一个递推关系：
+更多的例子可以参考这里：[https://medium.com/@codingfreak/top-50-dynamic-programming-practice-problems-4208fed71aa3](https://medium.com/@codingfreak/top-50-dynamic-programming-practice-problems-4208fed71aa3)
 
-<center>a(x)=a(x+1)+a(x+2)
