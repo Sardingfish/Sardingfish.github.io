@@ -7,9 +7,7 @@ tags: Algorithm
 author: Jason Ding
 ---
 
-
-
-<img src="https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/2019-03-08-Dynamic-programming/Po-Gcej.png" width = "500" height = "300" alt="image" align=center />
+![](https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/2019-03-08-Dynamic-programming/Po-Gcej.png =500x300)
 
 
 
