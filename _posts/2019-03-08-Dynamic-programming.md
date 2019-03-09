@@ -7,7 +7,7 @@ tags: Algorithm
 author: Jason Ding
 ---
 
-![](../image/2019-03-08-Dynamic-programming/Po-Gcej.png)
+![](https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/2019-03-08-Dynamic-programming/Po-Gcej.png)
 
 这个问题是在知乎上发现的，之所以关注是因为此前有听导师讲过在GNSS中信号中断后恢复连接如何快速收敛是目前的一个难题，理解动态规划后发现这个难题可以归类为动态规划问题，故在此做一个记录。
 
