@@ -49,4 +49,7 @@ author: Jason Ding
 
 5. **GitPod: Web IDE for GitHub**
 
-   website：[https://toedter.com/2018/10/27/gitpod-web-ide-for-github/](https://toedter.com/2018/10/27/gitpod-web-ide-for-github/)
+   **website：**[https://www.gitpod.io/](https://www.gitpod.io/)
+
+   **Usage：**add"http://gitpod.io#"in front of URL.
+
