@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
-<title>&quot;Githu&quot;</title><link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; }
+<title>&quot;GithubTips&quot;</title><link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; }
 html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
 body { margin: 0px; padding: 0px; height: auto; bottom: 0px; top: 0px; left: 0px; right: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; }
 iframe { margin: auto; }
@@ -145,6 +145,79 @@ iframe { max-width: 100%; width: 100%; border: none; }
 .highlight td, .highlight tr { border: 0px; }
 
 
+.CodeMirror { height: auto; }
+.CodeMirror.cm-s-inner { background: inherit; }
+.CodeMirror-scroll { overflow-y: hidden; overflow-x: auto; z-index: 3; }
+.CodeMirror-gutter-filler, .CodeMirror-scrollbar-filler { background-color: rgb(255, 255, 255); }
+.CodeMirror-gutters { border-right: 1px solid rgb(221, 221, 221); background: inherit; white-space: nowrap; }
+.CodeMirror-linenumber { padding: 0px 3px 0px 5px; text-align: right; color: rgb(153, 153, 153); }
+.cm-s-inner .cm-keyword { color: rgb(119, 0, 136); }
+.cm-s-inner .cm-atom, .cm-s-inner.cm-atom { color: rgb(34, 17, 153); }
+.cm-s-inner .cm-number { color: rgb(17, 102, 68); }
+.cm-s-inner .cm-def { color: rgb(0, 0, 255); }
+.cm-s-inner .cm-variable { color: rgb(0, 0, 0); }
+.cm-s-inner .cm-variable-2 { color: rgb(0, 85, 170); }
+.cm-s-inner .cm-variable-3 { color: rgb(0, 136, 85); }
+.cm-s-inner .cm-string { color: rgb(170, 17, 17); }
+.cm-s-inner .cm-property { color: rgb(0, 0, 0); }
+.cm-s-inner .cm-operator { color: rgb(152, 26, 26); }
+.cm-s-inner .cm-comment, .cm-s-inner.cm-comment { color: rgb(170, 85, 0); }
+.cm-s-inner .cm-string-2 { color: rgb(255, 85, 0); }
+.cm-s-inner .cm-meta { color: rgb(85, 85, 85); }
+.cm-s-inner .cm-qualifier { color: rgb(85, 85, 85); }
+.cm-s-inner .cm-builtin { color: rgb(51, 0, 170); }
+.cm-s-inner .cm-bracket { color: rgb(153, 153, 119); }
+.cm-s-inner .cm-tag { color: rgb(17, 119, 0); }
+.cm-s-inner .cm-attribute { color: rgb(0, 0, 204); }
+.cm-s-inner .cm-header, .cm-s-inner.cm-header { color: rgb(0, 0, 255); }
+.cm-s-inner .cm-quote, .cm-s-inner.cm-quote { color: rgb(0, 153, 0); }
+.cm-s-inner .cm-hr, .cm-s-inner.cm-hr { color: rgb(153, 153, 153); }
+.cm-s-inner .cm-link, .cm-s-inner.cm-link { color: rgb(0, 0, 204); }
+.cm-negative { color: rgb(221, 68, 68); }
+.cm-positive { color: rgb(34, 153, 34); }
+.cm-header, .cm-strong { font-weight: 700; }
+.cm-del { text-decoration: line-through; }
+.cm-em { font-style: italic; }
+.cm-link { text-decoration: underline; }
+.cm-error { color: red; }
+.cm-invalidchar { color: red; }
+.cm-constant { color: rgb(38, 139, 210); }
+.cm-defined { color: rgb(181, 137, 0); }
+div.CodeMirror span.CodeMirror-matchingbracket { color: rgb(0, 255, 0); }
+div.CodeMirror span.CodeMirror-nonmatchingbracket { color: rgb(255, 34, 34); }
+.cm-s-inner .CodeMirror-activeline-background { background: inherit; }
+.CodeMirror { position: relative; overflow: hidden; }
+.CodeMirror-scroll { height: 100%; outline: 0px; position: relative; box-sizing: content-box; background: inherit; }
+.CodeMirror-sizer { position: relative; }
+.CodeMirror-gutter-filler, .CodeMirror-hscrollbar, .CodeMirror-scrollbar-filler, .CodeMirror-vscrollbar { position: absolute; z-index: 6; display: none; }
+.CodeMirror-vscrollbar { right: 0px; top: 0px; overflow: hidden; }
+.CodeMirror-hscrollbar { bottom: 0px; left: 0px; overflow: hidden; }
+.CodeMirror-scrollbar-filler { right: 0px; bottom: 0px; }
+.CodeMirror-gutter-filler { left: 0px; bottom: 0px; }
+.CodeMirror-gutters { position: absolute; left: 0px; top: 0px; padding-bottom: 30px; z-index: 3; }
+.CodeMirror-gutter { white-space: normal; height: 100%; box-sizing: content-box; padding-bottom: 30px; margin-bottom: -32px; display: inline-block; }
+.CodeMirror-gutter-wrapper { position: absolute; z-index: 4; background: 0px 0px !important; border: none !important; }
+.CodeMirror-gutter-background { position: absolute; top: 0px; bottom: 0px; z-index: 4; }
+.CodeMirror-gutter-elt { position: absolute; cursor: default; z-index: 4; }
+.CodeMirror-lines { cursor: text; }
+.CodeMirror pre { border-radius: 0px; border-width: 0px; background: 0px 0px; font-family: inherit; font-size: inherit; margin: 0px; white-space: pre; word-wrap: normal; color: inherit; z-index: 2; position: relative; overflow: visible; }
+.CodeMirror-wrap pre { word-wrap: break-word; white-space: pre-wrap; word-break: normal; }
+.CodeMirror-code pre { border-right: 30px solid transparent; width: fit-content; }
+.CodeMirror-wrap .CodeMirror-code pre { border-right: none; width: auto; }
+.CodeMirror-linebackground { position: absolute; left: 0px; right: 0px; top: 0px; bottom: 0px; z-index: 0; }
+.CodeMirror-linewidget { position: relative; z-index: 2; overflow: auto; }
+.CodeMirror-wrap .CodeMirror-scroll { overflow-x: hidden; }
+.CodeMirror-measure { position: absolute; width: 100%; height: 0px; overflow: hidden; visibility: hidden; }
+.CodeMirror-measure pre { position: static; }
+.CodeMirror div.CodeMirror-cursor { position: absolute; visibility: hidden; border-right: none; width: 0px; }
+.CodeMirror div.CodeMirror-cursor { visibility: hidden; }
+.CodeMirror-focused div.CodeMirror-cursor { visibility: inherit; }
+.cm-searching { background: rgba(255, 255, 0, 0.4); }
+@media print {
+  .CodeMirror div.CodeMirror-cursor { visibility: hidden; }
+}
+
+
 :root { --side-bar-bg-color: #fafafa; --control-text-color: #777; }
 @font-face { font-family: "Open Sans"; font-style: normal; font-weight: normal; src: local("Open Sans Regular"), url("./github/400.woff") format("woff"); }
 @font-face { font-family: "Open Sans"; font-style: italic; font-weight: normal; src: local("Open Sans Italic"), url("./github/400i.woff") format("woff"); }
@@ -235,6 +308,6 @@ header, .context-menu, .megamenu-content, footer { font-family: "Segoe UI", Aria
 </style>
 </head>
 <body class='typora-export os-windows' >
-<div  id='write'  class = 'is-node'><ol><li><h1><a name='header-n8' class='md-header-anchor '></a>NIM Timing</h1><p>&nbsp;</p><p>####Timing display in web pages of different agencies</p><ul><li><strong><a href='https://www.bipm.org/en/about-us/'>BIPM</a></strong></li></ul><p>  – the intergovernmental organization through which Member States act together on matters related to measurement science and measurement  standards.</p><p><img src='C:\Users\Jason\AppData\Local\Temp\1534166405005.png' alt='1534166405005' referrerPolicy='no-referrer' /></p><p>&nbsp;</p><ul><li><strong><a href='https://www.nist.gov/'>NIST</a></strong></li></ul><p>The <strong>National Institute of Standards and Technology</strong> (<strong>NIST</strong>) is a physical sciences laboratory, and a non-regulatory agency of the United States Department of Commerce. Its mission is to promote innovation and industrial competitiveness. NIST&#39;s activities are organized into laboratory programs that include nanoscale science and technology, engineering, information technology, neutron research, material measurement, and physical measurement. </p><p><img src='F:\NIM\Pictures\NIST.png' alt='' referrerPolicy='no-referrer' /></p><p>&nbsp;</p><ul><li><strong><a href='http://www.npl.co.uk/'>NPL</a></strong></li></ul><p>The <strong>National Physical Laboratory</strong> (<strong>NPL</strong>) is the national measurement standards laboratory for the United Kingdom, based at Bushy Park in Teddington, London, England. It comes under the management of the Department for Business, Innovation and Skills. </p><p><img src='C:\Users\Jason\AppData\Local\Temp\1534174547278.png' alt='1534174547278' referrerPolicy='no-referrer' /></p><p>&nbsp;</p><ul><li><a href='https://www.ptb.de/cms/'><strong>PTB</strong></a></li></ul><p>The <strong>Physikalisch-Technische Bundesanstalt</strong> (<strong>PTB</strong>) is the national metrology institute of the Federal Republic of Germany, with scientific and technical service tasks. It is a higher federal authority and a public-law institution directly under federal government control, without legal capacity, under the auspices of the Federal Ministry for Economic Affairs and Energy. </p><p><img src='C:\Users\Jason\AppData\Local\Temp\1534207888898.png' alt='1534207888898' referrerPolicy='no-referrer' /></p><p>&nbsp;</p><ul><li><strong><a href='https://www.usno.navy.mil/USNO'>USNO</a></strong></li></ul><p>The <strong>United States Naval Observatory</strong> (<strong>USNO</strong>) is one of the oldest scientific agencies in the United States, with a primary mission to produce Positioning, Navigation and Timing (PNT) for the United States Navy and the United States Department of Defense. Located in Northwest Washington, D.C. at the Northwestern end of Embassy Row, it is one of the pre-1900 astronomical observatories located in an urban area; at the time of its construction, it was far from the light pollution thrown off by the (then-smaller) city center. Former USNO director Gernot M. R. Winkler initiated the &quot;Master Clock&quot; service that the USNO still operates, and which provides precise time to the GPS satellite constellation run by the United States Air Force. The USNO performs radio VLBI-based positions of quasars with numerous global collaborators, in order to produce Earth Orientation parameters.</p><p>Aside from its scientific mission, a house located within the Naval Observatory complex serves as the official residence of the Vice President of the United States.</p><p>&nbsp;</p><ul><li><a href='http://gnsscenter.chd.edu.cn/home.html'><strong>BASC</strong></a></li></ul><p><img src='C:\Users\Jason\AppData\Local\Temp\1534207476380.png' alt='1534207476380' referrerPolicy='no-referrer' /></p><p>&nbsp;</p><ul><li><strong><a href='http://www.time.ac.cn/'>NTS</a></strong></li></ul><p><img src='C:\Users\Jason\AppData\Local\Temp\1534208300758.png' alt='1534208300758' referrerPolicy='no-referrer' /></p><p>&nbsp;</p><ul><li><strong><a href='http://www.nim.ac.cn/'>NIM</a></strong></li></ul><p><img src='C:\Users\Jason\AppData\Local\Temp\1534168745176.png' alt='1534168745176' referrerPolicy='no-referrer' /></p><p>&nbsp;</p><p>Suggestion</p><ol><li>技术上如果允许，日晷阴影可以做成动态的，随时间变化改变。</li><li>字体部分，建议使用统一字体，如果没有好的选择，建议使用微软雅黑。</li><li>底色部分，可以选择较为明亮的颜色或者色块组合，例如BIPM的明黄高亮以及BASC的记分牌，较为吸引眼球。</li><li>位置部分，如果无法做到占用整行完全居中，建议争取主页靠左靠上方位置。</li></ol><p>&nbsp;</p><p>&nbsp;</p></li></ol></div>
+<div  id='write'  class = 'is-node'><ol start='' ><li><p><strong>Dynamically demonstrate the code modification process</strong></p><p>Open the github code page and change the URL from</p><pre spellcheck="false" class="md-fences md-end-block md-fences-with-lineno ty-contain-cm modeLoaded" lang=""><div class="CodeMirror cm-s-inner CodeMirror-wrap" lang=""><div style="overflow: hidden; position: relative; width: 3px; height: 0px; top: 0px; left: 36px;"><textarea autocorrect="off" autocapitalize="off" spellcheck="false" tabindex="0" style="position: absolute; bottom: -1em; padding: 0px; width: 1000px; height: 1em; outline: none;"></textarea></div><div class="CodeMirror-scrollbar-filler" cm-not-content="true"></div><div class="CodeMirror-gutter-filler" cm-not-content="true"></div><div class="CodeMirror-scroll" tabindex="-1"><div class="CodeMirror-sizer" style="margin-left: 28px; margin-bottom: 0px; border-right-width: 0px; padding-right: 0px; padding-bottom: 0px;"><div style="position: relative; top: 0px;"><div class="CodeMirror-lines" role="presentation"><div role="presentation" style="position: relative; outline: none;"><div class="CodeMirror-measure"></div><div class="CodeMirror-measure"></div><div style="position: relative; z-index: 1;"></div><div class="CodeMirror-code" role="presentation"><div class="CodeMirror-activeline" style="position: relative;"><div class="CodeMirror-activeline-background CodeMirror-linebackground"></div><div class="CodeMirror-gutter-background CodeMirror-activeline-gutter" style="left: -28px; width: 28px;"></div><div class="CodeMirror-gutter-wrapper CodeMirror-activeline-gutter" style="left: -28px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt CodeMirror-linenumber-show" style="left: 0px; width: 19px;">1</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">https//github.com/...</span></pre></div></div></div></div></div></div><div style="position: absolute; height: 0px; width: 1px; border-bottom: 0px solid transparent; top: 23px;"></div><div class="CodeMirror-gutters" style="height: 23px;"><div class="CodeMirror-gutter CodeMirror-linenumbers" style="width: 27px;"></div></div></div></div></pre><p>to</p><pre spellcheck="false" class="md-fences md-end-block md-fences-with-lineno ty-contain-cm modeLoaded" lang=""><div class="CodeMirror cm-s-inner CodeMirror-wrap" lang=""><div style="overflow: hidden; position: relative; width: 3px; height: 0px; top: 0px; left: 36px;"><textarea autocorrect="off" autocapitalize="off" spellcheck="false" tabindex="0" style="position: absolute; bottom: -1em; padding: 0px; width: 1000px; height: 1em; outline: none;"></textarea></div><div class="CodeMirror-scrollbar-filler" cm-not-content="true"></div><div class="CodeMirror-gutter-filler" cm-not-content="true"></div><div class="CodeMirror-scroll" tabindex="-1"><div class="CodeMirror-sizer" style="margin-left: 28px; margin-bottom: 0px; border-right-width: 0px; padding-right: 0px; padding-bottom: 0px;"><div style="position: relative; top: 0px;"><div class="CodeMirror-lines" role="presentation"><div role="presentation" style="position: relative; outline: none;"><div class="CodeMirror-measure"><pre><span>xxxxxxxxxx</span></pre><div class="CodeMirror-linenumber CodeMirror-gutter-elt"><div>1</div></div></div><div class="CodeMirror-measure"></div><div style="position: relative; z-index: 1;"></div><div class="CodeMirror-code" role="presentation"><div class="CodeMirror-activeline" style="position: relative;"><div class="CodeMirror-activeline-background CodeMirror-linebackground"></div><div class="CodeMirror-gutter-background CodeMirror-activeline-gutter" style="left: -28px; width: 28px;"></div><div class="CodeMirror-gutter-wrapper CodeMirror-activeline-gutter" style="left: -28px;"><div class="CodeMirror-linenumber CodeMirror-gutter-elt CodeMirror-linenumber-show" style="left: 0px; width: 19px;">1</div></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">https//github-history.netlify.com/...</span></pre></div></div></div></div></div></div><div style="position: absolute; height: 0px; width: 1px; border-bottom: 0px solid transparent; top: 23px;"></div><div class="CodeMirror-gutters" style="height: 23px;"><div class="CodeMirror-gutter CodeMirror-linenumbers" style="width: 27px;"></div></div></div></div></pre><p><strong>Video Demo</strong></p><video src="https://zhihuxiazai.com/storage/downloader/videos/1077934316742447104/hd.mp4?attname=1077934316742447104.hd.mp4" width="750" height="360" controls="controls" onerror="this.style.display = 'none';"></video> <p>*Video comes from Zhihu users:<a href='https://www.zhihu.com/question/42917600/answer/593848187' target='_blank' class='url'>https://www.zhihu.com/question/42917600/answer/593848187</a></p></li></ol><p>&nbsp;</p><ol start='2' ><li><p><strong>Github Emoji Cheat Sheet</strong></p><p>website：<a href='https://www.webfx.com/tools/emoji-cheat-sheet/'>https://www.webfx.com/tools/emoji-cheat-sheet/</a></p><p><img src='https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/Others/Emoji.png' alt='' referrerPolicy='no-referrer' /></p></li></ol><ol start='3' ><li><p><strong>Making github badge</strong></p><p>website：<a href='https://shields.io/#/'>https://shields.io/#/</a></p><p><img src='https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/Others/badge.png' alt='' referrerPolicy='no-referrer' /></p></li><li><p><strong>Make a ReadMe</strong></p><p>website：<a href='https://www.makeareadme.com/'>https://www.makeareadme.com/</a></p></li><li><p><strong>GitPod: Web IDE for GitHub</strong></p><p><strong>website：</strong><a href='https://www.gitpod.io/'>https://www.gitpod.io/</a></p><p><strong>Usage：</strong>add&quot;<a href='http://gitpod.io#' target='_blank' class='url'>http://gitpod.io#</a>&quot;in front of URL.</p></li></ol><p>&nbsp;</p></div>
 </body>
 </html>
