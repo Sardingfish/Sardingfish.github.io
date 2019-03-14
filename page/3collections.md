@@ -58,12 +58,25 @@ type: page
 ## 实用工具
 
 - [GNSS CALENDAR AND UTILITY](http://www.gnsscalendar.com/)
+
+  GNSS日历
+
 - [MathWork Geodetic Toolbox](https://www.mathworks.com/matlabcentral/fileexchange/15285-geodetic-toolbox)
+
+  matlab大地测量工具包
 
 - [The GPS Toolbox](https://www.ngs.noaa.gov/gps-toolbox/index.html)
 
-- [时间转换工具(matlab)](http://www.fmddlmyy.cn/text59.html)
+  GPS程序员算法及代码集
+
+- [Time conversion(matlab)](http://www.fmddlmyy.cn/text59.html)
+
+- 时间转换matlab程序
 
 - [Mike Craymer's Software Archive](https://mcraymer.github.io/software/)
 
+  NRCan Mike Craymer博士的软件档案
+
 - [On-Line Geodesy Resources Global Positioning System](https://mcraymer.github.io/geodesy/gps.html)
+
+  在线大地测量资源
