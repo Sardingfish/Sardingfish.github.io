@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GithubTips"
-date:   2019-03-03
+date:   2019-03-14
 categories: Tips
 tags: Github
 author: Jason Ding
@@ -46,3 +46,7 @@ author: Jason Ding
 4. **Make a ReadMe**
 
    website：[https://www.makeareadme.com/](https://www.makeareadme.com/)
+
+5. **GitPod: Web IDE for GitHub**
+
+   website：[https://toedter.com/2018/10/27/gitpod-web-ide-for-github/](https://toedter.com/2018/10/27/gitpod-web-ide-for-github/)
