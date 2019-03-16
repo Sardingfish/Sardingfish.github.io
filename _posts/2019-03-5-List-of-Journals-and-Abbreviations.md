@@ -40,18 +40,13 @@ The following is a list of top journals and professional abbreviations for the i
 
   | 期刊                                                         | 复合影响因子 | 综合影响因子 |
   | ------------------------------------------------------------ | ------------ | ------------ |
-  | 地球物理学报                                                 | 3.086        | 2.403        |
+  | [地球物理学报](http://www.geophy.cn/CN/volumn/home.shtml)    | 3.086        | 2.403        |
   | [测绘学报（Journal of Geodesy and Geoinformation Science）](http://xb.sinomaps.com/CN/volumn/home.shtml) | 2.882        | 2.237        |
-  | 中国矿业大学学报                                             | 2.576        | 1.863        |
-  | 遥感学报                                                     | 2.106        | 1.412        |
-  | 铁道学报                                                     | 1.789        | 0.956        |
-  | 电子与信息学报                                               | 1.728        | 1.259        |
+  | [中国矿业大学学报](http://www.zgkydxxb.cn/)                  | 2.576        | 1.863        |
+  | [遥感学报](http://www.jors.cn/jrs/ch/index.aspx)             | 2.106        | 1.412        |
   | [武汉大学学报(信息科学版)](http://ch.whu.edu.cn/CN/volumn/home.shtml) | 1.705        | 1.168        |
-  | 电子学报                                                     | 1.566        | 1.099        |
-  | 航空学报                                                     | 1.52         | 1.053        |
-  | [宇航学报](http://www.yhxb.org.cn/CN/volumn/home.shtml)      | 1.259        | 1.003        |
-  | 同济大学学报（自然科学）                                     | 1.147        | 0.677        |
-  | 北京航空航天大学学报                                         | 1.028        | 0.652        |
+  | [北京航空航天大学学报（自然科学版）](http://bhxb.buaa.edu.cn/CN/volumn/home.shtml) | 1.52         | 1.053        |
+  | [东南大学学报（自然科学版）](http://journal.seu.edu.cn/)     | 1.014        | 0.555        |
 
   ​	
 
