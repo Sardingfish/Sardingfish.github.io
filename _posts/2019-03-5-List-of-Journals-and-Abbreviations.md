@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "List of Journals and Abbreviations"
-date:   2019-03-08
+date:   2019-04-04
 categories: Tool
 tags: Journals
 author: Jason Ding
 ---
 
-The following is a list of top journals and professional abbreviations for the industry, with the aim of making reference and preparation for future writing of journal articles and dissertations.(Latest update date:2019-3-8)
+The following is a list of top journals and professional abbreviations for the industry, with the aim of making reference and preparation for future writing of journal articles and dissertations.(Data from Web of Science， Latest update date:2019-4-4)
 
 **Journals related to surveying and mapping**
 
@@ -16,19 +16,26 @@ The following is a list of top journals and professional abbreviations for the i
   | Journal                                                      | IF（2017） | IF（5 year） | JCR分区 |
   | ------------------------------------------------------------ | ---------- | ------------ | ------- |
   | *[ISPRS Journal of Photogrammetry and Remote Sensing](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing)* | 5.994      | 6.592        | Q1      |
+  | [Earth and Planetary Science Letters](https://www.journals.elsevier.com/earth-and-planetary-science-letters) | 4.581      | 5.116        | Q1      |
   | *[GPS Solutions](https://www.springer.com/earth+sciences+and+geography/geophysics/journal/10291)* | 4.727      | 4.767        | Q1      |
+  | [Geophysical Research Letters](https://agupubs.onlinelibrary.wiley.com/journal/19448007) | 4.339      | 4.692        | Q1      |
+  | [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36) | 4.662      | 4.69         | Q1      |
   | *[Journal of Geodesy](https://www.springer.com/earth+sciences+and+geography/geophysics/journal/190)* | 4.633      | 4.409        | Q1      |
+  | [International Journal of Applied Earth Observation and Geoinformation](https://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation) | 4.003      | 4.433        | Q1      |
   | *[Journal of Geophysical Research-Solid Earth](https://agupubs.onlinelibrary.wiley.com/journal/21699356)* | 3.482      | 4.101        | Q1      |
   | *[Solid Earth](https://www.solid-earth.net/)*                | 4.165      | 4.075        | Q1      |
   | *[Journal of Geophysical Research-Space Physics](https://agupubs.onlinelibrary.wiley.com/journal/21562202)* | 3.318      | 3.651        | Q1      |
   | *[Sensors](https://www.mdpi.com/journal/sensors)*            | 2.475      | 3.014        | Q2/Q3   |
+  | [IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859) | 2.893      | 2.866        | Q2      |
   | *[Geophysical Journal International](https://academic.oup.com/gji)* | 2.528      | 2.777        | Q2      |
+  | [Journal of Geophysical Research-Space Physics](https://agupubs.onlinelibrary.wiley.com/journal/21699402) | 2.752      | 2.72         | Q2      |
   | *[Journal of Geodynamics](https://www.journals.elsevier.com/journal-of-geodynamics)* | 2.142      | 2.418        | Q2      |
   | *[Earth, planets and space](https://earth-planets-space.springeropen.com/)* | 2.773      | 2.288        | Q2      |
   | *[Science China Earth Sciences](https://www.springer.com/earth+sciences+and+geography/journal/11430)* | 2.058      | 2.2          | Q2      |
   | *[Journal of Navigation](https://www.cambridge.org/core/journals/journal-of-navigation)* | 1.58       | 1.891        | Q2/Q3   |
   | *[Chinese Science Bulletin](http://engine.scichina.com/publisher/scp/journal/Sci%20Bull%20Chin?slug=abstracts)* | 1.649      | 1.738        | Q2      |
   | *[Journal of Earthquake Engineering](https://www.tandfonline.com/toc/ueqe20/current)* | 1.763      | 1.676        | Q2      |
+  | [Annales Geophysicae](https://www.annales-geophysicae.net/)  | 1.621      | 1.614        | Q3      |
   | *[Advances in Space Research](https://www.journals.elsevier.com/advances-in-space-research)* | 1.529      | 1.55         | Q3      |
   | *[Marine Geodesy](https://www.tandfonline.com/loi/umgd20)*   | 1.547      | 1.516        | Q3      |
   | *[Geotectonics](https://www.springer.com/earth+sciences+and+geography/geology/journal/11479)* | 1.134      | 1.299        | Q3      |
@@ -40,12 +47,13 @@ The following is a list of top journals and professional abbreviations for the i
 
   | 期刊                                                         | 复合影响因子 | 综合影响因子 |
   | ------------------------------------------------------------ | ------------ | ------------ |
-  | [地球物理学报](http://www.geophy.cn/CN/volumn/home.shtml)    | 3.086        | 2.403        |
+  | [地球物理学报](http://www.geophy.cn/CN/volumn/home.shtml)（SCI） | 3.086        | 2.403        |
   | [测绘学报（Journal of Geodesy and Geoinformation Science）](http://xb.sinomaps.com/CN/volumn/home.shtml) | 2.882        | 2.237        |
   | [中国矿业大学学报](http://www.zgkydxxb.cn/)                  | 2.576        | 1.863        |
   | [遥感学报](http://www.jors.cn/jrs/ch/index.aspx)             | 2.106        | 1.412        |
   | [武汉大学学报(信息科学版)](http://ch.whu.edu.cn/CN/volumn/home.shtml) | 1.705        | 1.168        |
   | [北京航空航天大学学报（自然科学版）](http://bhxb.buaa.edu.cn/CN/volumn/home.shtml) | 1.52         | 1.053        |
+  | [宇航学报](http://www.yhxb.org.cn/CN/volumn/home.shtml)      | 1.259        | 1.003        |
   | [东南大学学报（自然科学版）](http://journal.seu.edu.cn/)     | 1.014        | 0.555        |
 
   ​	
