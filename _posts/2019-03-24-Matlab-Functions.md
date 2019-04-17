@@ -48,3 +48,8 @@ author: Jason Ding
 
   第三列：每个元素占总元素数的百分比。
 
+- **四种取整方法：fix, floor, ceil, round**
+  - fix(x)：截尾取整（去除小数部分，仅保留整数部分）。
+  - floor(x)：高斯取整（不超过x的最大整数）。
+  - ceil(x)：大于x的最小整数。
+  - round(x)：四舍五入取整。
