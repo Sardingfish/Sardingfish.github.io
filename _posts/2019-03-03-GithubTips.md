@@ -25,7 +25,6 @@ author: Jason Ding
 
    <video src="https://zhihuxiazai.com/storage/downloader/videos/1077934316742447104/hd.mp4?attname=1077934316742447104.hd.mp4" width="750" height="360"
    controls="controls"></video> 
-
    *Video comes from Zhihu users:https://www.zhihu.com/question/42917600/answer/593848187
 
 
@@ -35,6 +34,7 @@ author: Jason Ding
    website：[https://www.webfx.com/tools/emoji-cheat-sheet/](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
    ![](https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/Others/Emoji.png)
+
 
 
 3. **Making github badge**
@@ -53,3 +53,9 @@ author: Jason Ding
 
    **Usage：**add"http://gitpod.io#"in front of URL.
 
+
+6. **Online Latex Editor**
+
+   GitHub's readme does not support Latex formula compilation. Here's a website where Latex can be edited online. It can generate transparent background official images and HTML code.
+
+   website：[https://www.codecogs.com/latex/eqneditor.php](https://www.codecogs.com/latex/eqneditor.php)
