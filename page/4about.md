@@ -29,7 +29,7 @@ Shanghai Astronomical Observatory (SHAO), Chinese Academy of Sciences
 
 ### About this site
 
-If you would like to use this jekyll blog theme, please visit：[https://github.com/Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io)
+If you would like to use this jekyll blog theme, please visit：[here](https://github.com/Gaohaoyang/gaohaoyang.github.io)
 
 
 

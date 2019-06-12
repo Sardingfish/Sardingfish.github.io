@@ -7,7 +7,7 @@
 
 # Site settings
 title: Jason
-brief-intro: GNSS Beginner
+brief-intro: GNSS Beginer
 baseurl: "https://Sardingfish.github.io" # the subpath of your site, e.g. /blog
 url: "https://Sardingfish.github.io" # the base hostname & protocol for your site
 
