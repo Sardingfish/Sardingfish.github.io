@@ -3,7 +3,7 @@ layout: post
 title:  "List of Conferences"
 date:   2019-02-26
 categories: Tool
-tags: Conference
+tags: GNSS
 author: Jason Ding
 
 ---

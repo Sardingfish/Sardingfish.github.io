@@ -3,7 +3,7 @@ layout: post
 title:  "List of Journals and Abbreviations"
 date:   2019-04-04
 categories: Tool
-tags: Journals
+tags: GNSS
 author: Jason Ding
 ---
 

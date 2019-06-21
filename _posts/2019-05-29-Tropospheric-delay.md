@@ -3,7 +3,7 @@ layout: post
 title:  "Tropospheric delay"
 date:   2019-05-29
 categories: Tool
-tags: Trop
+tags: GNSS
 author: Jason Ding
 
 ---
