@@ -18,7 +18,9 @@ The [Chinese Academy of Sciences SCI division](http://www.fenqubiao.com/#) and t
   |    Q3     |        50%  > Ranking ≥ 75%         |            20%  > Ranking ≥ 50%            |
   |    Q4     |           75%  > Ranking            |               50%  > Ranking               |
 
-**Journals related to surveying and mapping**
+#### Journals related to surveying and mapping
+
+---
 
 - **SCI**
 
@@ -67,7 +69,9 @@ The [Chinese Academy of Sciences SCI division](http://www.fenqubiao.com/#) and t
 
   ​	
 
-**List of Abbreviations**
+#### List of Abbreviations
+
+---
 
 - **Administration/Agency/Association/Centre/Institute/Laboratory/Organization/Union**
 
