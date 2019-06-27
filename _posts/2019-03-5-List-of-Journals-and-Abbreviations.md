@@ -22,8 +22,6 @@ The [Chinese Academy of Sciences SCI division](http://www.fenqubiao.com/#) and t
 
 #### Journals related to surveying and mapping
 
----
-
 - **SCI**
 
   | Journal                                                      | IF（2017） | IF（5 year） | JCR分区 |
@@ -72,8 +70,6 @@ The [Chinese Academy of Sciences SCI division](http://www.fenqubiao.com/#) and t
   ​	
 
 #### List of Abbreviations
-
----
 
 - **Administration/Agency/Association/Centre/Institute/Laboratory/Organization/Union**
 
