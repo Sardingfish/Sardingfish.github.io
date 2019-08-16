@@ -57,7 +57,7 @@ modules : [coast](https://docs.generic-mapping-tools.org/dev/coast.html?highligh
 
 modules : [basemap](https://docs.generic-mapping-tools.org/dev/basemap.html?highlight=basemap) & [psxy](https://docs.generic-mapping-tools.org/dev/psxy.html?highlight=psxy) & [plot](https://docs.generic-mapping-tools.org/dev/plot.html?highlight=plot)
 
-<img src="https://github.com/Sardingfish/GMT-scripts/raw/master/DoubleYaxis/DoubleYaxis.png"  height="399" width="798">
+<img src="https://github.com/Sardingfish/GMT-scripts/raw/master/DoubleYaxis/DoubleYaxis.png"  height="223" width="798">
 
 
 
