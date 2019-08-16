@@ -10,7 +10,7 @@ author: Jason
 
 [TOC]
 
-Some Useful GMT scripts in GNSS
+Some Useful GMT scripts in GNSS, there may be a better reading experience here: [https://github.com/Sardingfish/GMT-scripts](https://github.com/Sardingfish/GMT-scripts)
 
 ##### **Pcolor Maps**
 
