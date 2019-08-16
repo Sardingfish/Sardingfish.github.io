@@ -25,7 +25,7 @@ modules : [surface](https://docs.generic-mapping-tools.org/dev/surface.html) & [
 
 modules : [coast](https://docs.generic-mapping-tools.org/dev/coast.html?highlight=coast) & [plot](https://docs.generic-mapping-tools.org/dev/plot.html?highlight=plot) & [text](https://docs.generic-mapping-tools.org/dev/text.html?highlight=text)
 
-<img src="https://github.com/Sardingfish/GMT-scripts/blob/master/SatTracks/SatTracks.png"  height="399" width="798">
+<img src="https://github.com/Sardingfish/GMT-scripts/raw/master/SatTracks/SatTracks.png"  height="399" width="798">
 
 #### **Skyplot MEO Tracks**
 
@@ -33,7 +33,7 @@ modules : [coast](https://docs.generic-mapping-tools.org/dev/coast.html?highligh
 
 modules : [coast](https://docs.generic-mapping-tools.org/dev/coast.html?highlight=coast) & [plot](https://docs.generic-mapping-tools.org/dev/plot.html?highlight=plot) & [text](https://docs.generic-mapping-tools.org/dev/text.html?highlight=text)
 
-<img src="https://github.com/Sardingfish/GMT-scripts/blob/master/Skyplot/skyplot.png"  height="399" width="798">
+<img src="https://github.com/Sardingfish/GMT-scripts/raw/master/Skyplot/skyplot.png"  height="399" width="798">
 
 #### **IGS Site Distribution**
 
@@ -41,7 +41,7 @@ modules : [coast](https://docs.generic-mapping-tools.org/dev/coast.html?highligh
 
 modules : [coast](https://docs.generic-mapping-tools.org/dev/coast.html?highlight=coast) 
 
-<img src="https://github.com/Sardingfish/GMT-scripts/blob/master/IGSsites/IGSsites.png"  height="399" width="798">
+<img src="https://github.com/Sardingfish/GMT-scripts/raw/master/IGSsites/IGSsites.png"  height="399" width="798">
 
 #### **NGL GNSS Site Distribution**
 
@@ -49,7 +49,7 @@ modules : [coast](https://docs.generic-mapping-tools.org/dev/coast.html?highligh
 
 modules : [coast](https://docs.generic-mapping-tools.org/dev/coast.html?highlight=coast) 
 
-<img src="https://github.com/Sardingfish/GMT-scripts/blob/master/NGLsites/NGLsites.png"  height="399" width="798">
+<img src="https://github.com/Sardingfish/GMT-scripts/raw/master/NGLsites/NGLsites.png"  height="399" width="798">
 
 #### **Double Y axis**
 
@@ -57,7 +57,7 @@ modules : [coast](https://docs.generic-mapping-tools.org/dev/coast.html?highligh
 
 modules : [basemap](https://docs.generic-mapping-tools.org/dev/basemap.html?highlight=basemap) & [psxy](https://docs.generic-mapping-tools.org/dev/psxy.html?highlight=psxy) & [plot](https://docs.generic-mapping-tools.org/dev/plot.html?highlight=plot)
 
-<img src="https://github.com/Sardingfish/GMT-scripts/blob/master/DoubleYaxis/DoubleYaxis.png"  height="399" width="798">
+<img src="https://github.com/Sardingfish/GMT-scripts/raw/master/DoubleYaxis/DoubleYaxis.png"  height="399" width="798">
 
 
 
