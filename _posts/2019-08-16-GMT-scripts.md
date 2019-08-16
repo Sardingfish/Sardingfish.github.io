@@ -19,7 +19,7 @@ modules : [surface](https://docs.generic-mapping-tools.org/dev/surface.html) & [
 
 <img src="https://github.com/Sardingfish/GMT-scripts/blob/master/Pcolor/topo.png"  height="399" width="798">
 
-#### **Ground Tracks of BDS Satellites(GEO & IGSO)**
+#### **Ground Tracks of BDS**
 
 [download：](https://github.com/Sardingfish/GMT-scripts/archive/1.1.zip) [SatTracks.gmt](https://github.com/Sardingfish/GMT-scripts/releases/download/1.1/SatTracks.gmt) & [tracks.dat](https://github.com/Sardingfish/GMT-scripts/releases/download/1.1/tracks.dat) & [SatTracks.png](https://github.com/Sardingfish/GMT-scripts/releases/download/1.1/SatTracks.png)
 
@@ -35,7 +35,7 @@ modules : [coast](https://docs.generic-mapping-tools.org/dev/coast.html?highligh
 
 <img src="https://github.com/Sardingfish/GMT-scripts/blob/master/Skyplot/skyplot.png"  height="399" width="798">
 
-#### **IGS Network Site Distribution**
+#### **IGS Site Distribution**
 
 [download：](https://github.com/Sardingfish/GMT-scripts/archive/1.3.zip) [IGSsite.gmt](https://github.com/Sardingfish/GMT-scripts/releases/download/1.3/IGSsite.gmt) & [IGSNetwork.dat](https://github.com/Sardingfish/GMT-scripts/releases/download/1.3/IGSNetwork.dat) & [IGSsites.png](https://github.com/Sardingfish/GMT-scripts/releases/download/1.3/IGSsites.png)
 
