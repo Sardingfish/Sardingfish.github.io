@@ -15,7 +15,7 @@ author: Jason Ding
 | ------------------------------------------------------------ | ----- | ------ | -------- | ------ | ------------------------------------------------------------ |
 | *[Journal of Geodesy](https://link.springer.com/journal/190)* | 4.528 | Q1/2区 | 14.51%   | 17.60% | *[Springer](https://link.springer.com/)*                     |
 | *[GPS Solutions](https://link.springer.com/journal/10291)*   | 3.049 | Q1/2区 | 36.90%   | 22.70% | *[Springer](https://link.springer.com/)*                     |
-| *[Remote Sensing](https://www.mdpi.com/journal/remotesensing)* | 4.118 | Q2/2区 | 37.55%   | 28.30% | MDPI                                                         |
+| *[Remote Sensing](https://www.mdpi.com/journal/remotesensing)* | 4.118 | Q2/2区 | 37.55%   | 28.30% | *[MDPI](https://www.mdpi.com/)*                                                         |
 | *[Sensors](https://www.mdpi.com/journal/sensors)*            | 3.031 | Q2/3区 | 34.13%   | 23.00% | *[MDPI](https://www.mdpi.com/)*                              |
 | *[Advances in Space Research](https://www.journals.elsevier.com/advances-in-space-research)* | 1.746 | Q3/4区 | 9.82%    | 19.90% | [*Elsevier*](https://www.elsevier.com/books-and-journals/elsevier) |
 | *[The Journal of Navigation](https://rin.org.uk/page/JournalofNavigation)* | 1.506 | Q2/4区 | 12.58%   | 13.40% | Cambridge                                                    |
@@ -25,6 +25,6 @@ author: Jason Ding
 | *[Journal of Geophysical Research: Space Physics](https://agupubs.onlinelibrary.wiley.com/journal/21699402)* | 2.821 | Q2/3区 | 5.76%    | 52.50% | *[Wiley](https://onlinelibrary.wiley.com/)*                  |
 | *[Journal of Geophysical Research: Oceans](https://agupubs.onlinelibrary.wiley.com/journal/21699291)* | 3.235 | Q1/2区 | 5.73%    | 25.00% | *[Wiley](https://onlinelibrary.wiley.com/)*                  |
 | *[Journal of Geophysical Research: Earth Surface](https://agupubs.onlinelibrary.wiley.com/journal/21699011)* | 4.253 | Q1/2区 | 4.35%    | 11.10% | *[Wiley](https://onlinelibrary.wiley.com/)*                  |
-| *[Earth and Planetary Science Letters](https://www.sciencedirect.com/journal/earth-and-planetary-science-letters)* | 4.637 | Q1/1区 | 5.80%    | 9.30%  | SciDirect                                                |
+| *[Earth and Planetary Science Letters](https://www.sciencedirect.com/journal/earth-and-planetary-science-letters)* | 4.637 | Q1/1区 | 5.80%    | 9.30%  | *[SciDirect](https://www.sciencedirect.com/)*                                                |
 | *[Journal of Atmospheric and Solar-Terrestrial Physics](https://www.journals.elsevier.com/journal-of-atmospheric-and-solar-terrestrial-physics/)* | 1.79  | Q3/4区 | 6.62%    | 15.10% | *[Elsevier](https://www.elsevier.com/books-and-journals/elsevier)* |
 
