@@ -25,6 +25,6 @@ author: Jason Ding
 | Journal of Geophysical Research: Space Physics       | 2.821 | Q2/3区 | 5.76%    | 52.50% | Wiley         |
 | Journal of Geophysical Research: Oceans              | 3.235 | Q1/2区 | 5.73%    | 25.00% | Wiley         |
 | Journal of Geophysical Research: Earth Surface       | 4.253 | Q1/2区 | 4.35%    | 11.10% | Wiley         |
-| Earth and Planetary Science Letters                  | 4.637 | Q1/1区 | 5.80%    | 9.30%  | ScienceDirect |
+| Earth and Planetary Science Letters                  | 4.637 | Q1/1区 | 5.80%    | 9.30%  | SciDir |
 | Journal of Atmospheric and Solar-Terrestrial Physics | 1.79  | Q3/4区 | 6.62%    | 15.10% | Elsevier      |
 
