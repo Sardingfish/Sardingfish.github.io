@@ -18,7 +18,7 @@ author: Jason Ding
 | *[Remote Sensing](https://www.mdpi.com/journal/remotesensing)* | 4.118 | Q2/2区 | 37.55%   | 28.30% | *[MDPI](https://www.mdpi.com/)*                                                         |
 | *[Sensors](https://www.mdpi.com/journal/sensors)*            | 3.031 | Q2/3区 | 34.13%   | 23.00% | *[MDPI](https://www.mdpi.com/)*                              |
 | *[Advances in Space Research](https://www.journals.elsevier.com/advances-in-space-research)* | 1.746 | Q3/4区 | 9.82%    | 19.90% | [*Elsevier*](https://www.elsevier.com/books-and-journals/elsevier) |
-| *[The Journal of Navigation](https://rin.org.uk/page/JournalofNavigation)* | 1.506 | Q2/4区 | 12.58%   | 13.40% | Cambridge                                                    |
+| *[The Journal of Navigation](https://rin.org.uk/page/JournalofNavigation)* | 1.506 | Q2/4区 | 12.58%   | 13.40% | *[Cambridge](https://www.cambridge.org/core/journals/)*                                                    |
 | *[Geophysical Research Letters](https://agupubs.onlinelibrary.wiley.com/journal/19448007)* | 4.578 | Q1/1区 | 4.64%    | 11.00% | *[Wiley](https://onlinelibrary.wiley.com/)*                  |
 | *[Journal of Geophysical Research: Atmospheres](https://agupubs.onlinelibrary.wiley.com/journal/21698996)* | 3.633 | Q1/2区 | 8.89%    | 16.40% | *[Wiley](https://onlinelibrary.wiley.com/)*                  |
 | *[Journal of Geophysical Research: Solid Earth](https://agupubs.onlinelibrary.wiley.com/journal/21699356)* | 3.585 | Q1/2区 | 6.62%    | 17.70% | [*Wiley*](https://onlinelibrary.wiley.com/)                  |
