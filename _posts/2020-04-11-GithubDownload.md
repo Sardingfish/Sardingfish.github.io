@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GithubDownload"
-date:   2019-04-17
+date:   2020-04-17
 categories: Tips
 tags: Github
 author: Jason Ding
