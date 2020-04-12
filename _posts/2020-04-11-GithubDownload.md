@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GithubDownload"
-date:   2020-04-17
+date:   2020-04-11
 categories: Tips
 tags: Github
 author: Jason Ding
@@ -59,9 +59,9 @@ author: Jason Ding
 
 这里给出测试有效果的两个工具：
 
-https://g.widora.cn/
+[https://g.widora.cn/](https://g.widora.cn/)
 
-https://gh.api.99988866.xyz/
+[https://gh.api.99988866.xyz/](https://gh.api.99988866.xyz/)
 
 测试结果：失败，下载速度能达到60~80kb/s，但是两种工具下载下来的压缩包不完整且损坏无法解压。
 
