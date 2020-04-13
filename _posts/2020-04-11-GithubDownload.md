@@ -25,7 +25,7 @@ author: Jason Ding
 
 - 打开网站[https://www.ipaddress.com/](https://www.ipaddress.com/);
 
-- 分别在上面打开的网页中查找以下域名的IP地址；
+- 在上面打开的网页中分别查找以下域名的IP地址；
 
   ```
   github.com
@@ -47,7 +47,7 @@ author: Jason Ding
 
 - 将上面的IP地址添加到本地hosts文件中(C:\Windows\System32\drivers\etc\hosts for Win; \etc\hosts for Linux);
 
-- 打开cmd，在cmd命令行输入：ipconfig/flushdns (刷新dns).
+- 打开cmd，在cmd命令行输入：`ipconfig/flushdns` (刷新dns).
 
 第二步的网址数量较多，而且每次查询地址都可能会变化，有人用python写了个脚本，可以自动查询这些ip并填入hosts文件及刷新本地DNS, 这里给出链接：[https//github.com/jvxiao/speed-github](https//github.com/jvxiao/speed-github).
 
