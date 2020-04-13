@@ -13,7 +13,7 @@ author: Jason Ding
 
 
 
-#### 方法1：仓库导入“码云”，后从码云下载
+#### **方法1：仓库导入“[码云Gitee](https://gitee.com/)”，后从码云下载**
 
 此方法推荐的人比较多，下速度也比较快，但是，对较大的仓库不太友好......
 
@@ -21,9 +21,9 @@ author: Jason Ding
 
 
 
-#### 方法2：修改hosts文件
+#### **方法2：修改hosts文件**
 
-- 打开网站https://www.ipaddress.com/;
+- 打开网站[https://www.ipaddress.com/](https://www.ipaddress.com/);
 
 - 分别在上面打开的网页中查找以下域名的IP地址；
 
@@ -45,23 +45,22 @@ author: Jason Ding
 
   
 
-- 将上面的IP地址添加到本地hosts文件中（C:\Windows\System32\drivers\etc\hosts for Win; \etc\hosts for Linux）；
+- 将上面的IP地址添加到本地hosts文件中(C:\Windows\System32\drivers\etc\hosts for Win; \etc\hosts for Linux);
 
 - 打开cmd，在cmd命令行输入：ipconfig/flushdns (刷新dns).
 
 第二步的网址数量较多，而且每次查询地址都可能会变化，有人用python写了个脚本，可以自动查询这些ip并填入hosts文件及刷新本地DNS, 这里给出链接：[https//github.com/jvxiao/speed-github](https//github.com/jvxiao/speed-github).
 
-测试结果：在Win和Linux平台均有效，下载速度从2~5kb/s，提升到了20~30kb/s，然而效果有限，还是很慢......
+测试结果：在Win和Linux平台均有效，下载速度从2~5kb/s，提升到了20~30kb/s，然而效果有限，对于比较大的仓库来说，还是很慢......
 
 
 
-#### 方法3：使用一些在线代下载工具
+#### **方法3：使用一些在线代下载工具**
 
 这里给出测试有效果的两个工具：
 
-[https://g.widora.cn/](https://g.widora.cn/)
-
-[https://gh.api.99988866.xyz/](https://gh.api.99988866.xyz/)
+- [https://g.widora.cn/](https://g.widora.cn/)
+- [https://gh.api.99988866.xyz/](https://gh.api.99988866.xyz/)
 
 测试结果：失败，下载速度能达到60~80kb/s，但是两种工具下载下来的压缩包不完整且损坏无法解压。
 
