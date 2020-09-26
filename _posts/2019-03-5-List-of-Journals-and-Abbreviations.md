@@ -13,6 +13,9 @@ The following is a list of top journals and professional abbreviations for the i
 
 The [Chinese Academy of Sciences SCI division](http://www.fenqubiao.com/#) and the [Thomson Reuters JCR division](https://error.incites.clarivate.com/error/Error?DestApp=IC2JCR&Error=IPError&Params=DestApp%3DIC2JCR&RouterURL=https%3A%2F%2Flogin.incites.clarivate.com%2F&Domain=.clarivate.com&Src=IP&Alias=IC2) use different zoning standards (refer to the table below). The Chinese Academy of Sciences section referenced JCR's partitioning standards (both based on index data), but the Chinese Academy of Sciences' partitions are more stringent than the JCR partitions.
 
+
+
+
 - | Partition | WoS Thomson Reuters  JCR partitions | Chinese Academy of Sciences SCI partitions |
   | :-------: | :---------------------------------: | :----------------------------------------: |
   |    Q1     |            Ranking ≥ 25%            |                Ranking ≥ 5%                |
