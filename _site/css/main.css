@@ -30,7 +30,7 @@ html {
   height: 100%; }
 
 body {
-  font-family: 'Helvetica Neue',Helvetica,Arial,'Microsoft YaHei',sans-serif;
+  font-family: Consolas,'Helvetica Neue',Helvetica,Arial,'Microsoft YaHei',sans-serif;
   color: #333;
   background-image: url(https://gw.alicdn.com/tfs/TB1xzbUumBYBeNjy0FeXXbnmFXa-125-121.png);
   position: relative;
@@ -468,7 +468,7 @@ code {
   color: #000;
   background-color: rgba(0, 0, 0, 0.06);
   border: 1px solid #d7d0d2;
-  font-family: Monaco,Menlo,"Microsoft YaHei Mono",Consolas,"Courier New",monospace,sans-serif; }
+  font-family: Consolas,Monaco,Menlo,"Microsoft YaHei Mono",Consolas,"Courier New",monospace,sans-serif; }
 
 pre {
   margin: 12px 0;
@@ -485,11 +485,11 @@ pre {
     font-size: 13px;
     color: #d1d1c9;
     border: none;
-    background-color: #272822; }
+    background-color: #282C34; }
 
 .highlight {
   border-radius: 3px;
-  background: #272822;
+  background: #282C34;
   /* Comment */
   /* Error */
   /* Keyword */
@@ -553,7 +553,7 @@ pre {
   /* Generic.Deleted & Diff Deleted */
   /* Generic.Inserted & Diff Inserted */ }
   .highlight .hll {
-    background-color: #272822; }
+    background-color: #282C34; }
   .highlight .c {
     color: #75715e; }
   .highlight .err {
