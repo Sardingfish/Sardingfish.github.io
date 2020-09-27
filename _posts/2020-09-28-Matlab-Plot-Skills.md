@@ -76,7 +76,7 @@ subplot(2,3,[5,6]);...
 
 
 
-![](D:\Github Repositories\Sardingfish.github.io\image\Others\subplot.png)
+![](https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/Others/subplot.png)
 
 ---
 
