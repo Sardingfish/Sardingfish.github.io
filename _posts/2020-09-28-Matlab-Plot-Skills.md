@@ -24,7 +24,7 @@ Matlab应该是大部分人最早接触到的除了Excel之外的画图工具，
 set(gcf,'Units','centimeter','Position',[10 5 15 7.8]); % 第1，2个参数为figure位置，第3，4个参数为figure大小
 ```
 
-**设置子图subplot的大小（使紧凑，去白边）**
+**设置子图subplot的大小（使紧凑）**
 
 ```matlab
 set(gca,'position',[0.03 0.07 0.98 0.88]); % 前两个参数为子图在figure中的位置，第3，4个参数代表子图大小，数字代表百分比
@@ -34,6 +34,16 @@ set(gca,'position',[0.03 0.07 0.98 0.88]); % 前两个参数为子图在figure�
 
 ```matlab
 patch([0,3,3,0],[0,0,12,12],[0.1,0.1,0.1],'FaceAlpha',.2,'EdgeColor','none');
+```
+
+**图幅消除白边**
+
+```matlab
+set(gca, 'LooseInset', [0,0,0,0]);
+```
+
+```matlab
+set(gca,'LooseInset',get(gca,'TightInset'))
 ```
 
 **坐标轴断开breakyaxis和breakxaxis**
@@ -133,7 +143,9 @@ set(hl,'Box','off');
 
 ##### Links
 
-https://ww2.mathworks.cn/help/matlab/creating_plots/types-of-matlab-plots.html
+[https://ww2.mathworks.cn/help/matlab/creating_plots/types-of-matlab-plots.html](https://ww2.mathworks.cn/help/matlab/creating_plots/types-of-matlab-plots.html)
 
-https://ww2.mathworks.cn/products/matlab/plot-gallery.html
+[https://ww2.mathworks.cn/products/matlab/plot-gallery.html](https://ww2.mathworks.cn/products/matlab/plot-gallery.html)
+
+[https://mp.weixin.qq.com/s?__biz=MzU4OTcyOTg0MA==&mid=2247483686&idx=1&sn=64a9f0dd9197c6e896ef527fffeaf932&chksm=fdc85879cabfd16f4d1a3b773c86547e35afa79ce296a88dcfda32de2495399c07424d7caa61&scene=21#wechat_redirect](https://mp.weixin.qq.com/s?__biz=MzU4OTcyOTg0MA==&mid=2247483686&idx=1&sn=64a9f0dd9197c6e896ef527fffeaf932&chksm=fdc85879cabfd16f4d1a3b773c86547e35afa79ce296a88dcfda32de2495399c07424d7caa61&scene=21#wechat_redirect)
 
