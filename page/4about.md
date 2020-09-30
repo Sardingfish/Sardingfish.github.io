@@ -13,7 +13,7 @@ Shanghai Astronomical Observatory, Chinese Academy of Sciences 80 Nandan Road, S
 School of Astronomy and Space Science, University of Chinese Academy of Sciences, Beijing 100049, China
 
 E-mail: <u>dingjunsheng@shao.ac.cn</u>  
-Personal Website: [https://sardingfish.top](https://sardingfish.top)  
+Personal Website: [https://dingjunsheng.top](https://dingjunsheng.top)  
 Research Gate: [https://www.researchgate.net/profile/Junsheng_Ding](https://www.researchgate.net/profile/Junsheng_Ding)
 
 #### **Education**
