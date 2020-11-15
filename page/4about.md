@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Address
+title: CV
 permalink: /about/
 icon: heart
 type: page
