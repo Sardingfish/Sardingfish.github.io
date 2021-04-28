@@ -22,10 +22,11 @@ Research Gate: [https://www.researchgate.net/profile/Junsheng_Ding](https://www.
 
 #### **Research Interests**
 - Satellite Navigation & Remote Sensing
-- Troposphere Modeling & GNSS Meteorology
+- Atmosphere Modeling & GNSS Meteorology
 
 #### **Employment**
-- 2019-Now, Graduate Assistant, Shanghai Astronomical Observatory, CAS, Shanghai, China
+- 2019.9-Now, Graduate Assistant, Shanghai Astronomical Observatory, CAS, Shanghai, China
+- 2018.7-2018.8, Summer Trainee, National Institute of Metrology, China, Beijing, China
 - 2017.7-2017.8, Software testing intern, Trimble R&D Center in China, Trimble Inc., Xi'an, China
 
 #### **Publications**
@@ -41,4 +42,5 @@ Research Gate: [https://www.researchgate.net/profile/Junsheng_Ding](https://www.
 
 #### **Awards**
 
+- 2021.4 Merit Student of UCAS (Top 15%)
 - 2020.5 Merit Student of UCAS (Top 15%)
