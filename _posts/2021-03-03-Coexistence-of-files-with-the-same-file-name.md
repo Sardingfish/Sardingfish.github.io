@@ -21,9 +21,9 @@ author: Jason Ding
 
 ---
 
-![](D:\Github Repositories\Sardingfish.github.io\image\Others\ls1.png)
+![](https://github.com/Sardingfish/Sardingfish.github.io/blob/master/image/Others/ls1.png?raw=true)
 
-![ls2](D:\Github Repositories\Sardingfish.github.io\image\Others\ls2.png)
+![ls2](https://github.com/Sardingfish/Sardingfish.github.io/blob/master/image/Others/ls2.png?raw=true)
 
 ---
 
