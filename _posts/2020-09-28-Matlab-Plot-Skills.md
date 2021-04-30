@@ -116,6 +116,22 @@ set(gca, 'ticklength', [0.02,0.01]);
 set(gca, 'xminortick', 'on', 'yminortick', 'on');
 ```
 
+**坐标轴断开**（折叠）
+
+不同数量级的数据放在同一张图中的时候（Y轴），或者中间段时间数据存在缺失（X轴），需要对坐标轴进行折叠，此时可以使用breakyaxis和breakxaxis函数实现。
+
+```matlab
+% example
+a=[2,5,9,890];
+bar(a);
+axis([0.5,4.5,0,900]);
+breakyaxis([10 880]); % 中括号中为折叠的起始和结束位置
+
+% breakxaxis和breakyaxis需要额外下载，下载后添加到matlab搜索路径，下载地址为：
+% https://www.mathworks.com/matlabcentral/fileexchange/3683-breakxaxis
+% https://ww2.mathworks.cn/matlabcentral/fileexchange/45760-break-y-axis
+```
+
 ---
 
 #### **Legend**
@@ -173,7 +189,7 @@ caxis([low,high]);
 
 
 
-#### Links
+#### **Links**
 
 [https://ww2.mathworks.cn/help/matlab/creating_plots/types-of-matlab-plots.html](https://ww2.mathworks.cn/help/matlab/creating_plots/types-of-matlab-plots.html)
 
