@@ -16,7 +16,7 @@ Matlab应该是大部分人最早接触到的除了Excel之外的画图工具，
 
 ---
 
-##### Figure
+#### **Figure**
 
 **设置图幅figure大小**
 
@@ -90,7 +90,7 @@ subplot(2,3,[5,6]);...
 
 ---
 
-##### **Tick**
+#### **Tick**
 
 **坐标轴标值旋转** （例如以年月日为横坐标的时候，横放会相互重叠，竖放非常占空间，斜放刚刚好）
 
@@ -118,7 +118,7 @@ set(gca, 'xminortick', 'on', 'yminortick', 'on');
 
 ---
 
-##### **Legend**
+#### **Legend**
 
 **legend位置**
 
@@ -141,7 +141,39 @@ set(hl,'Box','off');
 
 ---
 
-##### Links
+#### **Colormap**
+
+**subplot各子图使用不同的颜色图**
+
+```matlab
+ax1=subplot(1,2,1);
+colormap(ax1,hot);
+ax2=subplot(1,2,2);
+colormap(ax2,cool);
+```
+
+**colormap颜色图反转**
+
+```matlab
+colormap(flipud(hot));
+```
+
+**自定义colormap颜色图**
+
+```matlab
+colormap_mine=[linspace(1,1,64)’,linspace(0,1,64)’,linspace(0,1,64)’];
+colormap(colormap_mine);
+```
+
+**colorbar显示范围**
+
+```
+caxis([low,high]);
+```
+
+
+
+#### Links
 
 [https://ww2.mathworks.cn/help/matlab/creating_plots/types-of-matlab-plots.html](https://ww2.mathworks.cn/help/matlab/creating_plots/types-of-matlab-plots.html)
 
