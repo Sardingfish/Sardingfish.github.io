@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GithubTips"
+title:  "GithubSkills"
 date:   2019-04-17
 categories: Tips
 tags: Github

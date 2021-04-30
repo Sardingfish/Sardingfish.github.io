@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Literature search website"
-date:   2019-03-1
+date:   2019-03-01
 categories: Tool
 tags: GNSS
 author: Jason Ding
