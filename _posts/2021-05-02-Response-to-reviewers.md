@@ -3,7 +3,7 @@ layout: post
 title:  "Response to Reviewer Comments"
 date:   2021-05-02
 categories: Tips
-tags: Academic Writing
+tags: AcademicWriting
 author: Jason Ding
 ---
 
