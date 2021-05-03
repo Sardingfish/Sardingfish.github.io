@@ -80,3 +80,16 @@ type: page
 - [On-Line Geodesy Resources Global Positioning System](https://mcraymer.github.io/geodesy/gps.html)
 
   在线大地测量资源
+
+
+
+## 学术写作
+
+语法检查
+
+- [NOUNPLUS](https://www.nounplus.net/)
+- [Grammarly](https://www.grammarly.com/)
+
+学术短语库
+
+- [Manchester Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/)
