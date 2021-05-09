@@ -18,7 +18,7 @@ author: Jason Ding
 
 #### **解压和挂载**
 
-Linux版本的Matlab压缩包内的文件通常包含两个iso镜像和一个破解包，破解包里面包含license文件。下面以R2018b版本为例，解压后的文件目录为：/home/username/packages/matlabR2018a，破解包解压后文件夹名为Crack，镜像挂载目录为/media
+Linux版本的Matlab压缩包内的文件通常包含两个iso镜像和一个破解包，破解包里面包含license文件。下面以R2018a版本为例，解压后的文件目录为：/home/username/packages/matlabR2018a，破解包解压后文件夹名为Crack，镜像挂载目录为/media
 
 ```shell
 cd /home/username/packages/matlabR2018a
@@ -42,7 +42,7 @@ sudo /media/matlab//install -mode silent -fileInstallationKey 09806-07443-53955-
 
 ```shell
 cd /home/username/packages/matlabR2018a
-sudo mount -o loop R2016b_glnxa64_dvd2.iso /media/matlab/
+sudo mount -o loop R2018a_glnxa64_dvd2.iso /media/matlab/
 ```
 
 执行后前一个终端会继续安装，直到完成安装。
@@ -71,7 +71,7 @@ cd /usr/local/MATLAB/R2018a/bin
 
 ```shell
 sudo vim ~/.bashrc
-export PATH=/usr/local/MATLAB/R2016b/bin:$PATH
+export PATH=/usr/local/MATLAB/R2018a/bin:$PATH
 source ~/.bashrc
 ```
 
