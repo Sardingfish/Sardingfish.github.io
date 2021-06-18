@@ -7,7 +7,7 @@ type: page
 ---
 * content
 {:toc}
-**Junsheng Ding** (Ph.d student)
+**Junsheng Ding** (PhD student) [[pdf](https://github.com/Sardingfish/Sardingfish.github.io/blob/master/page/CV.pdf)]
 
 Shanghai Astronomical Observatory, Chinese Academy of Sciences 80 Nandan Road, Shanghai 200030, China
 School of Astronomy and Space Science, University of Chinese Academy of Sciences, Beijing 100049, China
@@ -17,8 +17,8 @@ Personal Website: [https://dingjunsheng.top](https://dingjunsheng.top)
 Research Gate: [https://www.researchgate.net/profile/Junsheng_Ding](https://www.researchgate.net/profile/Junsheng_Ding)
 
 #### **Education**
-- 2018-2023, Ph.D, Geodesy, University of Chinese Academy of Sciences, Beijing, China
-- 2014-2018, B.Sc, Geomatics Engineering, Chang'an University, Xi'an, China
+- 2018-2023, PhD, Geodesy, University of Chinese Academy of Sciences, Beijing, China
+- 2014-2018, BSc, Geomatics Engineering, Chang'an University, Xi'an, China
 
 #### **Research Interests**
 - Satellite Navigation & Remote Sensing
@@ -41,7 +41,7 @@ Research Gate: [https://www.researchgate.net/profile/Junsheng_Ding](https://www.
 - **Oral presentation** in 2020 CPGPS Forum held on Nov. 12-15 2020 in Shanghai, China. [[link](http://202.127.29.4/shao_gnss_ac/cpgps2020/program_online.html)]
 - **Oral presentation** in 2021 Scientific Assembly of the International Association Geodesy (IAG)  held on June 28 - July 2, 2021 in Beijing, China. [[link](https://www.iag2021.com/en/web/program/1646)]
 
-#### **Awards**
+#### **Honors & Awards**
 
 - 2021.4 Merit Student of UCAS (Top 15%)
 - 2020.5 Merit Student of UCAS (Top 15%)
