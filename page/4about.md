@@ -7,7 +7,7 @@ type: page
 ---
 * content
 {:toc}
-#### **Junsheng Ding** (PhD student) [[pdf](https://github.com/Sardingfish/Sardingfish.github.io/blob/master/page/CV.pdf)]
+**Junsheng Ding** (PhD student) [[pdf](https://github.com/Sardingfish/Sardingfish.github.io/blob/master/page/CV.pdf)]
 
 Shanghai Astronomical Observatory, Chinese Academy of Sciences 80 Nandan Road, Shanghai 200030, China
 School of Astronomy and Space Science, University of Chinese Academy of Sciences, Beijing 100049, China
