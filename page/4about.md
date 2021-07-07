@@ -36,7 +36,7 @@ Research Gate: [https://www.researchgate.net/profile/Junsheng_Ding](https://www.
 - Chen Q., Chen J.P., Yu C., Zhang Y.Z. and **Ding J.S.** (2020), Comparison of BDS Station Clock Short-term Prediction Models and their Applications in Precise Orbit Determination, Chinese Astronomy and Astrophysics, doi:[ 10.1016/j.chinastron.2020.05.008](https://www.sciencedirect.com/science/article/pii/S0275106220300357). 
 - Chen J.P., Wang J.G., Wang A.H., **Ding J.S.** and Zhang Y.Z. (2020), SHAtropE—A Regional Gridded ZTD Model for China and the Surrounding Areas, Remote Sensing, doi[:10.3390/rs12010165](https://www.mdpi.com/2072-4292/12/1/165). 
 
-#### **Academic Report**
+#### **Academic Reports**
 
 - **Oral presentation** in 4-th  Congress of China Geodesy and Geophysics (4-th CCGG) held on July 17-18, 2021 in Qingdao, China.
 - **Oral presentation** in 2021 Scientific Assembly of the International Association Geodesy (IAG2021)  held on June 28 - July 2, 2021 in Beijing, China. [[link](https://www.iag2021.com/en/web/program/1646)]
