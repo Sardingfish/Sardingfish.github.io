@@ -38,8 +38,9 @@ Research Gate: [https://www.researchgate.net/profile/Junsheng_Ding](https://www.
 
 #### **Academic Report**
 
-- **Oral presentation** in 2020 CPGPS Forum held on Nov. 12-15 2020 in Shanghai, China. [[link](http://202.127.29.4/shao_gnss_ac/cpgps2020/program_online.html)]
+- **Oral presentation** in 4-th  Congress of China Geodesy and Geophysics (4-th CCGG) held on July 17-18, 2021 in Qingdao, China.
 - **Oral presentation** in 2021 Scientific Assembly of the International Association Geodesy (IAG)  held on June 28 - July 2, 2021 in Beijing, China. [[link](https://www.iag2021.com/en/web/program/1646)]
+- **Oral presentation** in 2020 CPGPS Forum held on Nov. 12-15 2020 in Shanghai, China. [[link](http://202.127.29.4/shao_gnss_ac/cpgps2020/program_online.html)]
 
 #### **Honors & Awards**
 
