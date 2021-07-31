@@ -75,6 +75,46 @@ author: Jason Ding
 
 ---
 
+**催稿**
+
+有些期刊由于接受的稿件实在太多忙不过来或者审稿人拖稿，稿件状态可能长达数月都没有更新，这时需要催促一下。
+
+客气地催
+
+> Dear editor, 
+>
+> 
+>
+> I'm not sure if it is the right time to contact you to inquire about the status of my submitted manuscript: (ID: XXXX-XXXX-XXX-XXX) Entitled "The Manuscript Title" , It has been submitted for over three months, but I have not heard of any decision from the journal. I will be most grateful if you could let me know the current status of the manuscript. 
+>
+> Thank very much for your consideration, and look forward to hearing from you soon. 
+>
+> 
+>
+> With kind regards, 
+>
+> Yours sincerely, 
+>
+> XXX XXX
+
+不客气地催（准备撤稿）
+
+> Dear editor, 
+>
+> 
+>
+> I am writing to inquire about our paper reference above. This paper has been submitted more than 8 months since Feb 15, but the status of the paper is still "under review". 
+>
+> I understand that reviewers can sometimes be busy but there is limit. It is not normal to keep a paper 8 moths for review. I have never faced such a situation. 
+>
+> If your journal is unable to make a decision of our submission, please let me know and let me withdraw the paper to submit it to another journal. I would be very grateful for your attention and thank you very much for your consideration. 
+>
+> 
+>
+> Sincerely yours, 
+>
+> XXX XXX
+
 
 
 最后附上一些句式
@@ -88,3 +128,9 @@ Thanks for your suggestion, we have revised the expression.
 Thanks for your comments, we have made correction to this problem.
 
 We have made correction according to your comments, special thanks to you for your comments.
+
+
+
+**参考**
+
+https://mp.weixin.qq.com/s/lekXAblom_BfUqsKuH3_Kw
