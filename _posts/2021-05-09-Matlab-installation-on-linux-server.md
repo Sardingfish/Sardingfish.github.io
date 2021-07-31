@@ -68,7 +68,7 @@ sudo mount -o loop R2018a_glnxa64_dvd2.iso /media/matlab/
 完成安装后执行以下命令：
 
 ```shell
-sudo cp cd /home/username/packages/matlabR2018a/Crack/R2018a/bin/glnxa64/* /usr/local/MATLAB/R2018a/bin/glnxa64
+sudo cp /home/username/packages/matlabR2018a/Crack/R2018a/bin/glnxa64/* /usr/local/MATLAB/R2018a/bin/glnxa64
 sudo mkdir /usr/local/MATLAB/R2018a/licenses
 sudo cp /home/username/packages/matlabR2018a/Crack/license_standalone.lic /usr/local/MATLAB/R2018a/licenses
 cd /usr/local/MATLAB/R2018a/bin
