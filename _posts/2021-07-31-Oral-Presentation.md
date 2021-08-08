@@ -181,6 +181,44 @@ author: Jason Ding
 
 
 
+#### Question
+
+参加学术会议除了聆听报告，更重要的是善于或者说敢于发现并提出问题，然而由于不知如何表达以及担心问题太简单等等原因，首次参加国际的时候我们往往心中有疑问却错失宝贵的提问机会。这里积累总结了几类情况下的提问方式：
+
+**# 提问开始**
+
+- I would like to ask/address/put/pose two questions to Mr. ABC, The first question is ......, My section question is the following:
+- Mr. ABC, I have a question to ask you, ......
+- May I presume to ask you a question?
+
+**# 报告没听明白/报告人讲的不够仔细，希望报告人给出更详细的解释**
+
+- I am wondering if you could elaborate something about ......
+- I'd like to hear a little more about ......
+- I wonder if Mr. ABC would like to comment on that ......
+- Would you be so kind as to comment on ......
+- Would/Could you please give a little more detail about ......? 
+
+**# 质询新方法的优缺点**
+
+- Is there any advantages/disadvantages to using  the new method?
+
+- What would you say are its merits and demerits of the method?
+
+**# 询问新方法与已有方法之间的差异**
+
+- What is the main/key difference between XXX and XXX?
+- Mr. ABC, how do your results compare with those of XXX?
+- Compared with XXX, what is the improvement of your method and how much is the improvement?
+
+**# 质询对于某现象的解释**
+
+- Do you have any speculation about the reason?
+- Could you give some reasons for this phenomenon in your opinion?
+- Could you give some explanation of how this XXX works?
+
+
+
 #### References
 
 [http://blog.sciencenet.cn/blog-681387-817526.html](http://blog.sciencenet.cn/blog-681387-817526.html)
