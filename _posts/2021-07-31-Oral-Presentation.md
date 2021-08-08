@@ -33,13 +33,13 @@ author: Jason Ding
 
 听报告的观众通常关注以下四个内容，所以我们准备报告的时候也应当从以下四个方面准备：
 
-(1) Why did you do this? 首先需要阐明我们为什么要做这个研究，这个研究的意义是什么，研究背景是什么？
+(1) Why did you do this? （首先需要阐明我们为什么要做这个研究，这个研究的意义是什么，研究背景是什么？）
 
-(2) How did you do it? 其次解释我们是如何做的，用到了什么材料，使用了什么方法，处理策略是什么？
+(2) How did you do it? （其次解释我们是如何做的，用到了什么材料，使用了什么方法，处理策略是什么？）
 
-(3) What are the results? 接下来展示实验结果。
+(3) What are the results? （接下来展示实验结果。）
 
-(4) What is your interpretation? 最后解释实验结果产生的原因，如何从该结果得到结论。
+(4) What is your interpretation? （最后解释实验结果产生的原因，如何从该结果得到结论。）
 
 **# 报告开头**
 
