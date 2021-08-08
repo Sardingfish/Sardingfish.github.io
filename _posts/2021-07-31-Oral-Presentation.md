@@ -15,7 +15,7 @@ author: Jason Ding
 
 
 
-#### Type of Talk
+#### **Type of Talk**
 
 通常情况下会议报告根据报告人和邀请方式的的不同可以分为Plenary talk，Keynote talk跟普通的Oral talk三种。
 
@@ -27,7 +27,7 @@ author: Jason Ding
 
 
 
-#### Presentation 
+#### **Presentation** 
 
 **# 四个内容**
 
@@ -109,7 +109,7 @@ author: Jason Ding
 
 
 
-#### Answers
+#### **Answers**
 
 **# 礼貌开头**
 
@@ -181,7 +181,7 @@ author: Jason Ding
 
 
 
-#### Question
+#### **Question**
 
 参加学术会议除了聆听报告，更重要的是善于或者说敢于发现并提出问题，然而由于不知如何表达以及担心问题太简单等等原因，首次参加国际的时候我们往往心中有疑问却错失宝贵的提问机会。这里积累总结了几类情况下的提问方式：
 
