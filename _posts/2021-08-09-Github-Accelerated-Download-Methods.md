@@ -52,5 +52,5 @@ https://github.com.cnpmjs.org/YizeZhang/Net_Diff
 通过网页下载Net_Diff比较慢，但是在云服务器上下载速度却不慢，实测通过git clone在阿里云和腾讯云服务器上能达到1-2M/s的速度，而在课题组服务器（SHAO内网）甚至能达到20M/s的下载速度，科研利器啊！
 
 ```
-git clone git clone https://github.com/YizeZhang/Net_Diff.git
+git clone https://github.com/YizeZhang/Net_Diff.git
 ```
