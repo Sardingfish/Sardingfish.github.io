@@ -9,9 +9,7 @@ author: Jason Ding
 
 * content
 {:toc}
-这段时间一直都想总结整理一下前段时间为了准备IAG会议搜集的一些关于如何做好一场英文口头报告的资料，由于拖延症爆发一直拖到了今天。
-
-作为学术3P (Paper, Poster, Presentation)之一的Presentation对于科研人员的重要性不言而喻，而作为非英语母语国家的科研人员，要做好一场好的英文口头报告，自然要多花些时间准备。这里整理收集了报告的种类、如何准备一场口头报告，以及如何应对观众的提问，希望对萌新们有用。
+作为学术3P (Paper, Poster, Presentation)之一的Presentation对于科研人员的重要性不言而喻，而作为非英语母语国家的科研人员，要做好一场好的英文口头报告，自然要多花些时间准备。为了准备[IAG会议](https://www.iag2021.com)，前段时间搜集了一些关于如何做好一场英文口头报告的资料，在这里整理一下，包含报告的种类（Type of Talk）、如何准备一场口头报告（Presentation）、如何应对观众的提问（Answers）以及如何提问（Question），希望对初次准备英文国际会议的萌新们有帮助。
 
 
 
@@ -232,3 +230,9 @@ author: Jason Ding
 [http://image.sciencenet.cn/olddata/kexue.com.cn/upload/blog/file/2010/8/201082314537814456.pdf](http://image.sciencenet.cn/olddata/kexue.com.cn/upload/blog/file/2010/8/201082314537814456.pdf)
 
 [https://www.itu.int/en/osg/dsg/speeches/Pages/default.aspx](https://www.itu.int/en/osg/dsg/speeches/Pages/default.aspx)
+
+[https://www.bilibili.com/video/BV187411n7E5](https://www.bilibili.com/video/BV187411n7E5)
+
+[https://www.bilibili.com/video/BV1yz4y1Q7sB](https://www.bilibili.com/video/BV1yz4y1Q7sB)
+
+[https://www.bilibili.com/video/BV1XC4y1h74m](https://www.bilibili.com/video/BV1XC4y1h74m)
