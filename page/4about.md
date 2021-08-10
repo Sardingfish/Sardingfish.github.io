@@ -9,7 +9,7 @@ type: page
 {:toc}
 **Junsheng Ding** (PhD student) [[pdf](https://github.com/Sardingfish/Sardingfish.github.io/blob/master/page/CV.pdf)]
 
-Shanghai Astronomical Observatory, Chinese Academy of Sciences, Shanghai 200030, China
+Shanghai Astronomical Observatory, Chinese Academy of Sciences, Shanghai 200030, China  
 School of Astronomy and Space Science, University of Chinese Academy of Sciences, Beijing 100049, China
 
 E-mail: <u>dingjunsheng@shao.ac.cn</u>  
