@@ -22,7 +22,7 @@ Research Gate: [https://www.researchgate.net/profile/Junsheng_Ding](https://www.
 
 #### **Research Interests**
 - Satellite Navigation & Remote Sensing
-- PPP-RTK Atmosphere Modeling & GNSS Meteorology
+- GNSS Meteorology & PPP-RTK Atmosphere Modeling
 
 #### **Employment**
 - 2019.9-Now, Graduate Assistant, Shanghai Astronomical Observatory, CAS, Shanghai, China
