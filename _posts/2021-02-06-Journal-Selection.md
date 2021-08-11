@@ -19,7 +19,7 @@ author: Jason Ding
 
 
 
-#### Web of Science
+#### **Web of Science**
 
 [Web of Science](https://www.webofscience.com/wos/alldb/basic-search) 是我最常用而且最推荐的检索工具，也是和邮箱、GitHub、ResearchGate、Google Scholar等一样，常年挂在浏览器后台的工具之一。
 
@@ -27,7 +27,7 @@ author: Jason Ding
 
 
 
-#### Journal Finder
+#### **Journal Finder**
 
 [Journal Finder](https://journalfinder.elsevier.com/)是 Elsevier 旗下的选刊工具，输入文章的标题、摘要，选择论文研究方向的学科，就会将文章与Elsevier数据库进行匹配，给出推荐期刊。
 
@@ -35,7 +35,7 @@ Journal Finder 列出了推荐期刊的影响因子、CiteScore、审稿周期�
 
 
 
-#### Journal Suggester
+#### **Journal Suggester**
 
 [Journal Suggester](https://journalsuggester.springer.com/) 是Springer旗下的选刊工具，和上面的 Journal Finder 一样，使用方法也相同，能够给出推荐期刊以及推荐期刊的录用率以及审稿周期等等信息。同样，Journal Suggester 也仅能匹配Springer和BMC journals旗下的约>2500本期刊。
 
