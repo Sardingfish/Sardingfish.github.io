@@ -94,3 +94,11 @@ type: page
 学术短语库
 
 - [Manchester Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/)
+
+
+
+## 其它工具
+
+颜色搭配
+
+- [中国色](http://zhongguose.com/) （丰富的颜色库，提供CMYK和RGB，可用于画图和PPT颜色搭配）
