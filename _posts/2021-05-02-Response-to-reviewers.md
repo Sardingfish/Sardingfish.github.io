@@ -57,6 +57,22 @@ author: Jason Ding
 
 ---
 
+**审稿人认为英语不够好**
+
+审稿人并没有具体指出哪里英语表达有问题，只是认为英语不行。这种情况下可以请认识的英语专业或者英文好的朋友帮忙修改或者找润色机构润色。修改后给审稿人回复可以强调已经找专业人士润色过。
+
+> Thank you for your comments, the paper has been carefully revised by a native English speaker [a professional language editing service] to improve the grammar and readability.
+
+---
+
+**审稿人认为没有创新**
+
+没有创新分为两种情况，第一种是确实没有创新，第二种是由于写作表达问题没有凸显出创新点，这里只讨论第二种情况......这种情况需要改写论文的abstract、Introduction和Conclusions，在其中强调创新和贡献。另外在审稿人回复中应当分条列出创新点。
+
+Thank you for this valuable feedback. Our research is the first to show that ... /confirms the findings of ... /improve the yield of ... . We have added a sentence to the Abstract/Introduction/Conclusions, and paragraph to the Discussion section, to clarify this.
+
+---
+
 **审稿人的疑问**
 
 由于审稿人和作者的背景知识、认知等不同，在研究方向并不完全一致，审稿人对论文中的某些论述存在疑问，这种情况可以在回复中做出解答，若有必要，可以在稿件相应位置增加解释，增加可读性。
