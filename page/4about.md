@@ -45,7 +45,7 @@ Research Gate: [https://www.researchgate.net/profile/Junsheng_Ding](https://www.
 
 #### **Honors & Awards**
 
-- 2021.10 First Class Academic Scholarship (Top 30%)
+- 2021.10 First Class Academic Scholarship
 - 2021.04 Merit Student of UCAS (Top 15%)
 - 2020.05 Merit Student of UCAS (Top 15%)
 
