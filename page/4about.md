@@ -25,7 +25,7 @@ Research Gate: [https://www.researchgate.net/profile/Junsheng_Ding](https://www.
 - GNSS Meteorology & PPP-RTK Atmosphere Modeling
 
 #### **Employment**
-- 2019.9-Present, Graduate Assistant, Shanghai Astronomical Observatory, CAS, Shanghai, China
+- 2019.9-Present, Research Assistant, Shanghai Astronomical Observatory, CAS, Shanghai, China
 - 2018.7-2018.8, Summer Trainee, National Institute of Metrology, China, Beijing, China
 - 2017.7-2017.8, Software testing intern, Trimble R&D Center in China, Trimble Inc., Xi'an, China
 
