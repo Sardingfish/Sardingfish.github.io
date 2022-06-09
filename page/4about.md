@@ -49,7 +49,7 @@ Research Gate: [https://www.researchgate.net/profile/Junsheng_Ding](https://www.
 
 #### **Honors & Awards**
 
-- Zhu-Li-Yuehua Outstanding Doctoral Scholarship of Chinese Academy of Sciences (2022)
+<!-- - Zhu-Li-Yuehua Outstanding Doctoral Scholarship of Chinese Academy of Sciences (2022) -->
 - First Class Academic Scholarship of University of Chinese Academy of Sciences (2021)
 - Merit Student of University of Chinese Academy of Sciences (2020, 2021, 2022)
 
