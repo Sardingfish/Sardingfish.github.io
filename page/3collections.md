@@ -90,6 +90,7 @@ type: page
 - [NOUNPLUS](https://www.nounplus.net/)
 - [Grammarly](https://www.grammarly.com/)
 - [Ludwig](https://ludwig.guru/) (能够给出句式的出处，数据源包含众多世界知名英文期刊杂志，以及在数据库中的使用频率)
+- [QuillBot](https://quillbot.com/) (论文润色工具，可帮助重写段落)
 
 学术短语库
 
