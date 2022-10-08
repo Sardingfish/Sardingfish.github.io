@@ -14,7 +14,8 @@ School of Astronomy and Space Science, University of Chinese Academy of Sciences
 
 E-mail: <u>dingjunsheng@shao.ac.cn</u>  
 Personal Website: [https://dingjunsheng.top](https://dingjunsheng.top)  
-Research Gate: [https://www.researchgate.net/profile/Junsheng_Ding](https://www.researchgate.net/profile/Junsheng_Ding)
+Research Gate: [https://www.researchgate.net/profile/Junsheng_Ding](https://www.researchgate.net/profile/Junsheng_Ding) 
+Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi=ao)
 
 #### **Education**
 - 2018-2023, PhD, Geodesy, University of Chinese Academy of Sciences, Beijing, China
