@@ -13,8 +13,8 @@ Shanghai Astronomical Observatory, Chinese Academy of Sciences, Shanghai 200030,
 School of Astronomy and Space Science, University of Chinese Academy of Sciences, Beijing 100049, China
 
 E-mail: <u>dingjunsheng@shao.ac.cn</u>  
-Personal Website: [https://dingjunsheng.top](https://dingjunsheng.top)</u>  
-Research Gate: [https://www.researchgate.net/profile/Junsheng_Ding](https://www.researchgate.net/profile/Junsheng_Ding)</u>  
+Personal Website: [https://dingjunsheng.top](https://dingjunsheng.top)  
+Research Gate: [https://www.researchgate.net/profile/Junsheng_Ding](https://www.researchgate.net/profile/Junsheng_Ding)  
 Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi=ao)
 
 #### **Education**
