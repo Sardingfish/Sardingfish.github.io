@@ -52,12 +52,12 @@ Research Gate: [https://www.researchgate.net/profile/Junsheng_Ding](https://www.
 
 #### **Honors & Awards**
 
-- Zhu-Li-Yuehua Outstanding Doctoral Scholarship of Chinese Academy of Sciences RMB 5,000 (2022)
-- First Class Academic Scholarship of University of Chinese Academy of Sciences, RMB 15,000 (2021, 2022)
+- Zhu-Li-Yuehua Outstanding Doctoral Scholarship of CAS, RMB 5,000 (2022)
+- First Class Academic Scholarship of UCAS, RMB 15,000 (2021, 2022)
 - Merit Student of University of Chinese Academy of Sciences (2020, 2021, 2022)
 - Individual Scholarship of Chang'an University, RMB 500 (2017)
-- The Third Prize of the 10th Challenge Cup Extra-curricular Academic Competition of Chang'an University (2017)
-- The First Prize of the 10th Challenge Cup Extra-curricular Academic Competition of Chang'an University (2017)
+- The Third Prize of the 10th Challenge Cup  Competition of Chang'an University (2017)
+- The First Prize of the 10th Challenge Cup  Competition of Chang'an University (2017)
 - National Scholarship for Encouragement, RMB 5,000 (2016)
 - The Third Prize of the 4th ACM-ICPC in Shaanxi Province (2016)
 - The HI-TARGET Scholarship, RMB 3,000 (2015)
