@@ -31,36 +31,36 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 - 2017.7-2017.8, Software testing intern, Trimble R&D Center in China, Trimble Inc., Xi'an, China
 
 #### **Publications**
-- **Ding J.S.**, Chen J.P., Tang W.J. and Song Z.Y. (2022) Spatial–Temporal Variability of Global GNSS-Derived Precipitable Water Vapor (1994–2020) and Climate Implications, Remote Sensing, doi:[10.3390/rs14143493](https://www.mdpi.com/2072-4292/14/14/3493/htm). **(SCI)**
-- **Ding J.S.**, Chen J.P. and Tang W.J. (2022) Increasing Trend of Precipitable Water Vapor in Antarctica and Greenland, China Satellite Navigation Conference 2022, Lecture Notes in Electrical Engineering, doi:[10.1007/978-981-19-2588-7_27](http://dx.doi.org/10.1007/978-981-19-2588-7_27). **(EI)**
-- **Ding J.S.** and Chen J.P. (2021) Accuracy Variability of GNSS PWV in the Range of Small and Medium Scale Areas, China Satellite Navigation Conference, CSNC 2021, doi:[10.26914/c.cnkihy.2021.002146](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CPFD&dbname=CPFDTEMP&filename=WXDH202105001003&v=dT%25mmd2Fa%25mmd2F9hFJSEf0ab7zHb6xI4R4joiAEOerCFtZOWXnGwmaTEorOUXeytcIdnrw2Kuh68fC%25mmd2BcNcmc%3d)
-- **Ding J.S.**, Chen J.P. and Wang J.G. (2020) Quality Control Method for ZTD Modeling Based on GNSS Observation Data, Journal of Astronautics, (in Chinese) doi:[10.3873/j.issn.1000 1328.2020.09.010](http://www.yhxb.org.cn/CN/10.3873/j.issn.1000-1328.2020.09.010). **(EI)**
-- **Ding J.S.** and Chen J.P. (2020) Assessment of Empirical Troposphere Model GPT3 Based on NGL’s Global Troposphere Products, Sensors, doi:[10.3390/s20133631](https://www.mdpi.com/1424-8220/20/13/3631). **(SCI)**
-- Chen J.P., Zhang Y.Z., Yu C. and **Ding J.S.** (2022) Processing Algorithms and Performance Evaluation of BDS RDSS Location Reporting Service, Acta Geodaetica et Cartographica Sinica, (in Chinese) doi:[10.11947/j.AGCS.2022.20220024](http://xb.sinomaps.com/CN/10.11947/j.AGCS.2022.20220024). **(EI)**
-- Tang W.J., Chen J.P., Yu C., **Ding J.S.** and Wang R.Y. (2021) A New Ground-based Pseudolite System Deployment Algorithm Based on MOPSO, Sensors, doi:[10.3390/s21165364](https://www.mdpi.com/1424-8220/21/16/5364). **(SCI)**
-- Chen Q., Chen J.P., Yu C., Zhang Y.Z. and **Ding J.S.** (2020) Comparison of BDS Station Clock Short-term Prediction Models and their Applications in Precise Orbit Determination, Chinese Astronomy and Astrophysics, doi:[10.1016/j.chinastron.2020.05.008](https://www.sciencedirect.com/science/article/pii/S0275106220300357). **(SCI)**
-- Chen J.P., Wang J.G., Wang A.H., **Ding J.S.** and Zhang Y.Z. (2020) SHAtropE—A Regional Gridded ZTD Model for China and the Surrounding Areas, Remote Sensing, doi[:10.3390/rs12010165](https://www.mdpi.com/2072-4292/12/1/165). **(SCI)**
-- Cui J., Chen J.P., Wang B., Yu C., **Ding J.S.** and Wang R.Y. (2022) Characteristic Analysis of Satellite DCB Products Provided
-  by CAS and DLR, Progress in Astronomy, doi:10.3969/j.issn.1000-8349.2022.03.01. **(CSCD)**
+- **Ding JS**, Chen JP, Tang WJ and Song ZY (2022) Spatial–Temporal Variability of Global GNSS-Derived Precipitable Water Vapor (1994–2020) and Climate Implications, Remote Sensing, doi:[10.3390/rs14143493](https://www.mdpi.com/2072-4292/14/14/3493/htm). **(SCI)**
+- **Ding JS**, Chen JP and Tang WJ (2022) Increasing Trend of Precipitable Water Vapor in Antarctica and Greenland, China Satellite Navigation Conference 2022, Lecture Notes in Electrical Engineering, doi:[10.1007/978-981-19-2588-7_27](http://dx.doi.org/10.1007/978-981-19-2588-7_27). **(EI)**
+- **Ding JS** and Chen JP (2021) Accuracy Variability of GNSS PWV in the Range of Small and Medium Scale Areas, China Satellite Navigation Conference, CSNC 2021, doi:[10.26914/c.cnkihy.2021.002146](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CPFD&dbname=CPFDTEMP&filename=WXDH202105001003&v=dT%25mmd2Fa%25mmd2F9hFJSEf0ab7zHb6xI4R4joiAEOerCFtZOWXnGwmaTEorOUXeytcIdnrw2Kuh68fC%25mmd2BcNcmc%3d)
+- **Ding JS**, Chen JP and Wang JG (2020) Quality Control Method for ZTD Modeling Based on GNSS Observation Data, Journal of Astronautics, (in Chinese) doi:[10.3873/j.issn.1000 1328.2020.09.010](http://www.yhxb.org.cn/CN/10.3873/j.issn.1000-1328.2020.09.010). **(EI)**
+- **Ding JS** and Chen JP (2020) Assessment of Empirical Troposphere Model GPT3 Based on NGL’s Global Troposphere Products, Sensors, doi:[10.3390/s20133631](https://www.mdpi.com/1424-8220/20/13/3631). **(SCI)**
+- Chen JP, Zhang YZ, Yu C and **Ding JS** (2022) Processing Algorithms and Performance Evaluation of BDS RDSS Location Reporting Service, Acta Geodaetica et Cartographica Sinica, (in Chinese) doi:[10.11947/j.AGCS.2022.20220024](http://xb.sinomaps.com/CN/10.11947/j.AGCS.2022.20220024). **(EI)**
+- Tang WJ, Chen JP, Yu C, **Ding JS** and Wang RY (2021) A New Ground-based Pseudolite System Deployment Algorithm Based on MOPSO, Sensors, doi:[10.3390/s21165364](https://www.mdpi.com/1424-8220/21/16/5364). **(SCI)**
+- Chen Q, Chen JP, Yu C, Zhang YZ and **Ding JS** (2020) Comparison of BDS Station Clock Short-term Prediction Models and their Applications in Precise Orbit Determination, Chinese Astronomy and Astrophysics, doi:[10.1016/j.chinastron.2020.05.008](https://www.sciencedirect.com/science/article/pii/S0275106220300357). **(SCI)**
+- Chen JP, Wang JG, Wang AH, **Ding JS** and Zhang YZ (2020) SHAtropE—A Regional Gridded ZTD Model for China and the Surrounding Areas, Remote Sensing, doi[:10.3390/rs12010165](https://www.mdpi.com/2072-4292/12/1/165). **(SCI)**
+- Cui J, Chen JP, Wang B, Yu C, **Ding JS** and Wang RY (2022) Characteristic Analysis of Satellite DCB Products Provided
+  by CAS and DLR, Progress in Astronomy, (in Chinese) doi:[10.3969/j.issn.1000-8349.2022.03.01](http://center.shao.ac.cn/twxjz/abstract/2022/20220308.pdf). **(CSCD)**
 
 #### **Academic Reports**
 
-- **Ding J.S.**, Chen J.P. and Tang W.J. (2022) _Increasing Trend of Precipitable Water Vapor in Antarctica and Greenland, Speaker,_ China Satellite Navigation Conference 2022, Session S01–Industry Applications of Satellite Navigation, held on 25–27 May, 2022 in Beijing, China.
-- **Ding J.S.**, Chen J.P. and Tang W.J. (2022) *Increasing Trend of Precipitable Water Vapor in Antarctica and Greenland, Speaker,* EGU General Assembly 2022, Session G5.2 – Atmospheric and Environmental Monitoring with Space-Geodetic Techniques and Contributions to Extreme Weather Studies, held on 23–27 May, 2022 in Vienna, Austria.[[link](https://meetingorganizer.copernicus.org/EGU22/session/42843#Presentations)]
-- **Ding J.S.** and Chen J.P. (2021) *Global GNSS PWV Accuracy Assessment and Spatio-temporal Characteristics Analysis (1994-2020), Speaker,* 4-th  Congress of China Geodesy and Geophysics (4-th CCGG), CNC-IAMAS, M01: Atmospheric Sounding and Remote Sensing, held on July 17-18, 2021 in Qingdao, China. [[link](http://ddl.escience.cn/f/VWbR)]
-- **Ding J.S.** and Chen J.P. (2021) *Long-period Accuracy Evaluation and Spatial-temporal Characterization Analysis of Global GNSS-derived PWV, Speaker,* Scientific Assembly of the International Association Geodesy (IAG2021), Session 5.5: Assimilation of Geodetic Observations in the Modelling of the Atmosphere, Cryosphere and Hydrosphere (Joint ICCC),  held on June 28 - July 2, 2021 in Beijing, China. [[link](https://www.iag2021.com/en/web/program/1646)]
-- **Ding J.S.** and Chen J.P. (2020) *Assessment of Empirical Troposphere Model GPT3 Based on NGL’s Global Troposphere Products, Speaker,* International Association of Professionals in Global Positioning Systems (CPGPS) Forum 2020, Session 5: System and Design of Navigation Signal, held on Nov. 12-15 2020 in Shanghai, China. [[link](http://202.127.29.4/shao_gnss_ac/cpgps2020/program_online.html)]
+- **Ding JS**, Chen JP and Tang WJ (2022) _Increasing Trend of Precipitable Water Vapor in Antarctica and Greenland, Speaker,_ China Satellite Navigation Conference 2022, Session S01–Industry Applications of Satellite Navigation, held on 25–27 May, 2022 in Beijing, China.
+- **Ding JS**, Chen JP and Tang WJ (2022) *Increasing Trend of Precipitable Water Vapor in Antarctica and Greenland, Speaker,* EGU General Assembly 2022, Session G5.2 – Atmospheric and Environmental Monitoring with Space-Geodetic Techniques and Contributions to Extreme Weather Studies, held on 23–27 May, 2022 in Vienna, Austria.[[link](https://meetingorganizer.copernicus.org/EGU22/session/42843#Presentations)]
+- **Ding JS** and Chen JP (2021) *Global GNSS PWV Accuracy Assessment and Spatio-temporal Characteristics Analysis (1994-2020), Speaker,* 4-th  Congress of China Geodesy and Geophysics (4-th CCGG), CNC-IAMAS, M01: Atmospheric Sounding and Remote Sensing, held on July 17-18, 2021 in Qingdao, China. [[link](http://ddl.escience.cn/f/VWbR)]
+- **Ding JS** and Chen JP (2021) *Long-period Accuracy Evaluation and Spatial-temporal Characterization Analysis of Global GNSS-derived PWV, Speaker,* Scientific Assembly of the International Association Geodesy (IAG2021), Session 5.5: Assimilation of Geodetic Observations in the Modelling of the Atmosphere, Cryosphere and Hydrosphere (Joint ICCC),  held on June 28 - July 2, 2021 in Beijing, China. [[link](https://www.iag2021.com/en/web/program/1646)]
+- **Ding JS** and Chen JP (2020) *Assessment of Empirical Troposphere Model GPT3 Based on NGL’s Global Troposphere Products, Speaker,* International Association of Professionals in Global Positioning Systems (CPGPS) Forum 2020, Session 5: System and Design of Navigation Signal, held on Nov. 12-15 2020 in Shanghai, China. [[link](http://202.127.29.4/shao_gnss_ac/cpgps2020/program_online.html)]
 
 #### **Honors & Awards**
 
-- Zhu-Li-Yuehua Outstanding Doctoral Scholarship of CAS, RMB 5,000 (2022)
-- First Class Academic Scholarship of UCAS, RMB 15,000 (2021, 2022)
-- Merit Student of University of Chinese Academy of Sciences (2020, 2021, 2022)
-- Individual Scholarship of Chang'an University, RMB 500 (2017)
-- The Third Prize of the 10th Challenge Cup  Competition of Chang'an University (2017)
-- The First Prize of the 10th Challenge Cup  Competition of Chang'an University (2017)
-- National Scholarship for Encouragement, RMB 5,000 (2016)
-- The Third Prize of the 4th ACM-ICPC in Shaanxi Province (2016)
-- The HI-TARGET Scholarship, RMB 3,000 (2015)
-- Ding Family "Zhong Cheng" Education Scholarship, RMB 2,600 (2014)
-- The National Third Prize of the 21st National Applied Physics Knowledge Contest (2011)
+- Zhu-Li-Yuehua Outstanding Doctoral Scholarship of CAS, RMB 5,000 (**2022**)
+- First Class Academic Scholarship of UCAS, RMB 15,000 (**2021**, **2022**)
+- Merit Student of University of Chinese Academy of Sciences (**2020**, **2021**, **2022**)
+- Individual Scholarship of Chang'an University, RMB 500 (**2017**)
+- The Third Prize of the 10th Challenge Cup  Competition of Chang'an University (**2017**)
+- The First Prize of the 10th Challenge Cup  Competition of Chang'an University (**2017**)
+- National Scholarship for Encouragement, RMB 5,000 (**2016**)
+- The Third Prize of the 4th ACM-ICPC in Shaanxi Province (**2016**)
+- The HI-TARGET Scholarship, RMB 3,000 (**2015**)
+- Ding Family "Zhong Cheng" Education Scholarship, RMB 2,600 (**2014**)
+- The National Third Prize of the 21st National Applied Physics Knowledge Contest (**2011**)
