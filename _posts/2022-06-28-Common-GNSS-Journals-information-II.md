@@ -7,7 +7,7 @@ tags: GNSS
 author: Jason Ding
 ---
 
-2022年6月28日，JCR 2021正式发布，SCI/SSCI期刊2021影响因子（Impact Factor, IF）也随即更新。由于**在线发表（early access）的**引入，同时影响了IF计算公式的分子与分母，所以相较去年，大批量的期刊出现了影响因子上涨的情况。此外，自2022年期，中科院分区不再更新基础版，只更新升级版。这里将最新收藏的测绘及相关行业的期刊进行统计，由于本人研究方向偏向GNSS气象学，所以收藏的期刊同时包含部分气象学期刊。需要注意的是，以下中科院分区指的是最新的升级版。
+2022年6月28日，JCR 2021正式发布，SCI/SSCI期刊2021影响因子（Impact Factor, IF）也随即更新。由于**在线发表（early access）**的引入，同时影响了IF计算公式的分子与分母，所以相较去年，大批量的期刊出现了影响因子上涨的情况。此外，自2022年期，中科院分区不再更新基础版，只更新升级版。这里将最新收藏的测绘及相关行业的期刊进行统计，由于本人研究方向偏向GNSS气象学，所以收藏的期刊同时包含部分气象学期刊。需要注意的是，以下中科院分区指的是最新的升级版。
 
 
 
@@ -81,11 +81,11 @@ author: Jason Ding
 | [Metrologia](https://iopscience.iop.org/journal/0026-1394)   | 2.748  | Q2/三区            | IOP              |
 | [Journal of Geodynamics](https://www.journals.elsevier.com/journal-of-geodynamics) | 2.673  | Q1/三区            | Elsevier         |
 | [Advances in Space Research](https://www.journals.elsevier.com/advances-in-space-research/) | 2.611  | Q2/三区            | Elsevier         |
+| [NAVIGATION-ION](https://navi.ion.org/)                      | 2.472  | Q1/三区            | ION              |
 | [Measurement Science and Technology](https://iopscience.iop.org/journal/0957-0233) | 2.398  | Q2/三区            | IOP              |
 | [ Earth and Space Science](https://agupubs.onlinelibrary.wiley.com/journal/23335084) | 3.680  | Q1/四区            | Wiley            |
 | [Journal of Atmospheric and Solar-Terrestrial Physics](https://www.journals.elsevier.com/journal-of-atmospheric-and-solar-terrestrial-physics/) | 2.119  | Q2/四区            | Elsevier         |
 | [Radio Science](https://agupubs.onlinelibrary.wiley.com/journal/1944799x) | 1.678  | Q2/四区            | Wiley            |
 | [IET Digital Library: IET Radar, Sonar & Navigation](https://digital-library.theiet.org/content/journals/iet-rsn) | 1.596  | Q2/四区            | IET              |
 | [Survey Review](https://www.tandfonline.com/loi/ysre20)      | 1.156  | Q2/四区            | Taylor & Francis |
-| [NAVIGATION-ION](https://navi.ion.org/)                      | 2.472  | Q1/三区            | ION              |
 

@@ -69,7 +69,7 @@ int main()
 	  ProgBar(); 
       printf("***********************\n");
       printf("Installation completed!\n");
-	  printf("***********************\n");
+      printf("***********************\n");
 	  return 0;                    
 }
 ```
