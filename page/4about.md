@@ -25,7 +25,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 - Satellite Navigation & Remote Sensing
 - GNSS Meteorology & PPP-RTK Atmosphere Modeling
 
-#### **Employment**
+#### **Work Experience**
 - 2022.1-2022.1, GNSS Chip Embedded Development Internship, Techtotop Inc., Guangzhou, China
 - 2019.9-2021.9, Research Assistant, Shanghai Astronomical Observatory, CAS, Shanghai, China
 - 2018.7-2018.8, Summer Trainee, National Institute of Metrology, China, Beijing, China
@@ -46,11 +46,11 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 
 #### **Academic Reports**
 
-- **Ding JS**, Chen JP and Tang WJ (2022) _Increasing Trend of Precipitable Water Vapor in Antarctica and Greenland, Speaker,_ China Satellite Navigation Conference 2022, Session S01–Industry Applications of Satellite Navigation, held on 25–27 May, 2022 in Beijing, China.
-- **Ding JS**, Chen JP and Tang WJ (2022) *Increasing Trend of Precipitable Water Vapor in Antarctica and Greenland, Speaker,* EGU General Assembly 2022, Session G5.2 – Atmospheric and Environmental Monitoring with Space-Geodetic Techniques and Contributions to Extreme Weather Studies, held on 23–27 May, 2022 in Vienna, Austria.[[link](https://meetingorganizer.copernicus.org/EGU22/session/42843#Presentations)]
-- **Ding JS** and Chen JP (2021) *Global GNSS PWV Accuracy Assessment and Spatio-temporal Characteristics Analysis (1994-2020), Speaker,* 4-th  Congress of China Geodesy and Geophysics (4-th CCGG), CNC-IAMAS, M01: Atmospheric Sounding and Remote Sensing, held on July 17-18, 2021 in Qingdao, China. [[link](http://ddl.escience.cn/f/VWbR)]
-- **Ding JS** and Chen JP (2021) *Long-period Accuracy Evaluation and Spatial-temporal Characterization Analysis of Global GNSS-derived PWV, Speaker,* Scientific Assembly of the International Association Geodesy (IAG2021), Session 5.5: Assimilation of Geodetic Observations in the Modelling of the Atmosphere, Cryosphere and Hydrosphere (Joint ICCC),  held on June 28 - July 2, 2021 in Beijing, China. [[link](https://www.iag2021.com/en/web/program/1646)]
-- **Ding JS** and Chen JP (2020) *Assessment of Empirical Troposphere Model GPT3 Based on NGL’s Global Troposphere Products, Speaker,* International Association of Professionals in Global Positioning Systems (CPGPS) Forum 2020, Session 5: System and Design of Navigation Signal, held on Nov. 12-15 2020 in Shanghai, China. [[link](http://202.127.29.4/shao_gnss_ac/cpgps2020/program_online.html)]
+- **Ding JS**, Chen JP and Tang WJ (2022) _Increasing Trend of Precipitable Water Vapor in Antarctica and Greenland, Speaker,_ **China Satellite Navigation Conference (CSNC 2022)**, Session S01–Industry Applications of Satellite Navigation, held on 25–27 May, 2022 in Beijing, China.
+- **Ding JS**, Chen JP and Tang WJ (2022) *Increasing Trend of Precipitable Water Vapor in Antarctica and Greenland, Speaker,* **EGU General Assembly 2022**, Session G5.2 – Atmospheric and Environmental Monitoring with Space-Geodetic Techniques and Contributions to Extreme Weather Studies, held on 23–27 May, 2022 in Vienna, Austria.[[link](https://meetingorganizer.copernicus.org/EGU22/session/42843#Presentations)]
+- **Ding JS** and Chen JP (2021) *Global GNSS PWV Accuracy Assessment and Spatio-temporal Characteristics Analysis (1994-2020), Speaker,* **4-th  Congress of China Geodesy and Geophysics (4-th CCGG)**, CNC-IAMAS, M01: Atmospheric Sounding and Remote Sensing, held on July 17-18, 2021 in Qingdao, China. [[link](http://ddl.escience.cn/f/VWbR)]
+- **Ding JS** and Chen JP (2021) *Long-period Accuracy Evaluation and Spatial-temporal Characterization Analysis of Global GNSS-derived PWV, Speaker,* **Scientific Assembly of the International Association Geodesy (IAG2021)**, Session 5.5: Assimilation of Geodetic Observations in the Modelling of the Atmosphere, Cryosphere and Hydrosphere (Joint ICCC),  held on June 28 - July 2, 2021 in Beijing, China. [[link](https://www.iag2021.com/en/web/program/1646)]
+- **Ding JS** and Chen JP (2020) *Assessment of Empirical Troposphere Model GPT3 Based on NGL’s Global Troposphere Products, Speaker,* **International Association of Professionals in Global Positioning Systems (CPGPS) Forum 2020**, Session 5: System and Design of Navigation Signal, held on Nov. 12-15 2020 in Shanghai, China. [[link](http://202.127.29.4/shao_gnss_ac/cpgps2020/program_online.html)]
 
 #### **Honors & Awards**
 
