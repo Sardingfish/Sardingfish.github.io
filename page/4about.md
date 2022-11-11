@@ -54,7 +54,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 
 #### **Honors & Awards**
 
-- National scholarship for doctoral students, RMB 30,000 **(2022)**
+- National Scholarship for Doctoral Students, RMB 30,000 **(2022)**
 - Zhu-Li-Yuehua Outstanding Doctoral Scholarship of CAS, RMB 5,000 **(2022)**
 - First Class Academic Scholarship of UCAS, RMB 15,000 **(2021, 2022)**
 - Merit Student of University of Chinese Academy of Sciences **(2020, 2021, 2022)**
