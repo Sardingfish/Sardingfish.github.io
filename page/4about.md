@@ -26,12 +26,12 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 - GNSS Meteorology & PPP-RTK Atmosphere Modeling
 
 #### **Work Experience**
-- 2022.1-2022.1, GNSS Chip Embedded Development Internship, Techtotop Inc., Guangzhou, China
 - 2019.9-2021.9, Research Assistant, Shanghai Astronomical Observatory, CAS, Shanghai, China
 - 2018.7-2018.8, Summer Trainee, National Institute of Metrology, China, Beijing, China
 - 2017.7-2017.8, Software testing intern, Trimble R&D Center in China, Trimble Inc., Xi'an, China
 
 #### **Publications**
+- **Ding JS**, Chen JP, Wang JG and Zhang YZ (2023) Characteristic differences in tropospheric delay between Nevada Geodetic Laboratory products and NWM ray-tracing, GPS Solutions, doi:[10.1007/s10291-022-01385-2](https://link.springer.com/article/10.1007/s10291-022-01385-2). **(SCI)**
 - **Ding JS**, Chen JP, Tang WJ and Song ZY (2022) Spatial–Temporal Variability of Global GNSS-Derived Precipitable Water Vapor (1994–2020) and Climate Implications, Remote Sensing, doi:[10.3390/rs14143493](https://www.mdpi.com/2072-4292/14/14/3493/htm). **(SCI)**
 - **Ding JS**, Chen JP and Tang WJ (2022) Increasing Trend of Precipitable Water Vapor in Antarctica and Greenland, China Satellite Navigation Conference 2022, Lecture Notes in Electrical Engineering, doi:[10.1007/978-981-19-2588-7_27](http://dx.doi.org/10.1007/978-981-19-2588-7_27). **(EI)**
 - **Ding JS** and Chen JP (2021) Accuracy Variability of GNSS PWV in the Range of Small and Medium Scale Areas, China Satellite Navigation Conference, CSNC 2021, doi:[10.26914/c.cnkihy.2021.002146](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CPFD&dbname=CPFDTEMP&filename=WXDH202105001003&v=dT%25mmd2Fa%25mmd2F9hFJSEf0ab7zHb6xI4R4joiAEOerCFtZOWXnGwmaTEorOUXeytcIdnrw2Kuh68fC%25mmd2BcNcmc%3d)
