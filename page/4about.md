@@ -46,7 +46,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 
 #### **Academic Reports**
 
-- **Ding JS**, Chen JP, Wang JG and Zhang YZ (2023) _Characteristic differences in tropospheric delay between NGL products and NWM ray-tracing, Speaker,_ **European Navigation Conference (ENC 2023)**, Session S02–Position, determination, held on 31 May–2 June, 2023 in Noordwijk, Netherlands.
+- **Ding JS**, Chen JP, Wang JG and Zhang YZ (2023) _Characteristic differences in tropospheric delay between NGL products and NWM ray-tracing, Speaker,_ **European Navigation Conference (ENC 2023)**, Session S02–Position determination, held on 31 May–2 June, 2023 in Noordwijk, Netherlands.
 - **Ding JS**, Chen JP and Tang WJ (2022) _Increasing Trend of Precipitable Water Vapor in Antarctica and Greenland, Speaker,_ **China Satellite Navigation Conference (CSNC 2022)**, Session S01–Industry Applications of Satellite Navigation, held on 25–27 May, 2022 in Beijing, China.
 - **Ding JS**, Chen JP and Tang WJ (2022) *Increasing Trend of Precipitable Water Vapor in Antarctica and Greenland, Speaker,* **EGU General Assembly 2022**, Session G5.2 – Atmospheric and Environmental Monitoring with Space-Geodetic Techniques and Contributions to Extreme Weather Studies, held on 23–27 May, 2022 in Vienna, Austria.[[link](https://meetingorganizer.copernicus.org/EGU22/session/42843#Presentations)]
 - **Ding JS** and Chen JP (2021) *Global GNSS PWV Accuracy Assessment and Spatio-temporal Characteristics Analysis (1994-2020), Speaker,* **4-th  Congress of China Geodesy and Geophysics (4-th CCGG)**, CNC-IAMAS, M01: Atmospheric Sounding and Remote Sensing, held on July 17-18, 2021 in Qingdao, China. [[link](http://ddl.escience.cn/f/VWbR)]
