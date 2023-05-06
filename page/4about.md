@@ -69,5 +69,5 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 - Ding Family "Zhong Cheng" Education Scholarship, RMB 2,600 **(2014)**
 - The National Third Prize of the 21st National Applied Physics Knowledge Contest **(2011)**
 
-#### **Journal manuscript Reviewer**
+#### **Journal  Reviewer**
 - Geo-spatial Information Science
