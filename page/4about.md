@@ -71,3 +71,4 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 
 #### **Journal  Reviewer**
 - Geo-spatial Information Science
+- GPS Solutions
