@@ -7,7 +7,7 @@ type: page
 ---
 * content
 {:toc}
-**Junsheng Ding** (PhD student) [[pdf](https://github.com/Sardingfish/Sardingfish.github.io/blob/master/page/CV_DingJS.pdf)]
+**Dr. Junsheng Ding** [[pdf](https://github.com/Sardingfish/Sardingfish.github.io/blob/master/page/CV_DingJS.pdf)]
 
 Shanghai Astronomical Observatory, Chinese Academy of Sciences, Shanghai 200030, China  
 School of Astronomy and Space Science, University of Chinese Academy of Sciences, Beijing 100049, China
@@ -26,6 +26,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 - GNSS Meteorology & PPP-RTK Atmosphere Modeling
 
 #### **Work Experience**
+- 2023.7-Present, Postdoctoral Researcher, The Hong Kong Polytechnic University, Hong Kong, China
 - 2019.9-2021.9, Research Assistant, Shanghai Astronomical Observatory, CAS, Shanghai, China
 - 2018.7-2018.8, Summer Trainee, National Institute of Metrology, China, Beijing, China
 - 2017.7-2017.8, Software testing intern, Trimble R&D Center in China, Trimble Inc., Xi'an, China
@@ -37,6 +38,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 - **Ding JS** and Chen JP (2021) Accuracy Variability of GNSS PWV in the Range of Small and Medium Scale Areas, China Satellite Navigation Conference, CSNC 2021, doi:[10.26914/c.cnkihy.2021.002146](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CPFD&dbname=CPFDTEMP&filename=WXDH202105001003&v=dT%25mmd2Fa%25mmd2F9hFJSEf0ab7zHb6xI4R4joiAEOerCFtZOWXnGwmaTEorOUXeytcIdnrw2Kuh68fC%25mmd2BcNcmc%3d)
 - **Ding JS**, Chen JP and Wang JG (2020) Quality Control Method for ZTD Modeling Based on GNSS Observation Data, Journal of Astronautics, (in Chinese) doi:[10.3873/j.issn.1000 1328.2020.09.010](http://www.yhxb.org.cn/CN/10.3873/j.issn.1000-1328.2020.09.010). **(EI)**
 - **Ding JS** and Chen JP (2020) Assessment of Empirical Troposphere Model GPT3 Based on NGL’s Global Troposphere Products, Sensors, doi:[10.3390/s20133631](https://www.mdpi.com/1424-8220/20/13/3631). **(SCI)**
+- Song ZY, Chen JP, Zhang YZ, Yu C, **Ding JS** (2023) Real-time Multi-GNSS Precise Point Positioning with Ambiguity Resolution Based on the BDS-3 Global Short-message Communication Function, GPS Solutions,  doi:[10.1007/s10291-023-01477-7](https://link.springer.com/article/10.1007/s10291-023-01477-7).  **(SCI)**
 - Chen JP, Zhang YZ, Yu C and **Ding JS** (2022) Processing Algorithms and Performance Evaluation of BDS RDSS Location Reporting Service, Acta Geodaetica et Cartographica Sinica, (in Chinese) doi:[10.11947/j.AGCS.2022.20220024](http://xb.sinomaps.com/CN/10.11947/j.AGCS.2022.20220024). **(EI)**
 - Tang WJ, Chen JP, Yu C, **Ding JS** and Wang RY (2021) A New Ground-based Pseudolite System Deployment Algorithm Based on MOPSO, Sensors, doi:[10.3390/s21165364](https://www.mdpi.com/1424-8220/21/16/5364). **(SCI)**
 - Chen Q, Chen JP, Yu C, Zhang YZ and **Ding JS** (2020) Comparison of BDS Station Clock Short-term Prediction Models and their Applications in Precise Orbit Determination, Chinese Astronomy and Astrophysics, doi:[10.1016/j.chinastron.2020.05.008](https://www.sciencedirect.com/science/article/pii/S0275106220300357). **(SCI)**
