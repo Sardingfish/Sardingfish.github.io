@@ -9,8 +9,7 @@ type: page
 {:toc}
 **Dr. Junsheng Ding** [[pdf](https://github.com/Sardingfish/Sardingfish.github.io/blob/master/page/CV_DingJS.pdf)]
 
-Shanghai Astronomical Observatory, Chinese Academy of Sciences, Shanghai 200030, China  
-School of Astronomy and Space Science, University of Chinese Academy of Sciences, Beijing 100049, China
+Department of Land Surveying and Geo-Informatics, The Hong Kong Polytechnic University, Hong Kong 100872, China
 
 E-mail: <u>dingjunsheng@shao.ac.cn</u>  
 Personal Website: [https://dingjunsheng.top](https://dingjunsheng.top)  
@@ -19,6 +18,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 
 #### **Education**
 - 2018-2023, PhD, Geodesy, University of Chinese Academy of Sciences, Beijing, China
+- 2018-2023, PhD, Geodesy, Shanghai Astronomical Observatory, CAS, Shanghai, China
 - 2014-2018, BSc, Geomatics Engineering, Chang'an University, Xi'an, China
 
 #### **Research Interests**
