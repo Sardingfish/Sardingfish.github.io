@@ -9,7 +9,7 @@ type: page
 {:toc}
 **Dr. Junsheng Ding** [[pdf](https://github.com/Sardingfish/Sardingfish.github.io/blob/master/page/CV_DingJS.pdf)]
 
-LSGI, The Hong Kong Polytechnic University, Hong Kong 100872, China
+LSGI, The Hong Kong Polytechnic University, Hong Kong 999077, China
 
 E-mail: <u>dingjunsheng@shao.ac.cn</u>  
 Personal Website: [https://dingjunsheng.top](https://dingjunsheng.top)  
