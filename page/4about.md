@@ -26,7 +26,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 - GNSS Meteorology & PPP-RTK Atmosphere Modeling
 
 #### **Work Experience**
-- 2023.7-Present, Postdoctoral Researcher, The Hong Kong Polytechnic University, Hong Kong, China
+- 2023.7-Present, Postdoctoral Fellow, The Hong Kong Polytechnic University, Hong Kong, China
 - 2019.9-2021.9, Research Assistant, Shanghai Astronomical Observatory, CAS, Shanghai, China
 - 2018.7-2018.8, Summer Trainee, National Institute of Metrology, China, Beijing, China
 - 2017.7-2017.8, Software testing intern, Trimble R&D Center in China, Trimble Inc., Xi'an, China
