@@ -11,7 +11,7 @@ type: page
 
 LSGI, The Hong Kong Polytechnic University, Hong Kong 999077, China
 
-E-mail: <u>dingjunsheng@shao.ac.cn</u>  
+E-mail: junsheng.ding@polyu.edu.hk; junshengding@yeah.net  
 Personal Website: [https://dingjunsheng.top](https://dingjunsheng.top)  
 Research Gate: [https://www.researchgate.net/profile/Junsheng_Ding](https://www.researchgate.net/profile/Junsheng_Ding)  
 Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi=ao)
