@@ -33,7 +33,12 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 - 2018.7-2018.8, Summer Trainee, National Institute of Metrology, China, Beijing, China
 - 2017.7-2017.8, Software testing intern, Trimble R&D Center in China, Trimble Inc., Xi'an, China
 
+#### **Projects**
+
+- Postdoc Matching Fund Scheme, *The Hong Kong Polytechnic University*, HK$841K, Jul 2024 - Jul 2026
+
 #### **Publications**
+
 - **Ding JS**, Chen JP, Wang JG and Zhang YZ (2024) A novel method for tropospheric delay mapping function vertical modelling. *Journal of Geodesy*, doi: [10.1007/s00190-024-01845-2](https://doi.org/10.1007/s00190-024-01845-2). **(SCI)**
 - Tang WJ, Chen JP, Zhang YZ, **Ding JS** and Song ZY (2024) Refined Troposphere Delay Models by NWM Ray-tracing for Pseudolite Positioning System and Their Performance Assessment. *Advances in Space Research*, doi: [10.1016/j.asr.2024.02.034](https://doi.org/10.1016/j.asr.2024.02.034). **(SCI)**
 - Song ZY, Chen JP, Zhang YZ, Yu C and **Ding JS** (2023) Real-time Multi-GNSS Precise Point Positioning with Ambiguity Resolution Based on the BDS-3 Global Short-message Communication Function. *GPS Solutions*,  doi:[10.1007/s10291-023-01477-7](https://link.springer.com/article/10.1007/s10291-023-01477-7).  **(SCI)**
@@ -49,8 +54,6 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 - **Ding JS** and Chen JP (2020) Assessment of Empirical Troposphere Model GPT3 Based on NGL’s Global Troposphere Products. *Sensors*, doi:[10.3390/s20133631](https://www.mdpi.com/1424-8220/20/13/3631). **(SCI)**
 - Chen Q, Chen JP, Yu C, Zhang YZ and **Ding JS** (2020) Comparison of BDS Station Clock Short-term Prediction Models and their Applications in Precise Orbit Determination. *Chinese Astronomy and Astrophysics*, doi:[10.1016/j.chinastron.2020.05.008](https://www.sciencedirect.com/science/article/pii/S0275106220300357). **(SCI)**
 - Chen JP, Wang JG, Wang AH, **Ding JS** and Zhang YZ (2020) SHAtropE—A Regional Gridded ZTD Model for China and the Surrounding Areas. *Remote Sensing*, doi[:10.3390/rs12010165](https://www.mdpi.com/2072-4292/12/1/165). **(SCI)**
-
-
 
 #### **Academic Reports**
 
