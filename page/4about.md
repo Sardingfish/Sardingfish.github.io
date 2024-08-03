@@ -68,9 +68,9 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 - **European Navigation Conference (ENC 2023)**, *Speaker*, 31 May–2 June, 2023, Noordwijk, Netherlands.
 - **China Satellite Navigation Conference (CSNC 2022)**, *Speaker*, 25–27 May, 2022, Beijing, China.
 - **EGU General Assembly 2022**, *Speaker*, 23–27 May, 2022, Vienna, Austria.[[link](https://meetingorganizer.copernicus.org/EGU22/session/42843#Presentations)][[pdf](https://www.researchgate.net/publication/367041037_Increasing_trend_of_Precipitable_Water_Vapor_in_Antarctica_and_Greenland)]
-- **4-th  Congress of China Geodesy and Geophysics (4-th CCGG)**, Speaker, 17–18 July, 2021, Qingdao, China. [[link](http://ddl.escience.cn/f/VWbR)]
+- **4-th  Congress of China Geodesy and Geophysics (4-th CCGG)**, *Speaker*, 17–18 July, 2021, Qingdao, China. [[link](http://ddl.escience.cn/f/VWbR)]
 - **Scientific Assembly of the International Association Geodesy (IAG2021)**, *Speaker*, 28 June – July 2, 2021, Beijing, China. [[link](https://www.iag2021.com/en/web/program/1646)][[pdf](https://www.researchgate.net/publication/367041555_Long-period_Accuracy_Evaluation_and_Spatial-_temporal_Characterization_Analysis_of_Global_GNSS-derived_PWV)]
-- **International Association of Professionals in Global Positioning Systems (CPGPS) Forum 2020**, *Speaker*, 12-15 Nov., 2020, Shanghai, China. [[link](http://202.127.29.4/shao_gnss_ac/cpgps2020/program_online.html)]
+- **International Association of Professionals in Global Positioning Systems (CPGPS) Forum 2020**, *Speaker*, 12–15 Nov., 2020, Shanghai, China. [[link](http://202.127.29.4/shao_gnss_ac/cpgps2020/program_online.html)]
 
 #### **Honors & Awards**
 
