@@ -35,7 +35,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 
 #### **Projects**
 
-- Postdoc Matching Fund Scheme, *The Hong Kong Polytechnic University*, HK$841K, Jul 2024 - Jul 2026
+- Postdoc Matching Fund Scheme, *The Hong Kong Polytechnic University*, HK$ 841K, Jul 2024 - Jul 2026
 
 #### **Publications**
 
@@ -75,17 +75,17 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 #### **Honors & Awards**
 
 - Outstanding Graduates of Shanghai **(2023)**
-- National Scholarship for Doctoral Students, RMB 30,000 **(2022)**
-- Zhu-Li-Yuehua Outstanding Doctoral Scholarship of CAS, RMB 5,000 **(2022)**
-- First Class Academic Scholarship of UCAS, RMB 15,000 **(2021, 2022)**
+- National Scholarship for Doctoral Students, CNY 30K **(2022)**
+- Zhu-Li-Yuehua Outstanding Doctoral Scholarship of CAS, CNY 5K **(2022)**
+- First Class Academic Scholarship of UCAS, CNY 15K **(2021, 2022)**
 - Merit Student of University of Chinese Academy of Sciences **(2020, 2021, 2022, 2023)**
-- Individual Scholarship of Chang'an University, RMB 500 **(2017)**
+- Individual Scholarship of Chang'an University, CNY 500 **(2017)**
 - The Third Prize of the 10th Challenge Cup  Competition of Chang'an University **(2017)**
 - The First Prize of the 10th Challenge Cup  Competition of Chang'an University **(2017)**
-- National Scholarship for Encouragement, RMB 5,000 **(2016)**
+- National Scholarship for Encouragement, CNY 5K **(2016)**
 - The Third Prize of the 4th ACM-ICPC in Shaanxi Province **(2016)**
-- The HI-TARGET Scholarship, RMB 3,000 **(2015)**
-- Ding Family "Zhong Cheng" Education Scholarship, RMB 2,600 **(2014)**
+- The HI-TARGET Scholarship, CNY 3K **(2015)**
+- Ding Family "Zhong Cheng" Education Scholarship, CNY 2.6K **(2014)**
 - The National Third Prize of the 21st National Applied Physics Knowledge Contest **(2011)**
 
 #### **Journal  Reviewer**
