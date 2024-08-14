@@ -39,7 +39,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 
 #### **Publications**
 
-##### **First-authored Publications**
+##### **First-authored**
 
 - **Ding JS**, Chen JP, Wang JG and Zhang YZ (2024) A novel method for tropospheric delay mapping function vertical modelling. *Journal of Geodesy*, doi: [10.1007/s00190-024-01845-2](https://doi.org/10.1007/s00190-024-01845-2). **(SCI)**
 - **Ding JS**, Chen JP, Wang JG and Zhang YZ (2023) Characteristic differences in tropospheric delay between Nevada Geodetic Laboratory products and NWM ray-tracing. *GPS Solutions*, doi:[10.1007/s10291-022-01385-2](https://link.springer.com/article/10.1007/s10291-022-01385-2). **(SCI)**
@@ -49,7 +49,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 - **Ding JS**, Chen JP and Wang JG (2020) Quality Control Method for ZTD Modeling Based on GNSS Observation Data. *Journal of Astronautics*, (in Chinese) doi:[10.3873/j.issn.1000 1328.2020.09.010](http://www.yhxb.org.cn/CN/10.3873/j.issn.1000-1328.2020.09.010). **(EI)**
 - **Ding JS** and Chen JP (2020) Assessment of Empirical Troposphere Model GPT3 Based on NGL’s Global Troposphere Products. *Sensors*, doi:[10.3390/s20133631](https://www.mdpi.com/1424-8220/20/13/3631). **(SCI)**
 
-##### **Co-authored Publications**
+##### **Co-authored**
 
 - Tang WJ, Chen JP, Zhang YZ, **Ding JS** and Song ZY (2024) Refined Troposphere Delay Models by NWM Ray-tracing for Pseudolite Positioning System and Their Performance Assessment. *Advances in Space Research*, doi: [10.1016/j.asr.2024.02.034](https://doi.org/10.1016/j.asr.2024.02.034). **(SCI)**
 - Song ZY, Chen JP, Zhang YZ, Yu C and **Ding JS** (2023) Real-time Multi-GNSS Precise Point Positioning with Ambiguity Resolution Based on the BDS-3 Global Short-message Communication Function. *GPS Solutions*,  doi:[10.1007/s10291-023-01477-7](https://link.springer.com/article/10.1007/s10291-023-01477-7).  **(SCI)**
