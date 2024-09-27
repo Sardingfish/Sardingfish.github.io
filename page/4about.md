@@ -41,7 +41,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 
 ##### **First-authored**
 
-- **Ding JS** (2024) Research on GNSS tropospheric delay modeling and spatial-temporal characteristics analysis of bias. Acta *Geodaetica et Cartographica Sinica,* (PhD thesis, in Chinese) doi: [10.11947/j.AGCS.2024.20230177](http://xb.chinasmp.com/CN/10.11947/j.AGCS.2024.20230177). **(EI)**
+- **Ding JS** (2024) Research on GNSS tropospheric delay modeling and spatial-temporal characteristics analysis of bias. Acta *Geodaetica et Cartographica Sinica,* (Abstract of PhD thesis, in Chinese) doi: [10.11947/j.AGCS.2024.20230177](http://xb.chinasmp.com/CN/10.11947/j.AGCS.2024.20230177). **(EI)**
 - **Ding JS**, Chen JP, Wang JG and Zhang YZ (2024) A novel method for tropospheric delay mapping function vertical modelling. *Journal of Geodesy*, doi: [10.1007/s00190-024-01845-2](https://doi.org/10.1007/s00190-024-01845-2). **(SCI)**
 - **Ding JS**, Chen JP, Wang JG and Zhang YZ (2023) Characteristic differences in tropospheric delay between Nevada Geodetic Laboratory products and NWM ray-tracing. *GPS Solutions*, doi:[10.1007/s10291-022-01385-2](https://link.springer.com/article/10.1007/s10291-022-01385-2). **(SCI)**
 - **Ding JS**, Chen JP, Tang WJ and Song ZY (2022) Spatial–Temporal Variability of Global GNSS-Derived Precipitable Water Vapor (1994–2020) and Climate Implications. *Remote Sensing*, doi:[10.3390/rs14143493](https://www.mdpi.com/2072-4292/14/14/3493/htm). **(SCI)**
