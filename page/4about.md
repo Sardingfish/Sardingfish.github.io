@@ -55,8 +55,8 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 - Chen Q, Chen JP, Yu C, Zhang YZ and **Ding JS** (2020) Comparison of BDS Station Clock Short-term Prediction Models and their Applications in Precise Orbit Determination. *Chinese Astronomy and Astrophysics*, doi:[10.1016/j.chinastron.2020.05.008](https://www.sciencedirect.com/science/article/pii/S0275106220300357). **(SCI)**
 - **Ding JS**, Chen JP and Wang JG (2020) Quality Control Method for ZTD Modeling Based on GNSS Observation Data. *Journal of Astronautics*, (in Chinese) doi:[10.3873/j.issn.1000 1328.2020.09.010](http://www.yhxb.org.cn/CN/10.3873/j.issn.1000-1328.2020.09.010). **(EI)**
 - **Ding JS** and Chen JP (2020) Assessment of Empirical Troposphere Model GPT3 Based on NGL’s Global Troposphere Products. *Sensors*, doi:[10.3390/s20133631](https://www.mdpi.com/1424-8220/20/13/3631). **(SCI)**
-
 - Chen JP, Wang JG, Wang AH, **Ding JS** and Zhang YZ (2020) SHAtropE—A Regional Gridded ZTD Model for China and the Surrounding Areas. *Remote Sensing*, doi[:10.3390/rs12010165](https://www.mdpi.com/2072-4292/12/1/165). **(SCI)**
+
 
 #### **Academic Reports**
 
