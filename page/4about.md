@@ -40,6 +40,13 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 #### **Publications**
 
 - **Ding J**, Mi X, Chen W, Chen J, Wang J, Zhang Y, et al (2024) Forecasting of Tropospheric Delay using AI Foundation Models in support of Microwave Remote Sensing. *IEEE Transactions on Geoscience and Remote Sensing*. doi: [10.1109/TGRS.2024.3488727](https://doi.org/10.1109/TGRS.2024.3488727). **(SCI)**
+- **Ding J**, Chen J, Wang J and Zhang Y (2024) A novel method for tropospheric delay mapping function vertical modelling. *Journal of Geodesy*, doi: [10.1007/s00190-024-01845-2](https://doi.org/10.1007/s00190-024-01845-2). **(SCI)**
+- **Ding J**, Chen J, Wang J and Zhang Y (2023) Characteristic differences in tropospheric delay between Nevada Geodetic Laboratory products and NWM ray-tracing. *GPS Solutions*, doi:[10.1007/s10291-022-01385-2](https://link.springer.com/article/10.1007/s10291-022-01385-2). **(SCI)**
+- **Ding J**, Chen J, Tang W and Song Z (2022) Spatial–Temporal Variability of Global GNSS-Derived Precipitable Water Vapor (1994–2020) and Climate Implications. *Remote Sensing*, doi:[10.3390/rs14143493](https://www.mdpi.com/2072-4292/14/14/3493/htm). **(SCI)**
+- **Ding J** and Chen J (2020) Assessment of Empirical Troposphere Model GPT3 Based on NGL’s Global Troposphere Products. *Sensors*, doi:[10.3390/s20133631](https://www.mdpi.com/1424-8220/20/13/3631). **(SCI)**
+
+<details> <summary>Full publication list</summary>
+- **Ding J**, Mi X, Chen W, Chen J, Wang J, Zhang Y, et al (2024) Forecasting of Tropospheric Delay using AI Foundation Models in support of Microwave Remote Sensing. *IEEE Transactions on Geoscience and Remote Sensing*. doi: [10.1109/TGRS.2024.3488727](https://doi.org/10.1109/TGRS.2024.3488727). **(SCI)**
 - **Ding J** (2024) Research on GNSS tropospheric delay modeling and spatial-temporal characteristics analysis of bias. *Acta Geodaetica et Cartographica Sinica*, (Abstract of PhD thesis, in Chinese) doi: [10.11947/j.AGCS.2024.20230177](http://xb.chinasmp.com/CN/10.11947/j.AGCS.2024.20230177). **(EI)**
 - Tang W, Chen J, Zhang Y, **Ding J** and Song Z (2024) Refined Troposphere Delay Models by NWM Ray-tracing for Pseudolite Positioning System and Their Performance Assessment. *Advances in Space Research*, doi: [10.1016/j.asr.2024.02.034](https://doi.org/10.1016/j.asr.2024.02.034). **(SCI)**
 - **Ding J**, Chen J, Wang J and Zhang Y (2024) A novel method for tropospheric delay mapping function vertical modelling. *Journal of Geodesy*, doi: [10.1007/s00190-024-01845-2](https://doi.org/10.1007/s00190-024-01845-2). **(SCI)**
@@ -55,6 +62,11 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 - **Ding J**, Chen J and Wang J (2020) Quality Control Method for ZTD Modeling Based on GNSS Observation Data. *Journal of Astronautics*, (in Chinese) doi:[10.3873/j.issn.1000 1328.2020.09.010](http://www.yhxb.org.cn/CN/10.3873/j.issn.1000-1328.2020.09.010). **(EI)**
 - **Ding J** and Chen J (2020) Assessment of Empirical Troposphere Model GPT3 Based on NGL’s Global Troposphere Products. *Sensors*, doi:[10.3390/s20133631](https://www.mdpi.com/1424-8220/20/13/3631). **(SCI)**
 - Chen J, Wang J, Wang A, **Ding J** and Zhang Y (2020) SHAtropE—A Regional Gridded ZTD Model for China and the Surrounding Areas. *Remote Sensing*, doi[:10.3390/rs12010165](https://www.mdpi.com/2072-4292/12/1/165). **(SCI)**
+
+
+</details>
+
+
 
 
 #### **Academic Reports**
