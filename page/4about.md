@@ -47,6 +47,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 
 <details> <summary>Full list</summary>
 <ul>
+    <li>Tang W, Chen J, Zhang Y, <b>Ding J</b> (2024) Analysis of GNSS/Pseudolite Integrated Positioning Accuracy in Urban Canyon Environment. <i>2024 14th International Conference on Indoor Positioning and Indoor Navigation (IPIN)</i>, doi:<a href="https://doi.org/10.1109/IPIN62893.2024.10786141" target="_blank">10.1109/IPIN62893.2024.10786141</a>. <b>(SCI)</b></li>
     <li><b>Ding J</b>, Mi X, Chen W, Chen J, Wang J, Zhang Y, et al (2024) Forecasting of Tropospheric Delay using AI Foundation Models in support of Microwave Remote Sensing. <i>IEEE Transactions on Geoscience and Remote Sensing</i>. doi:<a href="https://doi.org/10.1109/TGRS.2024.3488727" target="_blank">10.1109/TGRS.2024.3488727</a>. <b>(SCI)</b></li>
     <li><b>Ding J</b> (2024) Research on GNSS tropospheric delay modeling and spatial-temporal characteristics analysis of bias. <i>Acta Geodaetica et Cartographica Sinica</i>, (Abstract of PhD thesis, in Chinese) doi:<a href="http://xb.chinasmp.com/CN/10.11947/j.AGCS.2024.20230177" target="_blank">10.11947/j.AGCS.2024.20230177</a>. <b>(EI)</b></li>
     <li>Tang W, Chen J, Zhang Y, <b>Ding J</b> and Song Z (2024) Refined Troposphere Delay Models by NWM Ray-tracing for Pseudolite Positioning System and Their Performance Assessment. <i>Advances in Space Research</i>, doi:<a href="https://doi.org/10.1016/j.asr.2024.02.034" target="_blank">10.1016/j.asr.2024.02.034</a>. <b>(SCI)</b></li>
