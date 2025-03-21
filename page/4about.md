@@ -39,6 +39,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 
 #### **Selected Publications**
 
+- **Ding J**, Chen W, Chen J, Wang J, Zhang Y, Bai L, et al (2025) Spatiotemporal inhomogeneity of accuracy degradation in AI weather forecast foundation models: A GNSS perspective. *International Journal of Applied Earth Observation and Geoinformation*. doi: [10.1016/j.jag.2025.104473](https://doi.org/10.1016/j.jag.2025.104473). **(SCI)**
 - **Ding J**, Mi X, Chen W, Chen J, Wang J, Zhang Y, et al (2024) Forecasting of Tropospheric Delay using AI Foundation Models in support of Microwave Remote Sensing. *IEEE Transactions on Geoscience and Remote Sensing*. doi: [10.1109/TGRS.2024.3488727](https://doi.org/10.1109/TGRS.2024.3488727). **(SCI)**
 - **Ding J**, Chen J, Wang J and Zhang Y (2024) A novel method for tropospheric delay mapping function vertical modelling. *Journal of Geodesy*, doi: [10.1007/s00190-024-01845-2](https://doi.org/10.1007/s00190-024-01845-2). **(SCI)**
 - **Ding J**, Chen J, Wang J and Zhang Y (2023) Characteristic differences in tropospheric delay between Nevada Geodetic Laboratory products and NWM ray-tracing. *GPS Solutions*, doi:[10.1007/s10291-022-01385-2](https://link.springer.com/article/10.1007/s10291-022-01385-2). **(SCI)**
@@ -47,7 +48,9 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 
 <details> <summary>Full list</summary>
 <ul>
+    <li><b>Ding J</b>, Chen W, Chen J, Wang J, Zhang Y, Bai L, et al. (2025) Spatiotemporal inhomogeneity of accuracy degradation in AI weather forecast foundation models: A GNSS perspective. <i>International Journal of Applied Earth Observation and Geoinformation</i>, doi:<a href="https://doi.org/10.1016/j.jag.2025.104473" target="_blank">10.1016/j.jag.2025.104473</a>. <b>(SCI)</b></li>
     <li>Chen J, Song Z, Zhang Y, <b>Ding J</b>, et al. (2025) Clock systematic jump estimation and URA refinement of BDS-3 B2b real-time precise point positioning service. <i>GPS Solutions</i>, doi:<a href="https://doi.org/10.1007/s10291-025-01835-7" target="_blank">10.1007/s10291-025-01835-7</a>. <b>(SCI)</b></li>
+    <li>Bai Q, Kong Q, Mi X, Chen W, <b>Ding J</b>, et al. (2025) Evaluation and analysis of the precipitable water vapor in Inner Mongolia of China. <i> Earth Planets Space</i>, doi:<a href="https://doi.org/10.1186/s40623-025-02157-1" target="_blank">10.1186/s40623-025-02157-1</a>. <b>(SCI)</b></li>
     <li>Tang W, Chen J, Zhang Y, <b>Ding J</b> (2024) Analysis of GNSS/Pseudolite Integrated Positioning Accuracy in Urban Canyon Environment. <i>2024 14th International Conference on Indoor Positioning and Indoor Navigation (IPIN)</i>, doi:<a href="https://doi.org/10.1109/IPIN62893.2024.10786141" target="_blank">10.1109/IPIN62893.2024.10786141</a>. <b>(SCI)</b></li>
     <li><b>Ding J</b>, Mi X, Chen W, Chen J, Wang J, Zhang Y, et al (2024) Forecasting of Tropospheric Delay using AI Foundation Models in support of Microwave Remote Sensing. <i>IEEE Transactions on Geoscience and Remote Sensing</i>. doi:<a href="https://doi.org/10.1109/TGRS.2024.3488727" target="_blank">10.1109/TGRS.2024.3488727</a>. <b>(SCI)</b></li>
     <li><b>Ding J</b> (2024) Research on GNSS tropospheric delay modeling and spatial-temporal characteristics analysis of bias. <i>Acta Geodaetica et Cartographica Sinica</i>, (Abstract of PhD thesis, in Chinese) doi:<a href="http://xb.chinasmp.com/CN/10.11947/j.AGCS.2024.20230177" target="_blank">10.11947/j.AGCS.2024.20230177</a>. <b>(EI)</b></li>
@@ -67,6 +70,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
     <li>Chen J, Wang J, Wang A, <b>Ding J</b> and Zhang Y (2020) SHAtropE—A Regional Gridded ZTD Model for China and the Surrounding Areas. <i>Remote Sensing</i>, doi:<a href="https://www.mdpi.com/2072-4292/12/1/165" target="_blank">10.3390/rs12010165</a>. <b>(SCI)</b></li>
 </ul>
 </details>
+
 
 
 
