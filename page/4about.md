@@ -69,17 +69,8 @@ Geo-spatial Information Science </i>, doi:<a href="https://doi.org/10.1080/10095
 
 
 
-
-
 #### **Academic Reports**
 
-<!-- - **Ding J**, Chen J, Wang J and Zhang Y (2023) _Characteristic differences in tropospheric delay between NGL products and NWM ray-tracing, Speaker,_ **European Navigation Conference (ENC 2023)**, Session S02–Position determination, held on 31 May–2 June, 2023 in Noordwijk, Netherlands.
-
-- **Ding J**, Chen J and Tang W (2022) _Increasing Trend of Precipitable Water Vapor in Antarctica and Greenland, Speaker,_ **China Satellite Navigation Conference (CSNC 2022)**, Session S01–Industry Applications of Satellite Navigation, held on 25–27 May, 2022 in Beijing, China.
-- **Ding J**, Chen J and Tang W (2022) *Increasing Trend of Precipitable Water Vapor in Antarctica and Greenland, Speaker,* **EGU General Assembly 2022**, Session G5.2 – Atmospheric and Environmental Monitoring with Space-Geodetic Techniques and Contributions to Extreme Weather Studies, held on 23–27 May, 2022 in Vienna, Austria.[[link](https://meetingorganizer.copernicus.org/EGU22/session/42843#Presentations)][[pdf](https://www.researchgate.net/publication/367041037_Increasing_trend_of_Precipitable_Water_Vapor_in_Antarctica_and_Greenland)]
-- **Ding J** and Chen J (2021) *Global GNSS PWV Accuracy Assessment and Spatio-temporal Characteristics Analysis (1994-2020), Speaker,* **4-th  Congress of China Geodesy and Geophysics (4-th CCGG)**, CNC-IAMAS, M01: Atmospheric Sounding and Remote Sensing, held on July 17-18, 2021 in Qingdao, China. [[link](http://ddl.escience.cn/f/VWbR)]
-- **Ding J** and Chen J (2021) *Long-period Accuracy Evaluation and Spatial-temporal Characterization Analysis of Global GNSS-derived PWV, Speaker,* **Scientific Assembly of the International Association Geodesy (IAG2021)**, Session 5.5: Assimilation of Geodetic Observations in the Modelling of the Atmosphere, Cryosphere and Hydrosphere (Joint ICCC),  held on June 28 - July 2, 2021 in Beijing, China. [[link](https://www.iag2021.com/en/web/program/1646)][[pdf](https://www.researchgate.net/publication/367041555_Long-period_Accuracy_Evaluation_and_Spatial-_temporal_Characterization_Analysis_of_Global_GNSS-derived_PWV)]
-- **Ding J** and Chen J (2020) *Assessment of Empirical Troposphere Model GPT3 Based on NGL’s Global Troposphere Products, Speaker,* **International Association of Professionals in Global Positioning Systems (CPGPS) Forum 2020**, Session 5: System and Design of Navigation Signal, held on Nov. 12-15 2020 in Shanghai, China. [[link](http://202.127.29.4/shao_gnss_ac/cpgps2020/program_online.html)] -->
 - Croucher Advanced Study Institute (ASI)——Revolutionizing Weather Forecast and Climate Prediction Through Artificial Intelligence, ***Poster***, 19–21 Sep, 2024, Hong Kong
 - ~~European Navigation Conference **(ENC 2023)**, ***Oral***, 31 May–2 June, 2023, Noordwijk, Netherlands.~~
 - China Satellite Navigation Conference **(CSNC 2022)**, ***Oral***, 25–27 May, 2022, Beijing.
