@@ -39,12 +39,12 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 
 #### **Selected Publications**
 
+- **Ding J**, Chen W, Chen J, Wang J, Zhang Y, Bai L (2025) Real-Time High-Resolution Global PWV Retrieval Based on Weather Forecast Foundation Models and Cross-Validation With Radiosonde, GNSS, and ERA5. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*. doi: [10.1109/JSTARS.2025.3580782](https://doi.org/10.1109/JSTARS.2025.3580782).
 - **Ding J**, Chen W, Chen J, Wang J, Zhang Y, Bai L, et al (2025) Spatiotemporal inhomogeneity of accuracy degradation in AI weather forecast foundation models: A GNSS perspective. *International Journal of Applied Earth Observation and Geoinformation*. doi: [10.1016/j.jag.2025.104473](https://doi.org/10.1016/j.jag.2025.104473).
 - **Ding J**, Mi X, Chen W, Chen J, Wang J, Zhang Y, et al (2024) Forecasting of Tropospheric Delay using AI Foundation Models in support of Microwave Remote Sensing. *IEEE Transactions on Geoscience and Remote Sensing*. doi: [10.1109/TGRS.2024.3488727](https://doi.org/10.1109/TGRS.2024.3488727).
 - **Ding J**, Chen J, Wang J and Zhang Y (2024) A novel method for tropospheric delay mapping function vertical modelling. *Journal of Geodesy*, doi: [10.1007/s00190-024-01845-2](https://doi.org/10.1007/s00190-024-01845-2).
 - **Ding J**, Chen J, Wang J and Zhang Y (2023) Characteristic differences in tropospheric delay between Nevada Geodetic Laboratory products and NWM ray-tracing. *GPS Solutions*, doi:[10.1007/s10291-022-01385-2](https://link.springer.com/article/10.1007/s10291-022-01385-2).
 - **Ding J**, Chen J, Tang W and Song Z (2022) Spatial–Temporal Variability of Global GNSS-Derived Precipitable Water Vapor (1994–2020) and Climate Implications. *Remote Sensing*, doi:[10.3390/rs14143493](https://www.mdpi.com/2072-4292/14/14/3493/htm).
-- <b>Ding J</b>, Chen J and Tang W (2022) Increasing Trend of Precipitable Water Vapor in Antarctica and Greenland. *China Satellite Navigation Conference 2022, Lecture Notes in Electrical Engineering*, doi:<a href="http://dx.doi.org/10.1007/978-981-19-2588-7_27" target="_blank">10.1007/978-981-19-2588-7_27</a>.
 - **Ding J** and Chen J (2020) Assessment of Empirical Troposphere Model GPT3 Based on NGL’s Global Troposphere Products. *Sensors*, doi:[10.3390/s20133631](https://www.mdpi.com/1424-8220/20/13/3631).
 - **Ding J**, Chen J and Wang J (2020) Quality Control Method for ZTD Modeling Based on GNSS Observation Data. *Journal of Astronautics*, (in Chinese) doi:<a href="http://www.yhxb.org.cn/CN/10.3873/j.issn.1000-1328.2020.09.010" target="_blank">10.3873/j.issn.1000 1328.2020.09.010</a>.
 
@@ -58,6 +58,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
     <li>Tang W, Chen J, Zhang Y, <b>Ding J</b> and Song Z (2024) Refined Troposphere Delay Models by NWM Ray-tracing for Pseudolite Positioning System and Their Performance Assessment. <i>Advances in Space Research</i>, doi:<a href="https://doi.org/10.1016/j.asr.2024.02.034" target="_blank">10.1016/j.asr.2024.02.034</a>. </li>
     <li>Song Z, Chen J, Zhang Y, Yu C and <b>Ding J</b> (2023) Real-time Multi-GNSS Precise Point Positioning with Ambiguity Resolution Based on the BDS-3 Global Short-message Communication Function. <i>GPS Solutions</i>,  doi:<a href="https://link.springer.com/article/10.1007/s10291-023-01477-7" target="_blank">10.1007/s10291-023-01477-7</a>. </li>
     <li>Cui J, Chen J, Wang B, Yu C, <b>Ding J</b> and Wang R (2022) Characteristic Analysis of Satellite DCB Products Provided by CAS and DLR. <i>Progress in Astronomy</i>, (in Chinese) doi:<a href="http://center.shao.ac.cn/twxjz/abstract/2022/20220308.pdf" target="_blank">10.3969/j.issn.1000-8349.2022.03.01</a>. </li>
+    <li><b>Ding J</b>, Chen J and Tang W (2022) Increasing Trend of Precipitable Water Vapor in Antarctica and Greenland. <i>China Satellite Navigation Conference 2022, Lecture Notes in Electrical Engineering</i>, doi:<a href="http://dx.doi.org/10.1007/978-981-19-2588-7_27" target="_blank">10.1007/978-981-19-2588-7_27</a>. </li>
     <li>Chen J, Zhang Y, Yu C and <b>Ding J</b> (2022) Processing Algorithms and Performance Evaluation of BDS RDSS Location Reporting Service. <i>Acta Geodaetica et Cartographica Sinica</i>, (in Chinese) doi:<a href="http://xb.sinomaps.com/CN/10.11947/j.AGCS.2022.20220024" target="_blank">10.11947/j.AGCS.2022.20220024</a>. </li>
     <li>Tang W, Chen J, Yu C, <b>Ding J</b> and Wang R (2021) A New Ground-based Pseudolite System Deployment Algorithm Based on MOPSO. <i>Sensors</i>, doi:<a href="https://www.mdpi.com/1424-8220/21/16/5364" target="_blank">10.3390/s21165364</a>. </li>
     <li><b>Ding J</b> and Chen J (2021) Accuracy Variability of GNSS PWV in the Range of Small and Medium Scale Areas. <i>China Satellite Navigation Conference, CSNC 2021</i>, doi:<a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CPFD&dbname=CPFDTEMP&filename=WXDH202105001003&v=dT%25mmd2Fa%25mmd2F9hFJSEf0ab7zHb6xI4R4joiAEOerCFtZOWXnGwmaTEorOUXeytcIdnrw2Kuh68fC%25mmd2BcNcmc%3d" target="_blank">10.26914/c.cnkihy.2021.002146</a></li>
@@ -65,6 +66,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
     <li>Chen J, Wang J, Wang A, <b>Ding J</b> and Zhang Y (2020) SHAtropE—A Regional Gridded ZTD Model for China and the Surrounding Areas. <i>Remote Sensing</i>, doi:<a href="https://www.mdpi.com/2072-4292/12/1/165" target="_blank">10.3390/rs12010165</a>. </li>
 </ul>
 </details>
+
 
 #### **Academic Reports**
 
