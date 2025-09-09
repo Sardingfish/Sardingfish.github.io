@@ -39,18 +39,19 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 
 #### **Selected Publications**
 
-- **Ding J**, Xu C, Chen W, Chen J, Wang J, Zhang Y, et al (2025) Impact of VAEformer Compression Algorithm Precision Loss on the Tropospheric Delays for Microwave Remote Sensing. *IEEE Trans. Geosci. Remote Sens.*, doi: [10.1109/TGRS.2025.3587944](https://doi.org/10.1109/TGRS.2025.3587944)
-- **Ding J**, Chen W, Chen J, Wang J, Zhang Y, Bai L (2025) Real-Time High-Resolution Global PWV Retrieval Based on Weather Forecast Foundation Models and Cross-Validation With Radiosonde, GNSS, and ERA5. *IEEE J. Sel. Top. Appl. Earth Observ. Remote Sens.*, doi: [10.1109/JSTARS.2025.3580782](https://doi.org/10.1109/JSTARS.2025.3580782).
-- **Ding J**, Chen W, Chen J, Wang J, Zhang Y, Bai L, et al (2025) Spatiotemporal inhomogeneity of accuracy degradation in AI weather forecast foundation models: A GNSS perspective. *Int. J. Appl. Earth Obs. Geoinf.*, doi: [10.1016/j.jag.2025.104473](https://doi.org/10.1016/j.jag.2025.104473).
-- **Ding J**, Mi X, Chen W, Chen J, Wang J, Zhang Y, et al (2024) Forecasting of Tropospheric Delay using AI Foundation Models in support of Microwave Remote Sensing. *IEEE Trans. Geosci. Remote Sens.*, doi: [10.1109/TGRS.2024.3488727](https://doi.org/10.1109/TGRS.2024.3488727).
-- **Ding J**, Chen J, Wang J and Zhang Y (2024) A novel method for tropospheric delay mapping function vertical modelling. *J. Geodesy*, doi: [10.1007/s00190-024-01845-2](https://doi.org/10.1007/s00190-024-01845-2).
-- **Ding J**, Chen J, Wang J and Zhang Y (2023) Characteristic differences in tropospheric delay between Nevada Geodetic Laboratory products and NWM ray-tracing. *GPS Solut.*, doi:[10.1007/s10291-022-01385-2](https://link.springer.com/article/10.1007/s10291-022-01385-2).
-- **Ding J**, Chen J, Tang W and Song Z (2022) Spatial–Temporal Variability of Global GNSS-Derived Precipitable Water Vapor (1994–2020) and Climate Implications. *Remote Sens.*, doi:[10.3390/rs14143493](https://www.mdpi.com/2072-4292/14/14/3493/htm).
+- **Ding J**, Xu C, Chen W, Chen J, Wang J, Zhang Y, et al (2025) Impact of VAEformer Compression Algorithm Precision Loss on the Tropospheric Delays for Microwave Remote Sensing. *IEEE Transactions on Geoscience and Remote Sensing*, doi: [10.1109/TGRS.2025.3587944](https://doi.org/10.1109/TGRS.2025.3587944)
+- **Ding J**, Chen W, Chen J, Wang J, Zhang Y, Bai L (2025) Real-Time High-Resolution Global PWV Retrieval Based on Weather Forecast Foundation Models and Cross-Validation With Radiosonde, GNSS, and ERA5. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, doi: [10.1109/JSTARS.2025.3580782](https://doi.org/10.1109/JSTARS.2025.3580782).
+- **Ding J**, Chen W, Chen J, Wang J, Zhang Y, Bai L, et al (2025) Spatiotemporal inhomogeneity of accuracy degradation in AI weather forecast foundation models: A GNSS perspective. *International Journal of Applied Earth Observation and Geoinformation*, doi: [10.1016/j.jag.2025.104473](https://doi.org/10.1016/j.jag.2025.104473).
+- **Ding J**, Mi X, Chen W, Chen J, Wang J, Zhang Y, et al (2024) Forecasting of Tropospheric Delay using AI Foundation Models in support of Microwave Remote Sensing. *IEEE Transactions on Geoscience and Remote Sensing*, doi: [10.1109/TGRS.2024.3488727](https://doi.org/10.1109/TGRS.2024.3488727).
+- **Ding J**, Chen J, Wang J and Zhang Y (2024) A novel method for tropospheric delay mapping function vertical modelling. *Journal of Geodesy*, doi: [10.1007/s00190-024-01845-2](https://doi.org/10.1007/s00190-024-01845-2).
+- **Ding J**, Chen J, Wang J and Zhang Y (2023) Characteristic differences in tropospheric delay between Nevada Geodetic Laboratory products and NWM ray-tracing. *GPS Solutions*, doi:[10.1007/s10291-022-01385-2](https://link.springer.com/article/10.1007/s10291-022-01385-2).
+- **Ding J**, Chen J, Tang W and Song Z (2022) Spatial–Temporal Variability of Global GNSS-Derived Precipitable Water Vapor (1994–2020) and Climate Implications. *Remote Sensing*, doi:[10.3390/rs14143493](https://www.mdpi.com/2072-4292/14/14/3493/htm).
 - **Ding J** and Chen J (2020) Assessment of Empirical Troposphere Model GPT3 Based on NGL’s Global Troposphere Products. *Sensors*, doi:[10.3390/s20133631](https://www.mdpi.com/1424-8220/20/13/3631).
 - **Ding J**, Chen J and Wang J (2020) Quality Control Method for ZTD Modeling Based on GNSS Observation Data. *Journal of Astronautics*, (in Chinese) doi:<a href="http://www.yhxb.org.cn/CN/10.3873/j.issn.1000-1328.2020.09.010" target="_blank">10.3873/j.issn.1000 1328.2020.09.010</a>.
 
 <details> <summary>More</summary>
 <ul>
+    <li>Chen W, <b>Ding J</b>, Wang Y, Mi X, and Liu T (2025) A Novel Network RTK Technique for Mobile Platforms: Extending High-Precision Positioning to Offshore Environments. <i>TransNav the International Journal on Marine Navigation and Safety of Sea Transportation</i>, doi:<a href="http://dx.doi.org/10.12716/1001.19.02.04" target="_blank">10.12716/1001.19.02.04</a>. </li>
     <li>Deng Y, Chen W, <b>Ding J</b>, El-Mowaf A, et al. (2025) Improving GNSS precise point positioning with tropospheric constraints from data-driven numerical weather prediction model. <i>Geo-spatial Information Science</i>, doi:<a href="https://doi.org/10.1080/10095020.2025.2513650" target="_blank">10.1080/10095020.2025.2513650</a>. </li>
     <li>Chen J, Song Z, Zhang Y, <b>Ding J</b>, et al. (2025) Clock systematic jump estimation and URA refinement of BDS-3 B2b real-time precise point positioning service. <i>GPS Solutions</i>, doi:<a href="https://doi.org/10.1007/s10291-025-01835-7" target="_blank">10.1007/s10291-025-01835-7</a>. </li>
     <li>Bai Q, Kong Q, Mi X, Chen W, <b>Ding J</b>, et al. (2025) Evaluation and analysis of the precipitable water vapor in Inner Mongolia of China. <i> Earth Planets Space</i>, doi:<a href="https://doi.org/10.1186/s40623-025-02157-1" target="_blank">10.1186/s40623-025-02157-1</a>. </li>
@@ -67,6 +68,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
     <li>Chen J, Wang J, Wang A, <b>Ding J</b> and Zhang Y (2020) SHAtropE—A Regional Gridded ZTD Model for China and the Surrounding Areas. <i>Remote Sensing</i>, doi:<a href="https://www.mdpi.com/2072-4292/12/1/165" target="_blank">10.3390/rs12010165</a>. </li>
 </ul>
 </details>
+
 
 
 #### **Academic Reports**
