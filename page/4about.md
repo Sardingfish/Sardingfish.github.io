@@ -51,6 +51,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 
 <details> <summary>More</summary>
 <ul>
+    <li>Liu T, Chen W, Mi X, Chen X, Yang Y <b>Ding J</b>, et al. (2026) Ionospheric nonlinear interpolation model for Mid- and Low-latitude network RTK during solar maxima. <i>GPS Solutions</i>, doi:<a href="https://doi.org/10.1007/s10291-025-01976-9" target="_blank">10.1007/s10291-025-01976-9</a>. </li>
     <li>Chen W, <b>Ding J</b>, Wang Y, Mi X, and Liu T (2025) A Novel Network RTK Technique for Mobile Platforms: Extending High-Precision Positioning to Offshore Environments. <i>TransNav the International Journal on Marine Navigation and Safety of Sea Transportation</i>, doi:<a href="http://dx.doi.org/10.12716/1001.19.02.04" target="_blank">10.12716/1001.19.02.04</a>. </li>
     <li>Deng Y, Chen W, <b>Ding J</b>, El-Mowaf A, et al. (2025) Improving GNSS precise point positioning with tropospheric constraints from data-driven numerical weather prediction model. <i>Geo-spatial Information Science</i>, doi:<a href="https://doi.org/10.1080/10095020.2025.2513650" target="_blank">10.1080/10095020.2025.2513650</a>. </li>
     <li>Chen J, Song Z, Zhang Y, <b>Ding J</b>, et al. (2025) Clock systematic jump estimation and URA refinement of BDS-3 B2b real-time precise point positioning service. <i>GPS Solutions</i>, doi:<a href="https://doi.org/10.1007/s10291-025-01835-7" target="_blank">10.1007/s10291-025-01835-7</a>. </li>
@@ -68,6 +69,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
     <li>Chen J, Wang J, Wang A, <b>Ding J</b> and Zhang Y (2020) SHAtropE—A Regional Gridded ZTD Model for China and the Surrounding Areas. <i>Remote Sensing</i>, doi:<a href="https://www.mdpi.com/2072-4292/12/1/165" target="_blank">10.3390/rs12010165</a>. </li>
 </ul>
 </details>
+
 
 
 
@@ -93,6 +95,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 #### **Invited Talks**
 
 - Generation and evaluation of high-precision satellite navigation tropospheric products based on AI foundation models, 20-26 Sep., 2024, Chang'an University, Xi'an, China.
+- Space Geodetic Tropospheric Delay Forecasting Based on Foundation Models, 23 Oct., 2025, Sun Yat-sen University, Zhuhai, China.
 
 #### **Honors & Awards**
 
@@ -111,4 +114,4 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 - The National Third Prize of the 21st National Applied Physics Knowledge Contest **(2011)**
 
 #### **Journal  Reviewer**
-[Journal of Geodesy](https://link.springer.com/journal/190), [GPS Solutions](https://link.springer.com/journal/10291), [IEEE TGRS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36),  [IEEE J-STARS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443), [IEEE GRSL](https://xplorestaging.ieee.org/xpl/RecentIssue.jsp?punumber=8859), [Advances in Space Research](https://www.sciencedirect.com/journal/advances-in-space-research), [Geo-spatial Information Science](https://www.tandfonline.com/journals/tgsi20), [Measurement](https://www.sciencedirect.com/journal/measurement), [Geodesy and Geodynamics](https://www.sciencedirect.com/journal/geodesy-and-geodynamics), [Remote Sensing](https://www.mdpi.com/journal/remotesensing), [Scientific Reports](https://www.nature.com/srep/), [Geoscience Letters](https://geoscienceletters.springeropen.com/)
+[Journal of Geodesy](https://link.springer.com/journal/190), [GPS Solutions](https://link.springer.com/journal/10291), [IEEE TGRS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36),  [IEEE J-STARS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443), [IEEE GRSL](https://xplorestaging.ieee.org/xpl/RecentIssue.jsp?punumber=8859), [Space Weather](https://agupubs.onlinelibrary.wiley.com/journal/15427390), [Advances in Space Research](https://www.sciencedirect.com/journal/advances-in-space-research), [Geo-spatial Information Science](https://www.tandfonline.com/journals/tgsi20), [Measurement](https://www.sciencedirect.com/journal/measurement), [Geodesy and Geodynamics](https://www.sciencedirect.com/journal/geodesy-and-geodynamics), [Remote Sensing](https://www.mdpi.com/journal/remotesensing), [Scientific Reports](https://www.nature.com/srep/), [Geoscience Letters](https://geoscienceletters.springeropen.com/)
