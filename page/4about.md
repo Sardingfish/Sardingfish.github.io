@@ -39,9 +39,8 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 
 #### **Selected Publications**
 
-- Impact of VAEformer Compression Algorithm Precision Loss on the Tropospheric Delays for Microwave Remote Sensing
-  **Ding J**, Xu C, Chen W, Chen J, Wang J, Zhang Y, Bai L, Han T, Xiong Y
-  *IEEE Transactions on Geoscience and Remote Sensing*, 2025, 63, 4107311.
+- Impact of VAEformer Compression Algorithm Precision Loss on the Tropospheric Delays for Microwave Remote Sensing<br>**Ding J**, Xu C, Chen W, Chen J, Wang J, Zhang Y, Bai L, Han T, Xiong Y<br>
+  *IEEE Transactions on Geoscience and Remote Sensing*, 2025, 63, 4107311<br>
   [[Paper](https://doi.org/10.1109/TGRS.2025.3587944)] [[WeChat News](https://mp.weixin.qq.com/s/H_d86qaAHGtP-2Mjhc_vjw)]
 - **Ding J**, Chen W, Chen J, Wang J, Zhang Y, Bai L (2025) Real-Time High-Resolution Global PWV Retrieval Based on Weather Forecast Foundation Models and Cross-Validation With Radiosonde, GNSS, and ERA5. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 18, 15972 - 15981. [[Paper](https://doi.org/10.1109/JSTARS.2025.3580782)] [[WeChat News](https://mp.weixin.qq.com/s/nNhDQ9qR5SZpxmz9aDNi-A)]
 - **Ding J**, Chen W, Chen J, Wang J, Zhang Y, Bai L, et al (2025) Spatiotemporal inhomogeneity of accuracy degradation in AI weather forecast foundation models: A GNSS perspective. *International Journal of Applied Earth Observation and Geoinformation*, 139, 104473. [[Paper](https://doi.org/10.1016/j.jag.2025.104473)] [[Supplementary Data](https://ars.els-cdn.com/content/image/1-s2.0-S1569843225001207-mmc1.pdf)] [[WeChat News](https://mp.weixin.qq.com/s/o7_W6DtL_BBjgYWGqtCYgQ)]
