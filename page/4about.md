@@ -39,7 +39,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 
 #### **Selected Publications**
 
-- Impact of VAEformer Compression Algorithm Precision Loss on the Tropospheric Delays<br>**Ding J**, Xu C, Chen W, Chen J, Wang J, Zhang Y, Bai L, Han T, Xiong Y<br>
+- Impact of VAEformer Compression Algorithm Precision Loss on the Tropospheric Delays<br>**Ding J**<span style="color: #808080;">, Xu C, Chen W, Chen J, Wang J, Zhang Y, Bai L, Han T, Xiong Y</span><br>
   *IEEE Transactions on Geoscience and Remote Sensing*, 2025, 63, 4107311<br>
   [[Paper](https://doi.org/10.1109/TGRS.2025.3587944)] [[WeChat News](https://mp.weixin.qq.com/s/H_d86qaAHGtP-2Mjhc_vjw)]
 - Real-Time High-Resolution Global PWV Retrieval Based on Weather Forecast Foundation Models<br>**Ding J**, Chen W, Chen J, Wang J, Zhang Y, Bai L<br>*IEEE JSTARS*,  2025, 18, 15972-15981<br>[[Paper](https://doi.org/10.1109/JSTARS.2025.3580782)] [[WeChat News](https://mp.weixin.qq.com/s/nNhDQ9qR5SZpxmz9aDNi-A)]
