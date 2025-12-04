@@ -30,7 +30,7 @@ html {
   height: 100%; }
 
 body {
-  font-family: Georgia,Consolas,'Helvetica Neue',Helvetica,Arial,'Microsoft YaHei',sans-serif;
+  font-family: Consolas,'Helvetica Neue',Helvetica,Arial,'Microsoft YaHei',sans-serif;
   color: #333;
   background-image: url(https://gw.alicdn.com/tfs/TB1xzbUumBYBeNjy0FeXXbnmFXa-125-121.png);
   position: relative;
@@ -468,7 +468,7 @@ code {
   color: #000;
   background-color: rgba(0, 0, 0, 0.06);
   border: 1px solid #d7d0d2;
-  font-family: Georgia,Consolas,Monaco,Menlo,"Microsoft YaHei Mono",Consolas,"Courier New",monospace,sans-serif; }
+  font-family: Consolas,Monaco,Menlo,"Microsoft YaHei Mono",Consolas,"Courier New",monospace,sans-serif; }
 
 pre {
   margin: 12px 0;
