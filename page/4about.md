@@ -9,8 +9,7 @@ type: page
 {:toc}
 **Dr. Junsheng Ding** [[pdf](https://github.com/Sardingfish/Sardingfish.github.io/blob/master/page/CV_DingJS.pdf)]
 
-Postdoc@LSGI PolyU
-
+Postdoc@LSGI PolyU  
 The Hong Kong Polytechnic University, Hong Kong 999077, China
 
 E-mail: junsheng.ding@polyu.edu.hk; junshengding@yeah.net  
@@ -39,6 +38,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 
 #### **Selected Publications**
 
+| <img src="https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/2018-12-19-MOON-ECLIPSE/result.png" width="400"> | <span style="color: #1C0D1A;">Impact of VBAEformer Compression Algorithm Precision Loss on the Tropospheric Delays</span><br>**Ding J**<span style="color: #808080;">, Xu C, Chen W, Chen J, Wang J, Zhang Y, Bai L, Han T, Xiong Y</span><br><span style="color: #909090;">|
 - <span style="color: #1C0D1A;">Impact of VBAEformer Compression Algorithm Precision Loss on the Tropospheric Delays</span><br>**Ding J**<span style="color: #808080;">, Xu C, Chen W, Chen J, Wang J, Zhang Y, Bai L, Han T, Xiong Y</span><br><span style="color: #909090;">
   *IEEE Transactions on Geoscience and Remote Sensing*, 2025, 63, 4107311</span><br>[[Paper](https://doi.org/10.1109/TGRS.2025.3587944)] [[WeChat News](https://mp.weixin.qq.com/s/H_d86qaAHGtP-2Mjhc_vjw)] [[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:NxCvZ0KU8DEJ:scholar.google.com/&output=citation&scisdr=ChUEITX6EJDT0fKKgpU:ABGrvjIAAAAAaTGMmpWnaVXuP8VRznxU5czIP38&scisig=ABGrvjIAAAAAaTGMmjebhKbmphWmndvZjZGEOXE&scisf=4&ct=citation&cd=-1&hl=en)]
 - <span style="color: #1C0D1A;">Real-Time High-Resolution Global PWV Retrieval Based on Weather Forecast Foundation Models</span><br>**Ding J**<span style="color: #808080;">, Chen W, Chen J, Wang J, Zhang Y, Bai L</span><br><span style="color: #909090;">*IEEE JSTARS*,  2025, 18, 15972-15981</span><br>[[Paper](https://doi.org/10.1109/JSTARS.2025.3580782)] [[WeChat News](https://mp.weixin.qq.com/s/nNhDQ9qR5SZpxmz9aDNi-A)] [[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:oxkOX0JHE70J:scholar.google.com/&output=citation&scisdr=ChUEITX6EJDT0fKKwZs:ABGrvjIAAAAAaTGM2Zusa386b2QV45_awYGX2wE&scisig=ABGrvjIAAAAAaTGM2dXDeTxLEK8AzPUYW6ubBY8&scisf=4&ct=citation&cd=-1&hl=en)]
@@ -118,4 +118,4 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 - The National Third Prize of the 21st National Applied Physics Knowledge Contest **(2011)**
 
 #### **Journal  Reviewer**
-[Journal of Geodesy](https://link.springer.com/journal/190), [GPS Solutions](https://link.springer.com/journal/10291), [IEEE TGRS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36),  [IEEE J-STARS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443), [IEEE GRSL](https://xplorestaging.ieee.org/xpl/RecentIssue.jsp?punumber=8859), [Space Weather](https://agupubs.onlinelibrary.wiley.com/journal/15427390), [Advances in Space Research](https://www.sciencedirect.com/journal/advances-in-space-research), [Geo-spatial Information Science](https://www.tandfonline.com/journals/tgsi20), [Measurement](https://www.sciencedirect.com/journal/measurement), [Geodesy and Geodynamics](https://www.sciencedirect.com/journal/geodesy-and-geodynamics), [Remote Sensing](https://www.mdpi.com/journal/remotesensing), [Scientific Reports](https://www.nature.com/srep/), [Geoscience Letters](https://geoscienceletters.springeropen.com/)
+[Journal of Geodesy](https://link.springer.com/journal/190), [GPS Solutions](https://link.springer.com/journal/10291), [IEEE TGRS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36),  [IEEE J-STARS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443), [IEEE GRSL](https://xplorestaging.ieee.org/xpl/RecentIssue.jsp?punumber=8859), [IEEE TAES](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7), [Space Weather](https://agupubs.onlinelibrary.wiley.com/journal/15427390), [Advances in Space Research](https://www.sciencedirect.com/journal/advances-in-space-research), [Geo-spatial Information Science](https://www.tandfonline.com/journals/tgsi20), [Measurement](https://www.sciencedirect.com/journal/measurement), [Geodesy and Geodynamics](https://www.sciencedirect.com/journal/geodesy-and-geodynamics), [Remote Sensing](https://www.mdpi.com/journal/remotesensing), [Scientific Reports](https://www.nature.com/srep/), [Geoscience Letters](https://geoscienceletters.springeropen.com/)
