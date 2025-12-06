@@ -39,8 +39,15 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 #### **Selected Publications**
 <table border="0">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/AboutMe/GnssBouy.png" width="200"></td>
-    <td><span style="color: #1C0D1A;">Impact of VBAEformer Compression Algorithm Precision Loss on the Tropospheric Delays</span><br>**Ding J**<span style="color: #808080;">, Xu C, Chen W, Chen J, Wang J, Zhang Y, Bai L, Han T, Xiong Y</span><br><span style="color: #909090;">*IEEE Transactions on Geoscience and Remote Sensing*, 2025, 63, 4107311</span><br>[[Paper](https://doi.org/10.1109/TGRS.2025.3587944)] [[WeChat News](https://mp.weixin.qq.com/s/H_d86qaAHGtP-2Mjhc_vjw)] [[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:NxCvZ0KU8DEJ:scholar.google.com/&output=citation&scisdr=ChUEITX6EJDT0fKKgpU:ABGrvjIAAAAAaTGMmpWnaVXuP8VRznxU5czIP38&scisig=ABGrvjIAAAAAaTGMmjebhKbmphWmndvZjZGEOXE&scisf=4&ct=citation&cd=-1&hl=en)]</td>
+    <td>
+    <img src="https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/blob/master/image/AboutMe/GnssBouy.png" width="200">
+    </td>
+    <td>
+    <span style="color: #1C0D1A;">Impact of VBAEformer Compression Algorithm Precision Loss on the Tropospheric Delays</span><br>
+    <b>Ding J</b><span style="color: #808080;">, Xu C, Chen W, Chen J, Wang J, Zhang Y, Bai L, Han T, Xiong Y</span><br>
+    <span style="color: #909090;">*IEEE Transactions on Geoscience and Remote Sensing*, 2025, 63, 4107311</span><br>
+    [<a href="https://doi.org/10.1109/TGRS.2025.3587944">Paper</a>] [<a href="https://mp.weixin.qq.com/s/H_d86qaAHGtP-2Mjhc_vjw">WeChat News</a>]
+    </td>
   </tr>
 </table>
 
