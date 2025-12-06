@@ -35,6 +35,9 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 #### **Projects**
 
 - Postdoc Matching Fund Scheme, *The Hong Kong Polytechnic University*.
+- Research Project on Enhancing High-Precision Positioning Network Capabilities (participant)
+- GNSS Kinematic Reference Stations with Chip Scale Atomic ClockAiding for Offshore RTK Positioning (participant)
+- PPP-RTK Regional Product Generation (participant)
 
 #### **Selected Publications**
 <table style="border: none !important; border-collapse: collapse !important; width: 100%;">
