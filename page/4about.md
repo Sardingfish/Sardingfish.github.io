@@ -37,15 +37,15 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 - Postdoc Matching Fund Scheme, *The Hong Kong Polytechnic University*.
 
 #### **Selected Publications**
-<table border="0">
+<table style="border: none !important; border-collapse: collapse !important; width: 100%;">
   <tr>
-    <td>
-    <img src="https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/blob/master/image/AboutMe/GnssBouy.png" width="200">
+    <td style="border: none !important; width: 200px; text-align: left; vertical-align: top;">
+    <img src="https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/AboutMe/GnssBouy.png" width="160">
     </td>
-    <td>
+    <td style="border: none !important; text-align: left; vertical-align: top;">
     <span style="color: #1C0D1A;">Impact of VBAEformer Compression Algorithm Precision Loss on the Tropospheric Delays</span><br>
     <b>Ding J</b><span style="color: #808080;">, Xu C, Chen W, Chen J, Wang J, Zhang Y, Bai L, Han T, Xiong Y</span><br>
-    <span style="color: #909090;">*IEEE Transactions on Geoscience and Remote Sensing*, 2025, 63, 4107311</span><br>
+    <span style="color: #909090;"><i>IEEE Transactions on Geoscience and Remote Sensing</i>, 2025, 63, 4107311</span><br>
     [<a href="https://doi.org/10.1109/TGRS.2025.3587944">Paper</a>] [<a href="https://mp.weixin.qq.com/s/H_d86qaAHGtP-2Mjhc_vjw">WeChat News</a>]
     </td>
   </tr>
