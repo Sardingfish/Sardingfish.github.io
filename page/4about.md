@@ -53,7 +53,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 <table style="border: none !important; border-collapse: collapse !important; width: 100%;">
   <tr>
     <td style="border: none !important; width: 200px; text-align: left; vertical-align: top !important; padding: 0px 0px 0px 0px;">
-    <img src="https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/AboutMe/FMPWV.png" width="196">
+    <img src="https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/AboutMe/FMPWV.png" width="196" height="127">
     </td>
     <td style="border: none !important; text-align: left; vertical-align: top !important; padding: 0px 0px 0px 3px;">
     <span style="color: #1C0D1A;">Real-Time High-Resolution Global PWV Retrieval Based on Weather Forecast Foundation Models</span><br>
@@ -105,7 +105,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 <table style="border: none !important; border-collapse: collapse !important; width: 100%;">
   <tr>
     <td style="border: none !important; width: 200px; text-align: left; vertical-align: top !important; padding: 0px 0px 0px 0px;">
-    <img src="https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/AboutMe/FMTrop.png" width="196">
+    <img src="https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/AboutMe/FMTrop.png" width="196" height="127">
     </td>
     <td style="border: none !important; text-align: left; vertical-align: top !important; padding: 0px 0px 0px 3px;">
     <span style="color: #1C0D1A;">Forecasting of Tropospheric Delay using AI Foundation Models</span><br>
