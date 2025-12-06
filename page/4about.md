@@ -56,7 +56,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
     <img src="https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/AboutMe/FMPWV.png" width="196" height="127">
     </td>
     <td style="border: none !important; text-align: left; vertical-align: top !important; padding: 0px 0px 0px 3px;">
-    <span style="color: #1C0D1A;">Real-Time High-Resolution Global PWV Retrieval Based on Weather Forecast Foundation Models</span><br>
+    <span style="color: #1C0D1A;">Real-Time High-Resolution Global PWV Retrieval Based on Weather Forecast Foundation Models and Cross-Validation With Radiosonde, GNSS, and ERA5</span><br>
     <b>Ding J</b><span style="color: #808080;">, Chen W, Chen J, Wang J, Zhang Y, Bai L</span><br>
     <span style="color: #909090;"><i>IEEE JSTARS</i>,  2025, 18, 15972-15981</span><br>
     [<a href="https://doi.org/10.1109/JSTARS.2025.3580782">Paper</a>] [<a href="https://mp.weixin.qq.com/s/nNhDQ9qR5SZpxmz9aDNi-A">WeChat News</a>] [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:oxkOX0JHE70J:scholar.google.com/&output=citation&scisdr=ChUEITX6EJDT0fKKwZs:ABGrvjIAAAAAaTGM2Zusa386b2QV45_awYGX2wE&scisig=ABGrvjIAAAAAaTGM2dXDeTxLEK8AzPUYW6ubBY8&scisf=4&ct=citation&cd=-1&hl=en">BibTeX</a>]
@@ -82,7 +82,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
     <img src="https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/AboutMe/JAGFM.png" width="196" height="127" style="border: 1px solid lightgray;">
     </td>
     <td style="border: none !important; text-align: left; vertical-align: top !important; padding: 0px 0px 0px 3px;">
-    <span style="color: #1C0D1A;">Spatiotemporal Inhomogeneity of Accuracy Degradation in AI Weather Forecast Foundation Models</span><br>
+    <span style="color: #1C0D1A;">Spatiotemporal Inhomogeneity of Accuracy Degradation in AI Weather Forecast Foundation Models: A GNSS perspective</span><br>
     <b>Ding J</b><span style="color: #808080;">, Chen W, Chen J, Wang J, Zhang Y, Bai L, Wang Y, Mi X, Liu T, Weng D</span><br>
     <span style="color: #909090;"><i>	Int J Appl Earth Obs (JAG)</i>, 2025, 139, 104473</span><br>
     [<a href="https://doi.org/10.1016/j.jag.2025.104473">Paper</a>] [<a href="https://ars.els-cdn.com/content/image/1-s2.0-S1569843225001207-mmc1.pdf">Supplementary Data</a>] [<a href="https://mp.weixin.qq.com/s/o7_W6DtL_BBjgYWGqtCYgQ">WeChat News</a>] [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:ihsQ01dJwhYJ:scholar.google.com/&output=citation&scisdr=ChUEITX6EJDT0fKLGnc:ABGrvjIAAAAAaTGNAnfriwxHnYHJ9QVOJ1OiBS8&scisig=ABGrvjIAAAAAaTGNArpoAuRI1K4py5hKQYzIN2Y&scisf=4&ct=citation&cd=-1&hl=en">BibTeX</a>]
@@ -118,7 +118,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 <table style="border: none !important; border-collapse: collapse !important; width: 100%;">
   <tr>
     <td style="border: none !important; width: 200px; text-align: left; vertical-align: top !important; padding: 0px 0px 0px 0px;">
-    <img src="https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/AboutMe/TropMFHC.png" width="196" height="127" style="border: 1px solid lightgray;">
+    <img src="https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/AboutMe/TropMFHC.png" width="196" style="border: 1px solid lightgray;">
     </td>
     <td style="border: none !important; text-align: left; vertical-align: top !important; padding: 0px 0px 0px 3px;">
     <span style="color: #1C0D1A;">A Novel Method for Tropospheric Delay Mapping Function Vertical Modelling</span><br>
