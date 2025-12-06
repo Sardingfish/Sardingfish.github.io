@@ -71,7 +71,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
     <td style="border: none !important; text-align: left; vertical-align: top !important; padding: 0px 0px 0px 3px;">
     <span style="color: #1C0D1A;">A Novel Network RTK Technique for Mobile Platforms: Extending High-Precision Positioning to Offshore Environments</span><br>
     <span style="color: #808080;">Chen W, </span><b>Ding J</b><span style="color: #808080;">,  Wang Y, Mi X, Liu T</span><br>
-    <span style="color: #909090;"><i>TransNav-International Journal on Marine Navigation and Safety of Sea Transportation</i>, 19(2), 371-380</span><br>
+    <span style="color: #909090;"><i>TransNav Journal</i>, 2025, 19(2), 371-380</span><br>
     [<a href="http://dx.doi.org/10.12716/1001.19.02.04">Paper</a>] [<a href="https://transnav2025.umg.edu.pl/">TransNav 2025</a>] [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:-9H49CH93sYJ:scholar.google.com/&output=citation&scisdr=ChUEITX6EJDT0fKK9v4:ABGrvjIAAAAAaTGM7v4h8TWVAyVQOeHpJP0VNBU&scisig=ABGrvjIAAAAAaTGM7thz9Y3B9eiA39M52YzrBhQ&scisf=4&ct=citation&cd=-1&hl=en">BibTeX</a>]
     </td>
   </tr>
@@ -84,7 +84,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
     <td style="border: none !important; text-align: left; vertical-align: top !important; padding: 0px 0px 0px 3px;">
     <span style="color: #1C0D1A;">Spatiotemporal Inhomogeneity of Accuracy Degradation in AI Weather Forecast Foundation Models</span><br>
     <b>Ding J</b><span style="color: #808080;">, Chen W, Chen J, Wang J, Zhang Y, Bai L, Wang Y, Mi X, Liu T, Weng D</span><br>
-    <span style="color: #909090;"><i>International Journal of Applied Earth Observation and Geoinformation</i>, 2025, 139, 104473</span><br>
+    <span style="color: #909090;"><i>INT J APPL EARTH OBS (JAG)</i>, 2025, 139, 104473</span><br>
     [<a href="https://doi.org/10.1016/j.jag.2025.104473">Paper</a>] [<a href="https://ars.els-cdn.com/content/image/1-s2.0-S1569843225001207-mmc1.pdf">Supplementary Data</a>] [<a href="https://mp.weixin.qq.com/s/o7_W6DtL_BBjgYWGqtCYgQ">WeChat News</a>] [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:ihsQ01dJwhYJ:scholar.google.com/&output=citation&scisdr=ChUEITX6EJDT0fKLGnc:ABGrvjIAAAAAaTGNAnfriwxHnYHJ9QVOJ1OiBS8&scisig=ABGrvjIAAAAAaTGNArpoAuRI1K4py5hKQYzIN2Y&scisf=4&ct=citation&cd=-1&hl=en">BibTeX</a>]
     </td>
   </tr>
