@@ -49,7 +49,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
     <span style="color: #1C0D1A;">Impact of VBAEformer Compression Algorithm Precision Loss on the Tropospheric Delays for Microwave Remote Sensing</span><br>
     <b>Ding J</b><span style="color: #808080;">, Xu C, Chen W, Chen J, Wang J, Zhang Y, Bai L, Han T, Xiong Y</span><br>
     <span style="color: #909090;"><i>IEEE Transactions on Geoscience and Remote Sensing</i>, 2025, 63, 4107311</span><br>
-    [<a href="https://doi.org/10.1109/TGRS.2025.3587944">Paper</a>] [<a href="https://mp.weixin.qq.com/s/H_d86qaAHGtP-2Mjhc_vjw">WeChat News</a>] [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:NxCvZ0KU8DEJ:scholar.google.com/&output=citation&scisdr=ChUEITX6EJDT0fKKgpU:ABGrvjIAAAAAaTGMmpWnaVXuP8VRznxU5czIP38&scisig=ABGrvjIAAAAAaTGMmjebhKbmphWmndvZjZGEOXE&scisf=4&ct=citation&cd=-1&hl=en">BibTeX</a>]
+    [<a href="https://doi.org/10.1109/TGRS.2025.3587944" target="_blank">Paper</a>] [<a href="https://mp.weixin.qq.com/s/H_d86qaAHGtP-2Mjhc_vjw" target="_blank">WeChat News</a>] [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:NxCvZ0KU8DEJ:scholar.google.com/&output=citation&scisdr=ChUEITX6EJDT0fKKgpU:ABGrvjIAAAAAaTGMmpWnaVXuP8VRznxU5czIP38&scisig=ABGrvjIAAAAAaTGMmjebhKbmphWmndvZjZGEOXE&scisf=4&ct=citation&cd=-1&hl=en" target="_blank">BibTeX</a>]
     </td>
   </tr>
 </table>
@@ -62,7 +62,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
     <span style="color: #1C0D1A;">Real-Time High-Resolution Global PWV Retrieval Based on Weather Forecast Foundation Models and Cross-Validation With Radiosonde, GNSS, and ERA5</span><br>
     <b>Ding J</b><span style="color: #808080;">, Chen W, Chen J, Wang J, Zhang Y, Bai L</span><br>
     <span style="color: #909090;"><i>IEEE JSTARS</i>,  2025, 18, 15972-15981</span><br>
-    [<a href="https://doi.org/10.1109/JSTARS.2025.3580782">Paper</a>] [<a href="https://mp.weixin.qq.com/s/nNhDQ9qR5SZpxmz9aDNi-A">WeChat News</a>] [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:oxkOX0JHE70J:scholar.google.com/&output=citation&scisdr=ChUEITX6EJDT0fKKwZs:ABGrvjIAAAAAaTGM2Zusa386b2QV45_awYGX2wE&scisig=ABGrvjIAAAAAaTGM2dXDeTxLEK8AzPUYW6ubBY8&scisf=4&ct=citation&cd=-1&hl=en">BibTeX</a>]
+    [<a href="https://doi.org/10.1109/JSTARS.2025.3580782" target="_blank">Paper</a>] [<a href="https://mp.weixin.qq.com/s/nNhDQ9qR5SZpxmz9aDNi-A" target="_blank">WeChat News</a>] [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:oxkOX0JHE70J:scholar.google.com/&output=citation&scisdr=ChUEITX6EJDT0fKKwZs:ABGrvjIAAAAAaTGM2Zusa386b2QV45_awYGX2wE&scisig=ABGrvjIAAAAAaTGM2dXDeTxLEK8AzPUYW6ubBY8&scisf=4&ct=citation&cd=-1&hl=en" target="_blank">BibTeX</a>]
     </td>
   </tr>
 </table>
@@ -75,7 +75,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
     <span style="color: #1C0D1A;">A Novel Network RTK Technique for Mobile Platforms: Extending High-Precision Positioning to Offshore Environments</span><br>
     <span style="color: #808080;">Chen W, </span><b>Ding J</b><span style="color: #808080;">,  Wang Y, Mi X, Liu T</span><br>
     <span style="color: #909090;"><i>TransNav Journal</i>, 2025, 19(2), 371-380</span><br>
-    [<a href="http://dx.doi.org/10.12716/1001.19.02.04">Paper</a>] [<a href="https://transnav2025.umg.edu.pl/">TransNav 2025</a>] [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:-9H49CH93sYJ:scholar.google.com/&output=citation&scisdr=ChUEITX6EJDT0fKK9v4:ABGrvjIAAAAAaTGM7v4h8TWVAyVQOeHpJP0VNBU&scisig=ABGrvjIAAAAAaTGM7thz9Y3B9eiA39M52YzrBhQ&scisf=4&ct=citation&cd=-1&hl=en">BibTeX</a>]
+    [<a href="http://dx.doi.org/10.12716/1001.19.02.04" target="_blank">Paper</a>] [<a href="https://transnav2025.umg.edu.pl/" target="_blank">TransNav 2025</a>] [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:-9H49CH93sYJ:scholar.google.com/&output=citation&scisdr=ChUEITX6EJDT0fKK9v4:ABGrvjIAAAAAaTGM7v4h8TWVAyVQOeHpJP0VNBU&scisig=ABGrvjIAAAAAaTGM7thz9Y3B9eiA39M52YzrBhQ&scisf=4&ct=citation&cd=-1&hl=en" target="_blank">BibTeX</a>]
     </td>
   </tr>
 </table>
@@ -88,7 +88,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
     <span style="color: #1C0D1A;">Spatiotemporal Inhomogeneity of Accuracy Degradation in AI Weather Forecast Foundation Models: A GNSS perspective</span><br>
     <b>Ding J</b><span style="color: #808080;">, Chen W, Chen J, Wang J, Zhang Y, Bai L, Wang Y, Mi X, Liu T, Weng D</span><br>
     <span style="color: #909090;"><i>	Int J Appl Earth Obs (JAG)</i>, 2025, 139, 104473</span><br>
-    [<a href="https://doi.org/10.1016/j.jag.2025.104473">Paper</a>] [<a href="https://ars.els-cdn.com/content/image/1-s2.0-S1569843225001207-mmc1.pdf">Supplementary Data</a>] [<a href="https://mp.weixin.qq.com/s/o7_W6DtL_BBjgYWGqtCYgQ">WeChat News</a>] [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:ihsQ01dJwhYJ:scholar.google.com/&output=citation&scisdr=ChUEITX6EJDT0fKLGnc:ABGrvjIAAAAAaTGNAnfriwxHnYHJ9QVOJ1OiBS8&scisig=ABGrvjIAAAAAaTGNArpoAuRI1K4py5hKQYzIN2Y&scisf=4&ct=citation&cd=-1&hl=en">BibTeX</a>]
+    [<a href="https://doi.org/10.1016/j.jag.2025.104473" target="_blank">Paper</a>] [<a href="https://ars.els-cdn.com/content/image/1-s2.0-S1569843225001207-mmc1.pdf">Supplementary Data</a>] [<a href="https://mp.weixin.qq.com/s/o7_W6DtL_BBjgYWGqtCYgQ" target="_blank">WeChat News</a>] [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:ihsQ01dJwhYJ:scholar.google.com/&output=citation&scisdr=ChUEITX6EJDT0fKLGnc:ABGrvjIAAAAAaTGNAnfriwxHnYHJ9QVOJ1OiBS8&scisig=ABGrvjIAAAAAaTGNArpoAuRI1K4py5hKQYzIN2Y&scisf=4&ct=citation&cd=-1&hl=en" target="_blank">BibTeX</a>]
     </td>
   </tr>
 </table>
@@ -101,7 +101,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
     <span style="color: #1C0D1A;">AI Foundation Models Facilitate Real-time Global GNSS PWV Retrieval with Sub-millimeter Accuracy</span><br>
     <b>Ding J</b><span style="color: #808080;">, Chen W, Chen J, Wang J, Zhang Y, Weng D, Liu T, Mi X, Soja B, Bai L</span> <br>
     <span style="color: #909090;"><i>ESS Open Archive</i>, July 12, 2024</span><br>
-    [<a href="https://doi.org/10.22541/essoar.172081357.72805131/v1">Preprint</a>] [<a href="https://www.researchgate.net/publication/384443640_AI_Foundation_Models_Facilitate_Real-time_GNSS_Precipitable_Water_Vapor_Retrieval_with_Sub-millimeter_Accuracy">Poster</a>] [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:ZM1LZciiCBcJ:scholar.google.com/&output=citation&scisdr=ChUEITX6EJDT0fKLDS4:ABGrvjIAAAAAaTGNFS6uq4Pxsxse9xVTwBt1O8A&scisig=ABGrvjIAAAAAaTGNFbWNyVmiRO4LmRoSAaRxc9Q&scisf=4&ct=citation&cd=-1&hl=en">BibTeX</a>]
+    [<a href="https://doi.org/10.22541/essoar.172081357.72805131/v1" target="_blank">Preprint</a>] [<a href="https://www.researchgate.net/publication/384443640_AI_Foundation_Models_Facilitate_Real-time_GNSS_Precipitable_Water_Vapor_Retrieval_with_Sub-millimeter_Accuracy" target="_blank">Poster</a>] [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:ZM1LZciiCBcJ:scholar.google.com/&output=citation&scisdr=ChUEITX6EJDT0fKLDS4:ABGrvjIAAAAAaTGNFS6uq4Pxsxse9xVTwBt1O8A&scisig=ABGrvjIAAAAAaTGNFbWNyVmiRO4LmRoSAaRxc9Q&scisf=4&ct=citation&cd=-1&hl=en" target="_blank">BibTeX</a>]
     </td>
   </tr>
 </table>
@@ -114,7 +114,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
     <span style="color: #1C0D1A;">Forecasting of Tropospheric Delay using AI Foundation Models</span><br>
     <b>Ding J</b><span style="color: #808080;">, Mi X, Chen W, Chen J, Wang J, Zhang Y, Awange JL, Soja B, Bai L, Deng Y, Tang W</span><br>
     <span style="color: #909090;"><i>IEEE Transactions on Geoscience and Remote Sensing</i>, 2024, 62, 5803019</span><br>
-    [<a href="https://www.researchgate.net/publication/378621088_Forecasting_of_Tropospheric_Delay_Using_Ai_Foundation_Models_in_Support_of_Microwave_Remote_Sensing">Preprint</a>] [<a href="https://doi.org/10.1109/TGRS.2024.3488727">Paper</a>] [<a href="https://mp.weixin.qq.com/s/YfimR5av849oiFdZHJvI_Q">WeChat News</a>] [<a href="https://doi.org/10.13140/RG.2.2.30929.03686">Presentation</a>] [<a href="https://www.cpgps.org/2025FORUM/2025CPGNSS%E4%BC%9A%E8%AE%AE%E6%89%8B%E5%86%8C(2).pdf">CPGNSS 2025</a>] [<a href="http://dingjunsheng.top/TropAI/" target="_blank">Website</a>]
+    [<a href="https://www.researchgate.net/publication/378621088_Forecasting_of_Tropospheric_Delay_Using_Ai_Foundation_Models_in_Support_of_Microwave_Remote_Sensing" target="_blank">Preprint</a>] [<a href="https://doi.org/10.1109/TGRS.2024.3488727" target="_blank">Paper</a>] [<a href="https://mp.weixin.qq.com/s/YfimR5av849oiFdZHJvI_Q" target="_blank">WeChat News</a>] [<a href="https://doi.org/10.13140/RG.2.2.30929.03686" target="_blank">Presentation</a>] [<a href="https://www.cpgps.org/2025FORUM/2025CPGNSS%E4%BC%9A%E8%AE%AE%E6%89%8B%E5%86%8C(2).pdf">CPGNSS 2025</a>] [<a href="http://dingjunsheng.top/TropAI/" target="_blank">Website</a>]
     </td>
   </tr>
 </table>
@@ -127,7 +127,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
     <span style="color: #1C0D1A;">A Novel Method for Tropospheric Delay Mapping Function Vertical Modelling</span><br>
     <b>Ding J</b><span style="color: #808080;">, Chen J, Wang J and Zhang Y</span><br>
     <span style="color: #909090;"><i>Journal of Geodesy</i>, 2024, 98, 37</span><br>
-    [<a href="https://doi.org/10.1007/s00190-024-01845-2">Paper</a>] [<a href="https://github.com/Sardingfish/Mapping-Function-Height-Correction-Models">Code</a>] [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:NZwrW8YEsSkJ:scholar.google.com/&output=citation&scisdr=ChUEITX6EJDT0fKLIes:ABGrvjIAAAAAaTGNOevxmrqG0YoTwXuVCX4KSF8&scisig=ABGrvjIAAAAAaTGNOU1MM0RErImEzEfJO5bbUqU&scisf=4&ct=citation&cd=-1&hl=en">BibTeX</a>]
+    [<a href="https://doi.org/10.1007/s00190-024-01845-2" target="_blank">Paper</a>] [<a href="https://github.com/Sardingfish/Mapping-Function-Height-Correction-Models" target="_blank">Code</a>] [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:NZwrW8YEsSkJ:scholar.google.com/&output=citation&scisdr=ChUEITX6EJDT0fKLIes:ABGrvjIAAAAAaTGNOevxmrqG0YoTwXuVCX4KSF8&scisig=ABGrvjIAAAAAaTGNOU1MM0RErImEzEfJO5bbUqU&scisf=4&ct=citation&cd=-1&hl=en" target="_blank">BibTeX</a>]
     </td>
   </tr>
 </table>
@@ -140,7 +140,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
     <span style="color: #1C0D1A;">Characteristic Differences in Tropospheric Delay between NGL Products and NWM Ray-tracing</span><br>
     <b>Ding J</b><span style="color: #808080;">, Chen J, Wang J and Zhang Y</span><br>
     <span style="color: #909090;"><i>GPS Solutions</i>, 2023, 27, 47</span><br>
-    [<a href="https://doi.org/10.1007/s10291-022-01385-2">Paper</a>] [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:TovlTs7AD8YJ:scholar.google.com/&output=citation&scisdr=ChUEITX6EJDT0fKLVDc:ABGrvjIAAAAAaTGNTDcouEJNNSTVO44qqxwucaA&scisig=ABGrvjIAAAAAaTGNTP5PrpFH6_FhFwGQf7aoDZ0&scisf=4&ct=citation&cd=-1&hl=en">BibTeX</a>]
+    [<a href="https://doi.org/10.1007/s10291-022-01385-2" target="_blank">Paper</a>] [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:TovlTs7AD8YJ:scholar.google.com/&output=citation&scisdr=ChUEITX6EJDT0fKLVDc:ABGrvjIAAAAAaTGNTDcouEJNNSTVO44qqxwucaA&scisig=ABGrvjIAAAAAaTGNTP5PrpFH6_FhFwGQf7aoDZ0&scisf=4&ct=citation&cd=-1&hl=en" target="_blank">BibTeX</a>]
     </td>
   </tr>
 </table>
