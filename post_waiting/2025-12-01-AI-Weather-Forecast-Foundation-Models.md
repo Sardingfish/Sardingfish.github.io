@@ -7,9 +7,13 @@ tags: AI
 author: Jason Ding
 ---
 
-[G-Nut/Anubis](http://www.pecny.cz/gop/index.php/gnss/sw/anubis)，简称Anubis，是一款基于命令行窗口运行、支持多模GNSS数据质量检核的开源软件，由捷克国家大地测量、地形与地图制图研究所组织开发。该软件基于[G-Nut软件库](http://www.pecny.cz/GOP/index.php/gnss/sw/gnut)，可对RINEX2.x格式、RINEX3.x格式的GNSS观测文件进行数据检核、数据编辑、观测数
+持续更新AI天气预报大模型
 
 
+
+### AI Weather Forecast Foundation Models
+
+The table followed summarizes some current weather forecast foundation models and their profile. The table is continuously updated.
 
 | Foundation models                                            | Affiliation             | AI Tech       | Variables | Pressure levels | Step length | Resolution       |
 | ------------------------------------------------------------ | ----------------------- | ------------- | --------- | --------------- | ----------- | ---------------- |
@@ -20,7 +24,7 @@ author: Jason Ding
 | [FuXi](https://github.com/tpys/FuXi)                         | Fudan University        | U-Transformer | 5 SL+5 PL | 13              | 6           | 0.25°            |
 | [ClimaX](https://microsoft.github.io/ClimaX/)                | Microsoft, UCLA         | Transformer   | 3 SL+6PL  | 7               | 6           | 5.625°, 1.40625° |
 | [AIFS](https://www.ecmwf.int/en/newsletter/178/news/aifs-new-ecmwf-forecasting-system) | ECMWF                   | GNN           | 9 SL+5 PL | 13              | 6           | 0.25°, 1°        |
-| [GenCast](https://doi.org/10.1038/s41586-024-08252-9)        | Google DeepMind         |               |           |                 |             |                  |
+| [GenCast](https://doi.org/10.1038/s41586-024-08252-9)        | Google DeepMind         | Diffusion     | 6 SL+6 PL | 13              | 6           | 0.25°            |
 | [NeuralGCM](https://github.com/neuralgcm/neuralgcm)          | Google Research         |               |           |                 |             |                  |
 | [Auraro](https://github.com/microsoft/aurora)                | Microsoft Research      |               |           |                 |             |                  |
 | [OneForecast](https://github.com/YuanGao-YG/OneForecast)     | Tsinghua University     |               |           |                 |             |                  |
@@ -35,15 +39,13 @@ author: Jason Ding
 
 
 
-**配置文件**
 
-软件提供
 
-## Case Analysis
+### Case Analysis
 
-GN
 
-## References
 
-[1]康朝虎,刘宁,
+### References
+
+
 
