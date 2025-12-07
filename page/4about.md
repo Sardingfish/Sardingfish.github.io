@@ -114,7 +114,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
     <span style="color: #1C0D1A;">Forecasting of Tropospheric Delay using AI Foundation Models</span><br>
     <b>Ding J</b><span style="color: #808080;">, Mi X, Chen W, Chen J, Wang J, Zhang Y, Awange JL, Soja B, Bai L, Deng Y, Tang W</span><br>
     <span style="color: #909090;"><i>IEEE Transactions on Geoscience and Remote Sensing</i>, 2024, 62, 5803019</span><br>
-    [<a href="https://www.researchgate.net/publication/378621088_Forecasting_of_Tropospheric_Delay_Using_Ai_Foundation_Models_in_Support_of_Microwave_Remote_Sensing">Preprint</a>] [<a href="https://doi.org/10.1109/TGRS.2024.3488727">Paper</a>] [<a href="https://mp.weixin.qq.com/s/YfimR5av849oiFdZHJvI_Q">WeChat News</a>] [<a href="https://doi.org/10.13140/RG.2.2.30929.03686">Presentation</a>] [<a href="https://www.cpgps.org/2025FORUM/2025CPGNSS%E4%BC%9A%E8%AE%AE%E6%89%8B%E5%86%8C(2).pdf">CPGNSS 2025</a>] [<a href="http://dingjunsheng.top/TropAI/">Website</a>]
+    [<a href="https://www.researchgate.net/publication/378621088_Forecasting_of_Tropospheric_Delay_Using_Ai_Foundation_Models_in_Support_of_Microwave_Remote_Sensing">Preprint</a>] [<a href="https://doi.org/10.1109/TGRS.2024.3488727">Paper</a>] [<a href="https://mp.weixin.qq.com/s/YfimR5av849oiFdZHJvI_Q">WeChat News</a>] [<a href="https://doi.org/10.13140/RG.2.2.30929.03686">Presentation</a>] [<a href="https://www.cpgps.org/2025FORUM/2025CPGNSS%E4%BC%9A%E8%AE%AE%E6%89%8B%E5%86%8C(2).pdf">CPGNSS 2025</a>] [<a href="http://dingjunsheng.top/TropAI/" target="_blank">Website</a>]
     </td>
   </tr>
 </table>
