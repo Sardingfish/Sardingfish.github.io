@@ -88,7 +88,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
     <span style="color: #1C0D1A;">Spatiotemporal Inhomogeneity of Accuracy Degradation in AI Weather Forecast Foundation Models: A GNSS perspective</span><br>
     <b>Ding J</b><span style="color: #808080;">, Chen W, Chen J, Wang J, Zhang Y, Bai L, Wang Y, Mi X, Liu T, Weng D</span><br>
     <span style="color: #909090;"><i>	Int J Appl Earth Obs (JAG)</i>, 2025, 139, 104473</span><br>
-    [<a href="https://doi.org/10.1016/j.jag.2025.104473" target="_blank">Paper</a>] [<a href="https://ars.els-cdn.com/content/image/1-s2.0-S1569843225001207-mmc1.pdf">Supplementary Data</a>] [<a href="https://mp.weixin.qq.com/s/o7_W6DtL_BBjgYWGqtCYgQ" target="_blank">WeChat News</a>] [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:ihsQ01dJwhYJ:scholar.google.com/&output=citation&scisdr=ChUEITX6EJDT0fKLGnc:ABGrvjIAAAAAaTGNAnfriwxHnYHJ9QVOJ1OiBS8&scisig=ABGrvjIAAAAAaTGNArpoAuRI1K4py5hKQYzIN2Y&scisf=4&ct=citation&cd=-1&hl=en" target="_blank">BibTeX</a>]
+    [<a href="https://doi.org/10.1016/j.jag.2025.104473" target="_blank">Paper</a>] [<a href="https://ars.els-cdn.com/content/image/1-s2.0-S1569843225001207-mmc1.pdf">Supplementary Data</a>] [<a href="https://mp.weixin.qq.com/s/o7_W6DtL_BBjgYWGqtCYgQ" target="_blank">WeChat News</a>] [<a href="http://dingjunsheng.top/TropAI/SpatioTempInhom/" target="_blank">Website</a>]
     </td>
   </tr>
 </table>
@@ -102,7 +102,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
     <b>Ding J</b><span style="color: #808080;">, Chen W, Chen J, Wang J, Zhang Y, Weng D, Liu T, Mi X, Soja B, Bai L</span> <br>
     <span style="color: #909090;"><i>ESS Open Archive</i>, July 12, 2024</span><br>
     [<a href="https://doi.org/10.22541/essoar.172081357.72805131/v1" target="_blank">Preprint</a>] [<a href="https://www.researchgate.net/publication/384443640_AI_Foundation_Models_Facilitate_Real-time_GNSS_Precipitable_Water_Vapor_Retrieval_with_Sub-millimeter_Accuracy" target="_blank">Poster</a>] [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:ZM1LZciiCBcJ:scholar.google.com/&output=citation&scisdr=ChUEITX6EJDT0fKLDS4:ABGrvjIAAAAAaTGNFS6uq4Pxsxse9xVTwBt1O8A&scisig=ABGrvjIAAAAAaTGNFbWNyVmiRO4LmRoSAaRxc9Q&scisf=4&ct=citation&cd=-1&hl=en" target="_blank">BibTeX</a>]
-    </td>
+    </td>Website
   </tr>
 </table>
 <table style="border: none !important; border-collapse: collapse !important; width: 100%;">
