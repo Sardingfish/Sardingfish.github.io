@@ -102,7 +102,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
     <b>Ding J</b><span style="color: #808080;">, Chen W, Chen J, Wang J, Zhang Y, Weng D, Liu T, Mi X, Soja B, Bai L</span> <br>
     <span style="color: #909090;"><i>ESS Open Archive</i>, July 12, 2024</span><br>
     [<a href="https://doi.org/10.22541/essoar.172081357.72805131/v1" target="_blank">Preprint</a>] [<a href="https://www.researchgate.net/publication/384443640_AI_Foundation_Models_Facilitate_Real-time_GNSS_Precipitable_Water_Vapor_Retrieval_with_Sub-millimeter_Accuracy" target="_blank">Poster</a>] [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:ZM1LZciiCBcJ:scholar.google.com/&output=citation&scisdr=ChUEITX6EJDT0fKLDS4:ABGrvjIAAAAAaTGNFS6uq4Pxsxse9xVTwBt1O8A&scisig=ABGrvjIAAAAAaTGNFbWNyVmiRO4LmRoSAaRxc9Q&scisf=4&ct=citation&cd=-1&hl=en" target="_blank">BibTeX</a>]
-    </td>Website
+    </td>
   </tr>
 </table>
 <table style="border: none !important; border-collapse: collapse !important; width: 100%;">
