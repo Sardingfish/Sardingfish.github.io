@@ -62,7 +62,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
     <span style="color: #1C0D1A;">Real-Time High-Resolution Global PWV Retrieval Based on Weather Forecast Foundation Models and Cross-Validation With Radiosonde, GNSS, and ERA5</span><br>
     <b>Ding J</b><span style="color: #808080;">, Chen W, Chen J, Wang J, Zhang Y, Bai L</span><br>
     <span style="color: #909090;"><i>IEEE JSTARS</i>,  2025, 18, 15972-15981</span><br>
-    [<a href="https://doi.org/10.1109/JSTARS.2025.3580782" target="_blank">Paper</a>] [<a href="https://mp.weixin.qq.com/s/nNhDQ9qR5SZpxmz9aDNi-A" target="_blank">WeChat News</a>] [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:oxkOX0JHE70J:scholar.google.com/&output=citation&scisdr=ChUEITX6EJDT0fKKwZs:ABGrvjIAAAAAaTGM2Zusa386b2QV45_awYGX2wE&scisig=ABGrvjIAAAAAaTGM2dXDeTxLEK8AzPUYW6ubBY8&scisf=4&ct=citation&cd=-1&hl=en" target="_blank">BibTeX</a>]
+    [<a href="https://doi.org/10.1109/JSTARS.2025.3580782" target="_blank">Paper</a>] [<a href="https://mp.weixin.qq.com/s/nNhDQ9qR5SZpxmz9aDNi-A" target="_blank">WeChat News</a>] [<a href="http://dingjunsheng.top/TropAI/rtPWV/" target="_blank">Website</a>]
     </td>
   </tr>
 </table>
