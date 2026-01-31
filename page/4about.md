@@ -234,6 +234,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
         <li>Measurements</li>
         <li>Earth-Science Reviews</li>
         <li>Geodesy and Geodynamics</li>
+        <li>Geoscience Letters</li>
       </ul>
     </td>
     <td style="border: none;">
@@ -245,7 +246,6 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
         <li>Space Weather</li>
         <li>Remote Sensing</li>
         <li>Scientific Reports</li>
-        <li>Geoscience Letters</li>
       </ul>
     </td>
   </tr>
