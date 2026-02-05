@@ -12,7 +12,7 @@ type: page
 Postdoc@LSGI PolyU  
 The Hong Kong Polytechnic University, Hong Kong 999077, China
 
-E-mail: junsheng.ding@polyu.edu.hk; junshengding@yeah.net  
+E-mail: junsheng[dot]din[at]polyu[dot]edu[dot]hk; junshengding[at]yeah[dot]net  
 Personal Website: [https://dingjunsheng.top](https://dingjunsheng.top)  
 Research Gate: [https://www.researchgate.net/profile/Junsheng_Ding](https://www.researchgate.net/profile/Junsheng_Ding)  
 Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi=ao)
