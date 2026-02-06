@@ -227,30 +227,31 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
   <tr style="border: none;">
     <td style="border: none;">
       <ul>
-        <li>Journal of Geodesy</li>
-        <li>GPS Solutions</li>
-        <li>Advances in Space Research</li>
-        <li>Geo-spatial Information Science</li>
-        <li>Space Weather</li>
+        <li><a href="https://link.springer.com/journal/190" target="_blank">Journal of Geodesy</a></li>
+        <li><a href="https://link.springer.com/journal/10291" target="_blank">GPS Solutions</a></li>
+        <li><a href="https://www.sciencedirect.com/journal/advances-in-space-research" target="_blank">Advances in Space Research</a></li>
+        <li><a href="https://www.tandfonline.com/journals/tgsi20" target="_blank">Geo-spatial Information Science</a></li>
+        <li><a href="https://agupubs.onlinelibrary.wiley.com/journal/15427390" target="_blank">Space Weather</a></li>
       </ul>
     </td>
     <td style="border: none;">
       <ul>
-        <li>Earth-Science Reviews</li>
-        <li>Geodesy and Geodynamics</li>
-        <li>Geoscience Letters</li>
-        <li>Remote Sensing</li>
-        <li>Scientific Reports</li>
+        <li><a href="https://www.sciencedirect.com/journal/earth-science-reviews" target="_blank">Earth-Science Reviews</a></li>
+        <li><a href="https://www.sciencedirect.com/journal/geodesy-and-geodynamics" target="_blank">Geodesy and Geodynamics</a></li>
+        <li><a href="https://link.springer.com/journal/40562" target="_blank">Geoscience Letters</a></li>
+        <li><a href="https://www.mdpi.com/journal/remotesensing" target="_blank">Remote Sensing</a></li>
+        <li><a href="https://www.nature.com/srep/" target="_blank">Scientific Reports</a></li>
       </ul>
     </td>
     <td style="border: none;">
       <ul>
-        <li>IEEE TGRS</li>
-        <li>IEEE TAES</li>
-        <li>IEEE J-STARS</li>
-        <li>IEEE GRSL</li>
-        <li>Measurements</li>
+        <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36" target="_blank">IEEE TGRS</a></li>
+        <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7" target="_blank">IEEE TAES</a></li>
+        <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443" target="_blank">IEEE J-STARS</a></li>
+        <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859" target="_blank">IEEE GRSL</a></li>
+        <li><a href="https://www.sciencedirect.com/journal/measurement" target="_blank">Measurement</a></li>
       </ul>
     </td>
   </tr>
 </table>
+
