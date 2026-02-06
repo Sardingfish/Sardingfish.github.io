@@ -43,6 +43,19 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 <table style="border: none !important; border-collapse: collapse !important; width: 100%;">
   <tr>
     <td style="border: none !important; width: 200px; text-align: left; vertical-align: top !important; padding: 0px 0px 0px 0px;">
+    <img src="https://raw.githubusercontent.com/Sardingfish/TropDS/master/web/asset/rmse_zhd.gif" width="196" height="127" style="border: 1px solid lightgray;">
+    </td>
+    <td style="border: none !important; text-align: left; vertical-align: top !important; padding: 0px 0px 0px 3px;">
+    <span style="color: #1C0D1A;">TropDS: Downscaling to Enhance Tropospheric Delay Grid Precision in Space Geodesy</span><br>
+    <b>Ding J</b><span style="color: #808080;">, Chen W, Chen J, Wang J, Zhang Y</span><br>
+    <span style="color: #909090;"><i>Prepring</i>, 2026</span><br>
+    [<a href="http://dingjunsheng.top/TropDS" target="_blank">Code</a>] [<a href="http://dingjunsheng.top/TropDS/web/" target="_blank">Website</a>]
+    </td>
+  </tr>
+</table>
+<table style="border: none !important; border-collapse: collapse !important; width: 100%;">
+  <tr>
+    <td style="border: none !important; width: 200px; text-align: left; vertical-align: top !important; padding: 0px 0px 0px 0px;">
     <img src="https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/AboutMe/VAECRA5.png" width="196" height="127" style="border: 1px solid lightgray;">
     </td>
     <td style="border: none !important; text-align: left; vertical-align: top !important; padding: 0px 0px 0px 3px;">
@@ -144,6 +157,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
     </td>
   </tr>
 </table>
+
 <!-- 
 - <span style="color: #1C0D1A;">Impact of VBAEformer Compression Algorithm Precision Loss on the Tropospheric Delays</span><br>**Ding J**<span style="color: #808080;">, Xu C, Chen W, Chen J, Wang J, Zhang Y, Bai L, Han T, Xiong Y</span><br><span style="color: #909090;">*IEEE Transactions on Geoscience and Remote Sensing*, 2025, 63, 4107311</span><br>[[Paper](https://doi.org/10.1109/TGRS.2025.3587944)] [[WeChat News](https://mp.weixin.qq.com/s/H_d86qaAHGtP-2Mjhc_vjw)] [[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:NxCvZ0KU8DEJ:scholar.google.com/&output=citation&scisdr=ChUEITX6EJDT0fKKgpU:ABGrvjIAAAAAaTGMmpWnaVXuP8VRznxU5czIP38&scisig=ABGrvjIAAAAAaTGMmjebhKbmphWmndvZjZGEOXE&scisf=4&ct=citation&cd=-1&hl=en)]
 - <span style="color: #1C0D1A;">Real-Time High-Resolution Global PWV Retrieval Based on Weather Forecast Foundation Models</span><br>**Ding J**<span style="color: #808080;">, Chen W, Chen J, Wang J, Zhang Y, Bai L</span><br><span style="color: #909090;">*IEEE JSTARS*,  2025, 18, 15972-15981</span><br>[[Paper](https://doi.org/10.1109/JSTARS.2025.3580782)] [[WeChat News](https://mp.weixin.qq.com/s/nNhDQ9qR5SZpxmz9aDNi-A)] [[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:oxkOX0JHE70J:scholar.google.com/&output=citation&scisdr=ChUEITX6EJDT0fKKwZs:ABGrvjIAAAAAaTGM2Zusa386b2QV45_awYGX2wE&scisig=ABGrvjIAAAAAaTGM2dXDeTxLEK8AzPUYW6ubBY8&scisf=4&ct=citation&cd=-1&hl=en)]
@@ -254,4 +268,3 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
     </td>
   </tr>
 </table>
-
