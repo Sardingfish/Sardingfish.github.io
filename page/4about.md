@@ -234,6 +234,7 @@ Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi
 - The Third Prize of the 4th ACM-ICPC in Shaanxi Province **(2016)**
 - The HI-TARGET Scholarship, CNY 3K **(2015)**
 - Ding Family "Zhong Cheng" Education Scholarship, CNY 2.6K **(2014)**
+- Top 30 Scholarship (Full tuition & fees waiver for 3 years high sclool) **(2011)**
 - The National Third Prize of the 21st National Applied Physics Knowledge Contest **(2011)**
 
 #### **Journal  Reviewer**
