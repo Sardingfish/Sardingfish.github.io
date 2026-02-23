@@ -15,7 +15,7 @@ The Hong Kong Polytechnic University, Hong Kong 999077, China
 
 I am a Postdoctoral Fellow at the Satellite Navigation Lab in [Department of Land Surveying and Geo-Informatics](https://www.polyu.edu.hk/lsgi/) of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), working with [Prof. Wu Chen](https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-chen-wu/). Previously, I finished my PhD at [Shanghai Astronomical Observatory](https://english.shao.ac.cn/), [Chinese Academy of Sciences](https://english.cas.cn/), advised by [Prof. Junping Chen](http://www.shao.ac.cn/shao_gnss_ac), and my undergraduate degrees at Chang'an University.
 
-I work on high precision GNSS data processing, generation of high precision tropospheric delay products, and AI for Geodesy. I have published **over 20 peer-reviewed articles** in journals such as *JOGE, GPSS, and TGRS*, and **act as a reviewer** for more than **15 prominent journals**.
+I work on high precision GNSS data processing, generation of high precision tropospheric delay products, and AI for Geodesy. I have published over 20 peer-reviewed articles in journals such as *JOGE, GPSS, and TGRS*, and act as a reviewer for more than 15 prominent journals.
 
 #### **Education**
 - 2018-2023, PhD, Geodesy, University of Chinese Academy of Sciences, Beijing, China
