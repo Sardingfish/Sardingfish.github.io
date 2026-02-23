@@ -10,12 +10,10 @@ type: page
 **Dr. Junsheng Ding** [[pdf](https://github.com/Sardingfish/Sardingfish.github.io/blob/master/page/CV_DingJS.pdf)]
 
 Postdoc@LSGI PolyU  
-The Hong Kong Polytechnic University, Hong Kong 999077, China
+The Hong Kong Polytechnic University, Hong Kong 999077, China  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sardingfish) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi=ao) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Junsheng_Ding) [![Home](https://img.shields.io/badge/Home-KK0000?style=flat-square&logo=homeadvisor&logoColor=white)](https://dingjunsheng.top/about/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:junsheng.ding@polyu.edu.hk) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:junshengding@yeah.net) 
 
-E-mail: junsheng[dot]ding[at]polyu[dot]edu[dot]hk; junshengding[at]yeah[dot]net  
-Personal Website: [https://dingjunsheng.top](https://dingjunsheng.top)  
-Research Gate: [https://www.researchgate.net/profile/Junsheng_Ding](https://www.researchgate.net/profile/Junsheng_Ding)  
-Google Scholar: [https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi=ao)
+I am a Postdoctoral Fellow at the Satellite Navigation Lab in [Department of Land Surveying and Geo-Informatics](https://www.polyu.edu.hk/lsgi/) of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), working with [Prof. Wu Chen](https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-chen-wu/). I finished my PhD at [Shanghai Astronomical Observatory](https://english.shao.ac.cn/), Chinese Academy of Sciences, advised by [Prof. Junping Chen](http://www.shao.ac.cn/shao_gnss_ac), and my undergraduate degrees at Chang'an University.
 
 #### **Education**
 - 2018-2023, PhD, Geodesy, University of Chinese Academy of Sciences, Beijing, China
