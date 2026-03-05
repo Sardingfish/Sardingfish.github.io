@@ -13,7 +13,7 @@ Postdoc@LSGI PolyU
 The Hong Kong Polytechnic University, Hong Kong 999077, China  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sardingfish) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi=ao) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Junsheng_Ding) [![Home](https://img.shields.io/badge/Home-KK0000?style=flat-square&logo=homeadvisor&logoColor=white)](https://dingjunsheng.top/about/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:junsheng.ding@polyu.edu.hk) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:junshengding@yeah.net) 
 
-I am a Postdoctoral Fellow at the Satellite Navigation Lab in [Department of Land Surveying and Geo-Informatics](https://www.polyu.edu.hk/lsgi/) of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), working with [Prof. Wu Chen](https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-chen-wu/). Previously, I finished my PhD at [Shanghai Astronomical Observatory](https://english.shao.ac.cn/), [Chinese Academy of Sciences](https://english.cas.cn/), advised by [Prof. Junping Chen](http://www.shao.ac.cn/shao_gnss_ac), and my undergraduate degrees at Chang'an University.
+I am a Postdoctoral Fellow at the Satellite Navigation Lab in [Department of Land Surveying and Geo-Informatics](https://www.polyu.edu.hk/lsgi/) of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), working with [Prof. Wu Chen](https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-chen-wu/). Previously, I finished my PhD at [Shanghai Astronomical Observatory](https://english.shao.ac.cn/), [Chinese Academy of Sciences](https://english.cas.cn/), advised by [Prof. Junping Chen](http://www.shao.ac.cn/shao_gnss_ac), and my undergraduate degrees at Chang'an University,  advised by [Prof. Guanwen Huang](https://js.chd.edu.cn/dzgcychxy/hgw/list.htm).
 
 I work on high precision GNSS data processing, generation of high precision tropospheric delay products, and AI for Geodesy. I have published over 20 peer-reviewed articles in journals such as *JOGE, GPSS, and TGRS*, and act as a reviewer for more than 15 prominent journals.
 
@@ -222,7 +222,7 @@ I work on high precision GNSS data processing, generation of high precision trop
 
 #### **Honors & Awards**
 
-- Postdoc Matching Fund of PolyU, HKD 348K **(2024-2026)**
+- Postdoc Matching Fund of PolyU **(2024-2026)**
 - Outstanding Graduates of Shanghai **(2023)**
 - National Scholarship for Doctoral Students, CNY 30K **(2022)**
 - Zhu-Li-Yuehua Outstanding Doctoral Scholarship of CAS, CNY 5K **(2022)**
