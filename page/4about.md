@@ -48,7 +48,7 @@ I work on high precision GNSS data processing, generation of high precision trop
     <td style="border: none !important; text-align: left; vertical-align: top !important; padding: 0px 0px 0px 3px;">
     <span style="color: #1C0D1A;">TropDS: Downscaling to Enhance Tropospheric Delay Grid Precision in Space Geodesy</span><br>
     <b>Ding J</b><span style="color: #808080;">, Chen W, Chen J, Wang J, Zhang Y</span><br>
-    <span style="color: #909090;"><i>Preprint</i>, 2026</span><br>
+    <span style="color: #909090;"><i>Journal of Geodesy (Accepted)</i>, 2026</span><br>
     [<a href="http://dingjunsheng.top/TropDS" target="_blank">Code</a>] [<a href="http://dingjunsheng.top/TropDS/web/" target="_blank">Website</a>]
     </td>
   </tr>
@@ -271,4 +271,3 @@ I work on high precision GNSS data processing, generation of high precision trop
     </td>
   </tr>
 </table>
-
