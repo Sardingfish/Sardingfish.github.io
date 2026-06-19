@@ -170,6 +170,7 @@ I work on high precision GNSS data processing, generation of high precision trop
 -->
 <details> <summary>More</summary>
 <ul>
+    <li>Liu T, Chen W, Lu Z, Zhang W, Lu Y, Wang F, Sun M, Nie Y, <b>Ding J</b>, He Y, Chen Bo. (2026) Accurate Ionospheric TEC Prediction With a Causal Attention Network at Northern EIA Crests. <i>Journal of Geophysical Research: Machine Learning and Computation</i>, doi:<a href="https://doi.org/10.1029/2025JH000994" target="_blank">10.1029/2025JH000994</a>. </li>
     <li>Liu T, Chen W, Mi X, Chen X, Yang Y <b>Ding J</b>, et al. (2026) Ionospheric nonlinear interpolation model for Mid- and Low-latitude network RTK during solar maxima. <i>GPS Solutions</i>, doi:<a href="https://doi.org/10.1007/s10291-025-01976-9" target="_blank">10.1007/s10291-025-01976-9</a>. </li>
     <li>Deng Y, Chen W, <b>Ding J</b>, El-Mowaf A, et al. (2025) Improving GNSS precise point positioning with tropospheric constraints from data-driven numerical weather prediction model. <i>Geo-spatial Information Science</i>, doi:<a href="https://doi.org/10.1080/10095020.2025.2513650" target="_blank">10.1080/10095020.2025.2513650</a>. </li>
     <li>Chen J, Song Z, Zhang Y, <b>Ding J</b>, et al. (2025) Clock systematic jump estimation and URA refinement of BDS-3 B2b real-time precise point positioning service. <i>GPS Solutions</i>, doi:<a href="https://doi.org/10.1007/s10291-025-01835-7" target="_blank">10.1007/s10291-025-01835-7</a>. </li>
@@ -190,6 +191,7 @@ I work on high precision GNSS data processing, generation of high precision trop
     <li><b>Ding J</b>, Chen J and Wang J (2020) Quality Control Method for ZTD Modeling Based on GNSS Observation Data. <i>Journal of Astronautics</i> (in Chinese), doi:<a href="https://dx.doi.org/10.3873/j.issn.1000-1328.2020.09.010" target="_blank">10.3873/j.issn.1000-1328.2020.09.010</a></li>
 </ul>
 </details>
+
 
 
 
@@ -273,4 +275,3 @@ I work on high precision GNSS data processing, generation of high precision trop
     </td>
   </tr>
 </table>
-
