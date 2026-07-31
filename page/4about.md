@@ -7,7 +7,7 @@ type: page
 ---
 * content
 {:toc}
-**Dr. Junsheng Ding** [[pdf](https://github.com/Sardingfish/Sardingfish.github.io/blob/master/page/CV_DingJS.pdf)]
+**Dr. Junsheng Ding** [[pdf](https://dingjunsheng.top/doc/CV_DingJS.pdf)]
 
 Postdoc@LSGS PolyU  
 The Hong Kong Polytechnic University, Hong Kong 999077, China  
