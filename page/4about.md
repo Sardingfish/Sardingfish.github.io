@@ -250,6 +250,7 @@ I work on high precision GNSS data processing, generation of high precision trop
       <ul>
         <li><a href="https://link.springer.com/journal/190" target="_blank">Journal of Geodesy</a></li>
         <li><a href="https://link.springer.com/journal/10291" target="_blank">GPS Solutions</a></li>
+        <li><a href="https://www.sciencedirect.com/journal/atmospheric-research" target="_blank">Atmospheric Research</a></li>
         <li><a href="https://www.tandfonline.com/journals/tgsi20" target="_blank">Geo-spatial Information Science</a></li>
         <li><a href="https://www.atmospheric-chemistry-and-physics.net/" target="_blank">Atmospheric Chemistry and Physics</a></li>
         <li><a href="https://link.springer.com/journal/24" target="_blank">Pure and Applied Geophysics</a></li>
