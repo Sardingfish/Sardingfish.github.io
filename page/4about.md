@@ -173,11 +173,11 @@ I work on high precision GNSS data processing, generation of high precision trop
 -->
 <details> <summary>More</summary>
 <ul>
-    <li>Liu T, Chen W, Lu Z, Zhang W, Lu Y, Wang F, Sun M, Nie Y, <b>Ding J</b>, He Y, Chen Bo. (2026) Accurate Ionospheric TEC prediction with a causal attention network at northern EIA crests. <i>Journal of Geophysical Research: Machine Learning and Computation</i>, doi:<a href="https://doi.org/10.1029/2025JH000994" target="_blank">10.1029/2025JH000994</a>. </li>
-    <li>Liu T, Chen W, Mi X, Chen X, Yang Y <b>Ding J</b>, et al. (2026) Ionospheric nonlinear interpolation model for Mid- and Low-latitude network RTK during solar maxima. <i>GPS Solutions</i>, doi:<a href="https://doi.org/10.1007/s10291-025-01976-9" target="_blank">10.1007/s10291-025-01976-9</a>. </li>
-    <li>Deng Y, Chen W, <b>Ding J</b>, El-Mowaf A, et al. (2025) Improving GNSS precise point positioning with tropospheric constraints from data-driven numerical weather prediction model. <i>Geo-spatial Information Science</i>, doi:<a href="https://doi.org/10.1080/10095020.2025.2513650" target="_blank">10.1080/10095020.2025.2513650</a>. </li>
-    <li>Chen J, Song Z, Zhang Y, <b>Ding J</b>, et al. (2025) Clock systematic jump estimation and URA refinement of BDS-3 B2b real-time precise point positioning service. <i>GPS Solutions</i>, doi:<a href="https://doi.org/10.1007/s10291-025-01835-7" target="_blank">10.1007/s10291-025-01835-7</a>. </li>
-    <li>Bai Q, Kong Q, Mi X, Chen W, <b>Ding J</b>, et al. (2025) Evaluation and analysis of the precipitable water vapor in Inner Mongolia of China. <i> Earth Planets Space</i>, doi:<a href="https://doi.org/10.1186/s40623-025-02157-1" target="_blank">10.1186/s40623-025-02157-1</a>. </li>
+    <li>Liu T, Chen W, Lu Z, Zhang W, Lu Y, Wang F, Sun M, Nie Y, <b>Ding J</b>, He Y, Chen B. (2026) Accurate Ionospheric TEC prediction with a causal attention network at northern EIA crests. <i>Journal of Geophysical Research: Machine Learning and Computation</i>, doi:<a href="https://doi.org/10.1029/2025JH000994" target="_blank">10.1029/2025JH000994</a>. </li>
+    <li>Liu T, Chen W, Mi X, Chen X, Yang Y <b>Ding J</b>, Liu T, Wang Y, Weng D. (2026) Ionospheric nonlinear interpolation model for Mid- and Low-latitude network RTK during solar maxima. <i>GPS Solutions</i>, doi:<a href="https://doi.org/10.1007/s10291-025-01976-9" target="_blank">10.1007/s10291-025-01976-9</a>. </li>
+    <li>Deng Y, Chen W, <b>Ding J</b>, El-Mowaf A, Weng D, Tang L, Bai L, Mi X. (2025) Improving GNSS precise point positioning with tropospheric constraints from data-driven numerical weather prediction model. <i>Geo-spatial Information Science</i>, doi:<a href="https://doi.org/10.1080/10095020.2025.2513650" target="_blank">10.1080/10095020.2025.2513650</a>. </li>
+    <li>Chen J, Song Z, Zhang Y, <b>Ding J</b>, Jiang X, Yang S, Hou Y. (2025) Clock systematic jump estimation and URA refinement of BDS-3 B2b real-time precise point positioning service. <i>GPS Solutions</i>, doi:<a href="https://doi.org/10.1007/s10291-025-01835-7" target="_blank">10.1007/s10291-025-01835-7</a>. </li>
+    <li>Bai Q, Kong Q, Mi X, Chen W, <b>Ding J</b>, Huang Y, Li M, Li Q. (2025) Evaluation and analysis of the precipitable water vapor in Inner Mongolia of China. <i> Earth Planets Space</i>, doi:<a href="https://doi.org/10.1186/s40623-025-02157-1" target="_blank">10.1186/s40623-025-02157-1</a>. </li>
     <li>Tang W, Chen J, Zhang Y, <b>Ding J</b> (2024) Analysis of GNSS/Pseudolite integrated positioning accuracy in urban canyon environment. <i>2024 14th International Conference on Indoor Positioning and Indoor Navigation (IPIN)</i>, doi:<a href="https://doi.org/10.1109/IPIN62893.2024.10786141" target="_blank">10.1109/IPIN62893.2024.10786141</a>. </li>
     <li><b>Ding J</b> (2024) Research on GNSS tropospheric delay modeling and spatial-temporal characteristics analysis of bias. <i>Acta Geodaetica et Cartographica Sinica</i>, (Abstract of PhD thesis, in Chinese) doi:<a href="http://xb.chinasmp.com/CN/10.11947/j.AGCS.2024.20230177" target="_blank">10.11947/j.AGCS.2024.20230177</a>. </li>
     <li>Tang W, Chen J, Zhang Y, <b>Ding J</b> and Song Z (2024) Refined troposphere delay models by NWM ray-tracing for pseudolite positioning system and their performance assessment. <i>Advances in Space Research</i>, doi:<a href="https://doi.org/10.1016/j.asr.2024.02.034" target="_blank">10.1016/j.asr.2024.02.034</a>. </li>
@@ -194,6 +194,7 @@ I work on high precision GNSS data processing, generation of high precision trop
     <li><b>Ding J</b>, Chen J and Wang J (2020) Quality control method for ZTD modeling based on GNSS observation data. <i>Journal of Astronautics</i> (in Chinese), doi:<a href="https://dx.doi.org/10.3873/j.issn.1000-1328.2020.09.010" target="_blank">10.3873/j.issn.1000-1328.2020.09.010</a></li>
 </ul>
 </details>
+
 
 
 
