@@ -74,7 +74,7 @@ I work on high precision GNSS data processing, generation of high precision trop
     <td style="border: none !important; text-align: left; vertical-align: top !important; padding: 0px 0px 0px 3px;">
     <span style="color: #1C0D1A;">Real-Time High-Resolution Global PWV Retrieval Based on Weather Forecast Foundation Models and Cross-Validation With Radiosonde, GNSS, and ERA5</span><br>
     <b>Ding J</b><span style="color: #808080;">, Chen W, Chen J, Wang J, Zhang Y, Bai L</span><br>
-    <span style="color: #909090;"><i>IEEE JSTARS</i>,  2025, 18, 15972-15981</span><br>
+    <span style="color: #909090;"><i>IEEE JSTARS</i>,  2025, 18, 15972–15981</span><br>
     [<a href="https://doi.org/10.1109/JSTARS.2025.3580782" target="_blank">Paper</a>] [<a href="https://mp.weixin.qq.com/s/nNhDQ9qR5SZpxmz9aDNi-A" target="_blank">WeChat News</a>] [<a href="http://dingjunsheng.top/TropAI/rtPWV/" target="_blank">Website</a>]
     </td>
   </tr>
@@ -87,7 +87,7 @@ I work on high precision GNSS data processing, generation of high precision trop
     <td style="border: none !important; text-align: left; vertical-align: top !important; padding: 0px 0px 0px 3px;">
     <span style="color: #1C0D1A;">A Novel Network RTK Technique for Mobile Platforms: Extending High-Precision Positioning to Offshore Environments</span><br>
     <span style="color: #808080;">Chen W, </span><b>Ding J</b><span style="color: #808080;">,  Wang Y, Mi X, Liu T</span><br>
-    <span style="color: #909090;"><i>TransNav Journal</i>, 2025, 19(2), 371-380</span><br>
+    <span style="color: #909090;"><i>TransNav Journal</i>, 2025, 19(2), 371–380</span><br>
     [<a href="http://dx.doi.org/10.12716/1001.19.02.04" target="_blank">Paper</a>] [<a href="https://transnav2025.umg.edu.pl/" target="_blank">TransNav 2025</a>] [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:-9H49CH93sYJ:scholar.google.com/&output=citation&scisdr=ChUEITX6EJDT0fKK9v4:ABGrvjIAAAAAaTGM7v4h8TWVAyVQOeHpJP0VNBU&scisig=ABGrvjIAAAAAaTGM7thz9Y3B9eiA39M52YzrBhQ&scisf=4&ct=citation&cd=-1&hl=en" target="_blank">BibTeX</a>]
     </td>
   </tr>
@@ -157,6 +157,7 @@ I work on high precision GNSS data processing, generation of high precision trop
     </td>
   </tr>
 </table>
+
 
 
 
