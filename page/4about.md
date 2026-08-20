@@ -18,19 +18,19 @@ Hi, I am a Postdoctoral Fellow at the Satellite Navigation Lab in [Department of
 I work on high precision GNSS data processing, generation of high precision tropospheric delay products, and AI for Geodesy. I have published over 20 peer-reviewed articles in journals such as *[J Geod](https://link.springer.com/journal/190), [GPS Solut](https://link.springer.com/journal/10291), [IEEE TGRS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)* and [*Int J Appl Earth Obs Geoinf*](https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation), and act as a reviewer for ~20 prominent journals.
 
 #### **Education**
-- 2018-2023, PhD, Geodesy, University of Chinese Academy of Sciences, Beijing, China
-- 2018-2023, PhD, Geodesy, Shanghai Astronomical Observatory, CAS, Shanghai, China
-- 2014-2018, BSc, Geomatics Engineering, Chang'an University, Xi'an, China
+- 2018–2023, PhD, Geodesy, University of Chinese Academy of Sciences, Beijing, China
+- 2018–2023, PhD, Geodesy, Shanghai Astronomical Observatory, CAS, Shanghai, China
+- 2014–2018, BSc, Geomatics Engineering, Chang'an University, Xi'an, China
 
 #### **Research Interests**
 - Satellite Navigation & Remote Sensing
 - GNSS Meteorology & AI for Geodesy
 
 #### **Work Experience**
-- 2023.7-Present, Postdoctoral Fellow, The Hong Kong Polytechnic University, Hong Kong, China
-- 2019.9-2021.9, Research Assistant, Shanghai Astronomical Observatory, CAS, Shanghai, China
-- 2018.7-2018.8, Summer Trainee, National Institute of Metrology, China, Beijing, China
-- 2017.7-2017.8, Software testing intern, Trimble R&D Center in China, Trimble Inc., Xi'an, China
+- 2023.7–Present, Postdoctoral Fellow, The Hong Kong Polytechnic University, Hong Kong, China
+- 2019.9–2021.9, Research Assistant, Shanghai Astronomical Observatory, CAS, Shanghai, China
+- 2018.7–2018.8, Summer Trainee, National Institute of Metrology, China, Beijing, China
+- 2017.7–2017.8, Software testing intern, Trimble R&D Center in China, Trimble Inc., Xi'an, China
 
 #### **Projects**
 
