@@ -100,7 +100,7 @@ I work on high precision GNSS data processing, generation of high precision trop
     <td style="border: none !important; text-align: left; vertical-align: top !important; padding: 0px 0px 0px 3px;">
     <span style="color: #1C0D1A;">Spatiotemporal Inhomogeneity of Accuracy Degradation in AI Weather Forecast Foundation Models: A GNSS perspective</span><br>
     <b>Ding J</b><span style="color: #808080;">, Chen W, Chen J, Wang J, Zhang Y, Bai L, Wang Y, Mi X, Liu T, Weng D</span><br>
-    <span style="color: #909090;"><i>	Int J Appl Earth Obs (JAG)</i>, 2025, 139, 104473</span><br>
+    <span style="color: #909090;"><i>	Int J Appl Earth Obs Geoinf (JAG)</i>, 2025, 139, 104473</span><br>
     [<a href="https://doi.org/10.1016/j.jag.2025.104473" target="_blank">Paper</a>] [<a href="https://ars.els-cdn.com/content/image/1-s2.0-S1569843225001207-mmc1.pdf">Supplementary Data</a>] [<a href="https://mp.weixin.qq.com/s/o7_W6DtL_BBjgYWGqtCYgQ" target="_blank">WeChat News</a>] [<a href="http://dingjunsheng.top/TropAI/SpatioTempInhom/" target="_blank">Website</a>]
     </td>
   </tr>
