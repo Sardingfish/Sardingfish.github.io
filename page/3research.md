@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Demo
-permalink: /demo/
+title: Research
+permalink: /research/
 icon: play
 type: page
 ---
