@@ -9,12 +9,11 @@ type: page
 #### **Featured paper pages**
 <div style="display:flex; justify-content:center; gap:2%;">
   <div style="flex:0 0 32%; border:1px solid #e0e0e0; border-radius:8px; padding:20px; background:#ffffff; box-sizing:border-box;">
-    <div style="height:200px; overflow:hidden; line-height:0;">
+    <div style="width:100%; aspect-ratio:16/10; overflow:hidden; line-height:0;">
       <img src="https://raw.githubusercontent.com/Sardingfish/TropDS/master/web/asset/rmse_zhd.gif" width="100%"><br>
     </div>
     <hr style="border: none; border-top: 1px solid #e0e0e0; margin: 12px -20px;">
     <div>
-      <span style="color: #909090;">----------------</span><br>
       <span style="color: #909090;">2026 JOURNAL</span><br>
       <span style="color: #1C0D1A;">TropDS: Downscaling to Enhance Tropospheric Delay Grid Precision in Space Geodesy</span><br>
       <span style="color: #909090;">Journal of Geodesy</span><br>
@@ -22,7 +21,7 @@ type: page
     </div>
   </div>
   <div style="flex:0 0 32%; border:1px solid #e0e0e0; border-radius:8px; padding:20px; background:#ffffff; box-sizing:border-box;">
-    <div>
+    <div style="width:100%; aspect-ratio:16/10; overflow:hidden; line-height:0;">
       <img src="https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/AboutMe/VAECRA5.png" width="100%">
     </div>
     <hr style="border: none; border-top: 1px solid #e0e0e0; margin: 12px -20px;">
@@ -34,7 +33,7 @@ type: page
     </div>
   </div>
   <div style="flex:0 0 32%; border:1px solid #e0e0e0; border-radius:8px; padding:20px; background:#ffffff; box-sizing:border-box;">
-    <div>
+    <div style="width:100%; aspect-ratio:16/10; overflow:hidden; line-height:0;">
       <img src="https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/AboutMe/FMPWV.png" width="100%">
     </div>
     <hr style="border: none; border-top: 1px solid #e0e0e0; margin: 12px -20px;">
