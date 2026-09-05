@@ -7,7 +7,7 @@ type: page
 ---
 
 #### **Featured paper pages**
-<table style="border: none !important; bgcolor="#00FF00"; border-collapse: collapse !important; width: 100%;">
+<table style="background-color: #ffffff; border: none; border-collapse: collapse; width: 100%;">
   <tr>
     <td style="border: none !important; width: 31%; text-align: left; vertical-align: top !important; padding: 0px 0px 0px 0px;">
     	<img src="https://raw.githubusercontent.com/Sardingfish/TropDS/master/web/asset/rmse_zhd.gif" width="92%" style="border: 1px solid lightgray;">
