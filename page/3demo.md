@@ -51,7 +51,7 @@ type: page
     <div style="width:100%; aspect-ratio:16/10; overflow:hidden; line-height:0; padding:0px;">
       <img src="https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/AboutMe/GnssBouy.png" width="100%"><br>
     </div>
-    <hr style="border: none; border-top: 1px solid #e0e0e0; margin: 12px -20px;">
+    <hr style="border: none; border-top: 1px solid #e0e0e0; margin: 0px 0px;">
     <div style="padding:20px;">
       <span style="color: #909090;">2026 JOURNAL</span><br>
       <span style="color: #1C0D1A;">TropDS: Downscaling to Enhance Tropospheric Delay Grid Precision in Space Geodesy</span><br>
