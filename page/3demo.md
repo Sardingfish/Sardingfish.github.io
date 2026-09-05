@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: demo
 title: Research
 permalink: /research/
 icon: play
