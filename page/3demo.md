@@ -12,7 +12,7 @@ type: page
     <div style="width:92%; aspect-ratio:16/10; overflow:hidden; line-height:0; padding:0px; display: flex; justify-content: center; align-items: center;">
        <img src="https://raw.githubusercontent.com/Sardingfish/TropDS/master/web/asset/rmse_zhd.gif" style="width:100%;">
     </div>
-    <hr style="border: none; border-top: 2px solid #e0e0e0; margin: 2px 0px;">
+    <hr style="border: none; border-top: 1px solid #e0e0e0; margin: 2px 0px;">
     <div style="padding:20px;">
       <span style="color: #909090;">2026 JOURNAL</span><br>
       <span style="color: #1C0D1A;">TropDS: Downscaling to Enhance Tropospheric Delay Grid Precision in Space Geodesy</span><br>
