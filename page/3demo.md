@@ -12,7 +12,7 @@ type: page
     <div style="width:92%; aspect-ratio:16/10; overflow:hidden; line-height:0; padding:0px;">
       <img src="https://raw.githubusercontent.com/Sardingfish/TropDS/master/web/asset/rmse_zhd.gif" width="100%"><br>
     </div>
-    <hr style="border: none; border-top: 1px solid #e0e0e0; margin: 2px 0px;">
+    <hr style="border: none; border-top: 2px solid #e0e0e0; margin: 2px 0px;">
     <div style="padding:20px;">
       <span style="color: #909090;">2026 JOURNAL</span><br>
       <span style="color: #1C0D1A;">TropDS: Downscaling to Enhance Tropospheric Delay Grid Precision in Space Geodesy</span><br>
@@ -24,7 +24,7 @@ type: page
     <div style="width:92%; aspect-ratio:16/10; overflow:hidden; line-height:0; padding:0px;">
       <img src="https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/AboutMe/VAECRA5.png" width="100%">
     </div>
-    <hr style="border: none; border-top: 0px solid #e0e0e0; margin: 2px 0px;">
+    <hr style="border: none; border-top: 2px solid #e0e0e0; margin: 2px 0px;">
     <div style="padding:20px;">
       <span style="color: #909090;">2026 JOURNAL</span><br>
       <span style="color: #1C0D1A;">Impact of VBAEformer Compression Algorithm Precision Loss on the Tropospheric Delays for Microwave Remote Sensing</span><br>
@@ -36,7 +36,7 @@ type: page
     <div style="width:92%; aspect-ratio:16/10; overflow:hidden; line-height:0; padding:0px;">
       <img src="https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/AboutMe/FMPWV.png" width="100%">
     </div>
-    <hr style="border: none; border-top: 0px solid #e0e0e0; margin: 2px 0px;">
+    <hr style="border: none; border-top: 2px solid #e0e0e0; margin: 2px 0px;">
     <div style="padding:20px;">
       <span style="color: #909090;">2026 JOURNAL</span><br>
       <span style="color: #1C0D1A;">Real-Time High-Resolution Global PWV Retrieval Based on Weather Forecast Foundation Models and Cross-Validation With Radiosonde, GNSS, and ERA5</span><br>
@@ -63,7 +63,7 @@ type: page
     <div style="width:100%; aspect-ratio:16/10; overflow:hidden; line-height:0; padding:0px;">
       <img src="https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/AboutMe/JAGFM.png" width="100%">
     </div>
-    <hr style="border: none; border-top: 0px solid #e0e0e0; margin: 0px 0px;">
+    <hr style="border: none; border-top: 2px solid #e0e0e0; margin: 0px 0px;">
     <div style="padding:20px;">
       <span style="color: #909090;">2025 JOURNAL</span><br>
       <span style="color: #1C0D1A;">Spatiotemporal Inhomogeneity of Accuracy Degradation in AI Weather Forecast Foundation Models: A GNSS perspective</span><br>
@@ -75,7 +75,7 @@ type: page
     <div style="width:100%; aspect-ratio:16/10; overflow:hidden; line-height:0; padding:0px;">
       <img src="https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/AboutMe/GNSSPWVFM.png" width="100%">
     </div>
-    <hr style="border: none; border-top: 0px solid #e0e0e0; margin: 0px 0px;">
+    <hr style="border: none; border-top: 2px solid #e0e0e0; margin: 0px 0px;">
     <div style="padding:20px;">
       <span style="color: #909090;">2024 Preprint</span><br>
       <span style="color: #1C0D1A;">AI Foundation Models Facilitate Real-time Global GNSS PWV Retrieval with Sub-millimeter Accuracy</span><br>
@@ -114,7 +114,7 @@ type: page
     <div style="width:100%; aspect-ratio:16/10; overflow:hidden; line-height:0; padding:0px;">
       <img src="https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/AboutMe/GNSSNWM.png" width="100%">
     </div>
-    <hr style="border: none; border-top: 0px solid #e0e0e0; margin: 0px 0px;">
+    <hr style="border: none; border-top: 2px solid #e0e0e0; margin: 0px 0px;">
     <div style="padding:20px;">
       <span style="color: #909090;">2023 JOURNAL</span><br>
       <span style="color: #1C0D1A;">Characteristic Differences in Tropospheric Delay between NGL Products and NWM Ray-tracing</span><br>
