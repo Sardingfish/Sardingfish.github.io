@@ -28,7 +28,7 @@ type: page
     <div>
       <span style="color: #909090;">2026 JOURNAL</span><br>
       <span style="color: #1C0D1A;">Impact of VBAEformer Compression Algorithm Precision Loss on the Tropospheric Delays for Microwave Remote Sensing</span><br>
-      <span style="color: #909090;">IEEE Transactions on Geoscience and Remote Sensing</span><br>
+      <span style="color: #909090;">IEEE TGRS</span><br>
       <a href="http://dingjunsheng.top/TropVAE/" target="_blank">OPEN PAGE -></a>
     </div>
   </div>
@@ -94,7 +94,7 @@ type: page
     <div>
       <span style="color: #909090;">2024 JOURNAL</span><br>
       <span style="color: #1C0D1A;">Forecasting of Tropospheric Delay using AI Foundation Models</span><br>
-      <span style="color: #909090;">IEEE Transactions on Geoscience and Remote Sensing</span><br>
+      <span style="color: #909090;">IEEE TGRS</span><br>
       <a href="http://dingjunsheng.top/TropAI/" target="_blank">OPEN PAGE -></a>
     </div>
   </div>
