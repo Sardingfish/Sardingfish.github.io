@@ -47,12 +47,12 @@ type: page
 </div>
 <br>
 <div style="display:flex; justify-content:center; gap:2%;">
-  <div style="flex:0 0 32%; border:1px solid #e0e0e0; border-radius:8px; padding:20px; background:#ffffff; box-sizing:border-box;">
-    <div style="width:100%; aspect-ratio:16/10; overflow:hidden; line-height:0;">
+  <div style="flex:0 0 32%; border:1px solid #e0e0e0; border-radius:8px; padding:0px; background:#ffffff; box-sizing:border-box;">
+    <div style="width:100%; aspect-ratio:16/10; overflow:hidden; line-height:0; padding:0px;">
       <img src="https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/AboutMe/GnssBouy.png" width="100%"><br>
     </div>
-    <hr style="border: none; border-top: 1px solid #e0e0e0; margin: 12px -20px;">
-    <div>
+    <hr style="border: none; border-top: 0px solid #e0e0e0; margin: 0px 0px;">
+    <div style="padding:20px;">
       <span style="color: #909090;">2025 JOURNAL</span><br>
       <span style="color: #1C0D1A;">A Novel Network RTK Technique for Mobile Platforms: Extending High-Precision Positioning to Offshore Environments</span><br>
       <span style="color: #909090;">TransNav Journal</span><br>
