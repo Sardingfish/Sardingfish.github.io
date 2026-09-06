@@ -47,7 +47,7 @@ type: page
 </div>
 <br>
 <div style="display:flex; justify-content:center; gap:2%;">
-  <div style="flex:0 0 32%; border:1px solid #e0e0e0; border-radius:8px; padding:0px; background:#ffffff; box-sizing:border-box;">
+  <div style="flex:0 0 32%; border:1px solid #e0e0e0; border-radius:8px; overflow:hidden; padding:0px; background:#ffffff; box-sizing:border-box;">
     <div style="width:100%; aspect-ratio:16/10; overflow:hidden; line-height:0; padding:0px;">
       <img src="https://raw.githubusercontent.com/Sardingfish/Sardingfish.github.io/master/image/AboutMe/GnssBouy.png" width="100%"><br>
     </div>
