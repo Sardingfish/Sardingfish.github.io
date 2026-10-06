@@ -20,13 +20,9 @@ I work on the atmosphere as seen through GNSS. The troposphere bends and delays 
 Lately I have been focusing what AI foundation models can and cannot do here. They forecast tropospheric delay surprisingly well, but their errors carry a spatial and seasonal structure nobody fully understands. GNSS is a good instrument for finding and reducing those errors, since it observes the atmosphere independently of the models' training data.
 
 The work falls into a few threads:
-
 - **tropospheric delay modeling and products**: [trop downscaling](http://dingjunsheng.top/TropDS/web/), [mapping function vertical modelling](https://doi.org/10.1007/s00190-024-01845-2), [GNSS vs. NWM ray-tracing](https://doi.org/10.1007/s10291-022-01385-2);
-
 - **foundation models for atmospheric sensing**: [global delay forecasting](http://dingjunsheng.top/TropAI/), [real-time PWV retrieval](http://dingjunsheng.top/TropAI/rtGNSSPWV/), and [where weather models go wrong](http://dingjunsheng.top/TropAI/SpatioTempInhom/);
-
 - **water vapor and climate**: the [1994-2020 global GNSS PWV record](https://doi.org/10.3390/rs14143493), [long-term trends over polar regions](http://dx.doi.org/10.1007/978-981-19-2588-7_27), GNSS turbulence for rainfall
-
 - and **navigation & positioning**: PPP-RTK, [offshore network RTK](http://dx.doi.org/10.12716/1001.19.02.04), large-height-diff. trop modeling.
 
 #### **Education**
