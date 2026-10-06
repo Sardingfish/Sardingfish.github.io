@@ -13,18 +13,26 @@ Postdoc@LSGS PolyU
 The Hong Kong Polytechnic University, Hong Kong 999077, China  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sardingfish) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi=ao) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Junsheng_Ding) [![Home](https://img.shields.io/badge/Home-KK0000?style=flat-square&logo=homeadvisor&logoColor=white)](https://dingjunsheng.top/about/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:junsheng.ding@polyu.edu.hk) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:junshengding@yeah.net) 
 
-Hi, I am a Postdoctoral Fellow at the Satellite Navigation Lab in [Department of Land Surveying and Geospatial Science (LSGS, formerly LSGI)](https://www.polyu.edu.hk/lsgs/) of [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), working with [Prof. Wu Chen](https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-chen-wu/). Previously, I finished my PhD at [Shanghai Astronomical Observatory (SHAO)](https://english.shao.ac.cn/), [Chinese Academy of Sciences (CAS)](https://english.cas.cn/), advised by [Prof. Junping Chen](http://www.shao.ac.cn/shao_gnss_ac), and my undergraduate degrees at Chang'an University.
+Hi, I am a Postdoctoral Fellow at the Satellite Navigation Lab in [Department of Land Surveying and Geospatial Science (LSGS, formerly LSGI)](https://www.polyu.edu.hk/lsgs/) of [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), working with [Prof. Wu Chen](https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-chen-wu/). Previously, I finished my PhD at [Shanghai Astronomical Observatory (SHAO)](https://english.shao.ac.cn/), [Chinese Academy of Sciences (CAS)](https://english.cas.cn/), advised by [Prof. Junping Chen](http://www.shao.ac.cn/shao_gnss_ac), and my undergraduate degrees at [Chang'an University](https://en.chd.edu.cn/).
 
-I work on high precision GNSS data processing, generation of high precision tropospheric delay products, and AI for Geodesy. I have published 20+ peer-reviewed articles in journals such as *[J Geod](https://link.springer.com/journal/190), [GPS Solut](https://link.springer.com/journal/10291), [IEEE TGRS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)* and [*JAG*](https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation), and act as a reviewer for over 20 prominent journals.
+I work on the atmosphere as seen through GNSS. The troposphere bends and delays every satellite signal on its way to a receiver: a nuisance for positioning and navigation, but free atmospheric information for meteorology. My work sits between the two: delay products precise enough for space geodesy, and the same deleys turned into variables for weather and climate.
+
+Lately I have been focusing what AI foundation models can and cannot do here. They forecast tropospheric delay surprisingly well, but their errors carry a spatial and seasonal structure nobody fully understands. GNSS is a good instrument for finding and reducing those errors, since it observes the atmosphere independently of the models' training data.
+
+The work falls into a few threads:
+
+- **tropospheric delay modeling and products**: [trop downscaling](http://dingjunsheng.top/TropDS/web/), [mapping function vertical modelling](https://doi.org/10.1007/s00190-024-01845-2), [GNSS vs. NWM ray-tracing](https://doi.org/10.1007/s10291-022-01385-2);
+
+- **foundation models for atmospheric sensing**: [global delay forecasting](http://dingjunsheng.top/TropAI/), [real-time PWV retrieval](http://dingjunsheng.top/TropAI/rtGNSSPWV/), and [where weather models go wrong](http://dingjunsheng.top/TropAI/SpatioTempInhom/);
+
+- **water vapor and climate**: the [1994-2020 global GNSS PWV record](https://doi.org/10.3390/rs14143493), [long-term trends over polar regions](http://dx.doi.org/10.1007/978-981-19-2588-7_27), GNSS turbulence for rainfall
+
+- and **navigation & positioning**: PPP-RTK, [offshore network RTK](http://dx.doi.org/10.12716/1001.19.02.04), large-height-diff. trop modeling.
 
 #### **Education**
 - 2018–2023, PhD, Geodesy, University of Chinese Academy of Sciences, Beijing, China
 - 2018–2023, PhD, Geodesy, Shanghai Astronomical Observatory, CAS, Shanghai, China
 - 2014–2018, BSc, Geomatics Engineering, Chang'an University, Xi'an, China
-
-#### **Research Interests**
-- Satellite Navigation & Remote Sensing
-- GNSS Meteorology & AI for Geodesy
 
 #### **Work Experience**
 - 2023.7–Present, Postdoctoral Fellow, The Hong Kong Polytechnic University, Hong Kong, China
