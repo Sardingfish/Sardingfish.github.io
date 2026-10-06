@@ -15,6 +15,7 @@ The Hong Kong Polytechnic University, Hong Kong 999077, China
 
 Hi, I am a Postdoctoral Fellow at the Satellite Navigation Lab in [Department of Land Surveying and Geospatial Science (LSGS, formerly LSGI)](https://www.polyu.edu.hk/lsgs/) of [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), working with [Prof. Wu Chen](https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-chen-wu/). Previously, I finished my PhD at [Shanghai Astronomical Observatory (SHAO)](https://english.shao.ac.cn/), [Chinese Academy of Sciences (CAS)](https://english.cas.cn/), advised by [Prof. Junping Chen](http://www.shao.ac.cn/shao_gnss_ac), and my undergraduate degrees at [Chang'an University](https://en.chd.edu.cn/).
 
+#### **Research**
 I work on the atmosphere as seen through GNSS. The troposphere bends and delays every satellite signal on its way to a receiver: a nuisance for GNSS, but free information for meteorology. My work sits between the two: delay products precise enough for space geodesy, and the scientific application for weather and climate.
 
 Lately I have been focusing what AI foundation models can and cannot do here (AI4G). They forecast tropospheric delay surprisingly well, but their errors carry a spatial and seasonal structure nobody fully understands. GNSS is a good instrument for finding and reducing those errors, since it observes the atmosphere independently of the models' training data.
