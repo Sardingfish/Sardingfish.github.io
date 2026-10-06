@@ -15,15 +15,15 @@ The Hong Kong Polytechnic University, Hong Kong 999077, China
 
 Hi, I am a Postdoctoral Fellow at the Satellite Navigation Lab in [Department of Land Surveying and Geospatial Science (LSGS, formerly LSGI)](https://www.polyu.edu.hk/lsgs/) of [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), working with [Prof. Wu Chen](https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-chen-wu/). Previously, I finished my PhD at [Shanghai Astronomical Observatory (SHAO)](https://english.shao.ac.cn/), [Chinese Academy of Sciences (CAS)](https://english.cas.cn/), advised by [Prof. Junping Chen](http://www.shao.ac.cn/shao_gnss_ac), and my undergraduate degrees at [Chang'an University](https://en.chd.edu.cn/).
 
-I work on the atmosphere as seen through GNSS. The troposphere bends and delays every satellite signal on its way to a receiver: a nuisance for positioning and navigation, but free atmospheric information for meteorology. My work sits between the two: delay products precise enough for space geodesy, and the same deleys turned into variables for weather and climate.
+I work on the atmosphere as seen through GNSS. The troposphere bends and delays every satellite signal on its way to a receiver: a nuisance for GNSS, but free information for meteorology. My work sits between the two: delay products precise enough for space geodesy, and the scientific application for weather and climate.
 
-Lately I have been focusing what AI foundation models can and cannot do here. They forecast tropospheric delay surprisingly well, but their errors carry a spatial and seasonal structure nobody fully understands. GNSS is a good instrument for finding and reducing those errors, since it observes the atmosphere independently of the models' training data.
+Lately I have been focusing what AI foundation models can and cannot do here (AI4G). They forecast tropospheric delay surprisingly well, but their errors carry a spatial and seasonal structure nobody fully understands. GNSS is a good instrument for finding and reducing those errors, since it observes the atmosphere independently of the models' training data.
 
 The work falls into a few threads:
 - **trop modeling and products**: [downscaling](http://dingjunsheng.top/TropDS/web/), [vertical modelling](https://doi.org/10.1007/s00190-024-01845-2), [GNSS vs. NWM ray-tracing](https://doi.org/10.1007/s10291-022-01385-2);
-- **AI for geodesy**: [delay forecasting](http://dingjunsheng.top/TropAI/), [real-time retrieval](http://dingjunsheng.top/TropAI/rtGNSSPWV/), and [where weather models go wrong](http://dingjunsheng.top/TropAI/SpatioTempInhom/);
-- **water vapor and climate**: the [1994-2020 global GNSS PWV record](https://doi.org/10.3390/rs14143493), [trends](http://dx.doi.org/10.1007/978-981-19-2588-7_27), turbulence for rainfall
-- and **navigation & positioning**: PPP-RTK, [offshore NRTK](http://dx.doi.org/10.12716/1001.19.02.04), large-height-diff. trop modeling.
+- **foundation model for geodesy**: [delay forecasting](http://dingjunsheng.top/TropAI/), [real-time retrieval](http://dingjunsheng.top/TropAI/rtGNSSPWV/), [where weather models go wrong](http://dingjunsheng.top/TropAI/SpatioTempInhom/);
+- **water vapor and climate**: the [1994-2020 global GNSS PWV record](https://doi.org/10.3390/rs14143493), [trends](http://dx.doi.org/10.1007/978-981-19-2588-7_27), turbulence for rainfall;
+- **navigation & positioning**: PPP-RTK, [offshore NRTK](http://dx.doi.org/10.12716/1001.19.02.04), large-height difference trop modeling.
 
 #### **Education**
 - 2018–2023, PhD, Geodesy, University of Chinese Academy of Sciences, Beijing, China
