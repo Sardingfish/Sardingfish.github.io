@@ -7,13 +7,13 @@ type: page
 ---
 * content
 {:toc}
-**Dr. Junsheng DING** [[pdf](https://dingjunsheng.top/doc/CV_DingJS.pdf)]
+**Dr. Junsheng Ding** [[pdf](https://dingjunsheng.top/doc/CV_DingJS.pdf)]
 
 Postdoc@LSGS PolyU  
 The Hong Kong Polytechnic University, Hong Kong 999077, China  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sardingfish) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=nkItmXUAAAAJ&hl=en&oi=ao) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Junsheng_Ding) [![Home](https://img.shields.io/badge/Home-KK0000?style=flat-square&logo=homeadvisor&logoColor=white)](https://dingjunsheng.top/about/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:junsheng.ding@polyu.edu.hk) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:junshengding@yeah.net) 
 
-Hi, I am a Postdoctoral Fellow at the Satellite Navigation Lab in [Department of Land Surveying and Geospatial Science (LSGS, formerly LSGI)](https://www.polyu.edu.hk/lsgs/) of [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), working with [Prof. Wu CHEN](https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-chen-wu/). Previously, I finished my PhD at [Shanghai Astronomical Observatory (SHAO)](https://english.shao.ac.cn/), [Chinese Academy of Sciences (CAS)](https://english.cas.cn/), advised by [Prof. Junping CHEN](http://www.shao.ac.cn/shao_gnss_ac), and my undergraduate degrees at [Chang'an University](https://en.chd.edu.cn/).
+Hi, I am a Postdoctoral Fellow at the Satellite Navigation Lab in [Department of Land Surveying and Geospatial Science (LSGS, formerly LSGI)](https://www.polyu.edu.hk/lsgs/) of [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), working with [Prof. Wu Chen](https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-chen-wu/). Previously, I finished my PhD at [Shanghai Astronomical Observatory (SHAO)](https://english.shao.ac.cn/), [Chinese Academy of Sciences (CAS)](https://english.cas.cn/), advised by [Prof. Junping Chen](http://www.shao.ac.cn/shao_gnss_ac), and my undergraduate degrees at [Chang'an University](https://en.chd.edu.cn/).
 
 #### **Research**
 I work on the atmosphere as seen through GNSS. The troposphere bends and delays every satellite signal on its way to a receiver: a nuisance for GNSS, but free information for meteorology. My work sits between the two: delay products precise enough for space geodesy, and the scientific application for weather and climate. Representative projects include [TropDS](http://dingjunsheng.top/TropDS/web/), [TropAI](http://dingjunsheng.top/TropAI/), [TropVAE](http://dingjunsheng.top/TropVAE/), [rtPWV](http://dingjunsheng.top/TropAI/rtPWV/), and [MFHCM](https://github.com/Sardingfish/Mapping-Function-Height-Correction-Models).
@@ -40,7 +40,6 @@ The work falls into a few threads:
 #### **Projects**
 
 - Postdoc Matching Fund Scheme, *The Hong Kong Polytechnic University*.
-- Foundation model‑driven Beidou/GNSS Trop Reconstruction for Fast PPP‑AR Convergence  (participant)
 - Research Project on Enhancing High-Precision Positioning Network Capabilities (participant)
 - GNSS Kinematic Reference Stations with Chip Scale Atomic ClockAiding for Offshore Real-Time Kinematic (RTK) Positioning (participant)
 - PPP-RTK Regional Products Generation (participant)
@@ -182,7 +181,6 @@ The work falls into a few threads:
 -->
 <details> <summary>More</summary>
 <ul>
-    <li>Liu W, Zhang Y, Chen J, Yu C, <b>Ding J</b>, Song Z, Zhang C, Cheng Q (2026) Service area extension of PPP-B2b using clock bias prediction based on frequency stability and orbit age-extension. <i>Meas Sci Technol</i> 37. doi:<a href="https://doi.org/10.1088/1361-6501/aeb564" target="_blank">10.1088/1361-6501/aeb564</a>. </li>
     <li>Liu T, Chen W, Lu Z, Zhang W, Lu Y, Wang F, Sun M, Nie Y, <b>Ding J</b>, He Y, Chen B (2026) Accurate Ionospheric TEC prediction with a causal attention network at northern EIA crests. <i>JGR: Machine Learning and Computation</i> 3(3):e2025JH000994. doi:<a href="https://doi.org/10.1029/2025JH000994" target="_blank">10.1029/2025JH000994</a>. </li>
     <li>Liu T, Chen W, Mi X, Chen X, Yang Y <b>Ding J</b>, Liu T, Wang Y, Weng D (2026) Ionospheric nonlinear interpolation model for Mid- and Low-latitude network RTK during solar maxima. <i>GPS Solut</i> 30, 7. doi:<a href="https://doi.org/10.1007/s10291-025-01976-9" target="_blank">10.1007/s10291-025-01976-9</a>. </li>
     <li>Deng Y, Chen W, <b>Ding J</b>, El-Mowaf A, Weng D, Tang L, Bai L, Mi X (2025) Improving GNSS precise point positioning with tropospheric constraints from data-driven numerical weather prediction model. <i>Geo-Spat Inf Sci</i> 29(1):678–695. doi:<a href="https://doi.org/10.1080/10095020.2025.2513650" target="_blank">10.1080/10095020.2025.2513650</a>. </li>
@@ -204,7 +202,6 @@ The work falls into a few threads:
     <li><b>Ding J</b>, Chen J and Wang J (2020) Quality control method for ZTD modeling based on GNSS observation data. <i>J Astronaut</i> (CN) 41(9):1195–1203. doi:<a href="https://dx.doi.org/10.3873/j.issn.1000-1328.2020.09.010" target="_blank">10.3873/j.issn.1000–1328.2020.09.010</a></li>
 </ul>
 </details>
-
 
 
 
